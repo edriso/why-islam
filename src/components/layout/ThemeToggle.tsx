@@ -1,0 +1,21 @@
+import { Moon, Sun } from 'lucide-react'
+import { useLang } from '@/hooks/useLang'
+import { useTheme } from '@/hooks/useTheme'
+
+export function ThemeToggle() {
+  const { s } = useLang()
+  const { theme, toggleTheme } = useTheme()
+  const label = theme === 'dark' ? s.theme.toLight : s.theme.toDark
+
+  return (
+    <button
+      type="button"
+      onClick={toggleTheme}
+      aria-label={label}
+      title={label}
+      className="rounded-full p-2.5 text-ink-600 transition hover:bg-ink-100 hover:text-ink-900 dark:text-ink-400 dark:hover:bg-ink-800 dark:hover:text-ink-50"
+    >
+      {theme === 'dark' ? <Sun size={18} /> : <Moon size={18} />}
+    </button>
+  )
+}

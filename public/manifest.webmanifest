@@ -1,0 +1,31 @@
+{
+  "name": "لماذا الإسلام؟ · دليلٌ هادئ من السؤال إلى اليقين",
+  "short_name": "لماذا الإسلام؟",
+  "description": "دليلٌ مجّانيّ يجيب عن أسئلة الوجود الكبرى — هل للكون خالق؟ ولماذا الشرّ؟ وما الدليل على صدق محمّدٍ ﷺ؟ — بالعقل والقرآن، بالعربيّة والإنجليزيّة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#fbfaf7",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

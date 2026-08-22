@@ -1,0 +1,83 @@
+[
+  {
+    "id": "start",
+    "emoji": "🌅",
+    "title": { "ar": "البداية: الأسئلة الكبرى", "en": "The big questions" },
+    "description": {
+      "ar": "من أين جئنا؟ ولماذا نحن هنا؟ أسئلةٌ يطرحها كلّ إنسان، ولماذا لا يصحّ تجاهلها.",
+      "en": "Where did we come from, and why are we here? Questions every human asks — and why ignoring them is not an option."
+    }
+  },
+  {
+    "id": "creator",
+    "emoji": "🌌",
+    "title": { "ar": "هل لهذا الكون خالق؟", "en": "Does the universe have a Creator?" },
+    "description": {
+      "ar": "الحجّة من العقل والمشاهدة: ثلاثة احتمالاتٍ لا رابع لها، وكونٌ له بداية، وإتقانٌ لا تكتبه الصدفة.",
+      "en": "The case from reason and observation: three options with no fourth, a universe that began, and a precision no accident writes."
+    }
+  },
+  {
+    "id": "doubts",
+    "emoji": "⚖️",
+    "title": { "ar": "شبهاتٌ شائعة", "en": "Common objections" },
+    "description": {
+      "ar": "لماذا لا نراه؟ ولماذا الشرّ والألم؟ أقوى الاعتراضات في أقوى صورها، وجوابها بلا تهرُّب.",
+      "en": "Why can’t we see Him? Why suffering? The strongest objections in their strongest form, answered without dodging."
+    }
+  },
+  {
+    "id": "allah",
+    "emoji": "💛",
+    "title": { "ar": "من هو الله؟", "en": "Who is Allah?" },
+    "description": {
+      "ar": "واحدٌ أحد، رحمنٌ رحيم، خلقنا لغايةٍ لا عبثًا. هنا يتحوّل الدليل من الإثبات إلى التعريف.",
+      "en": "One, without partner; the Most Merciful; He created us for a purpose, not in vain. Here the guide turns from proving to introducing."
+    }
+  },
+  {
+    "id": "messengers",
+    "emoji": "📜",
+    "title": { "ar": "الرسل والرسالات", "en": "The messengers" },
+    "description": {
+      "ar": "لماذا نحتاج وحيًا فوق العقل، وكيف كانت رسالة الأنبياء جميعًا — من نوحٍ إلى موسى وعيسى — رسالةً واحدة.",
+      "en": "Why reason needs revelation to complete it, and how every prophet — from Nuh to Musa and ʿIsa — carried one and the same message."
+    }
+  },
+  {
+    "id": "why-islam",
+    "emoji": "🕌",
+    "title": { "ar": "لماذا الإسلام؟", "en": "Why Islam?" },
+    "description": {
+      "ar": "معايير الدين الصحيح مطبَّقةً بإنصاف: توحيدٌ خالص، ووحيٌ محفوظ، ورسالةٌ تُتمّ ما قبلها ولا تنقضه.",
+      "en": "The criteria of a true religion, applied fairly: pure monotheism, a preserved revelation, and a message that completes what came before it."
+    }
+  },
+  {
+    "id": "muhammad",
+    "emoji": "🕯️",
+    "title": { "ar": "محمّدٌ ﷺ رسول الله", "en": "Muhammad ﷺ, the Messenger of Allah" },
+    "description": {
+      "ar": "الصادق الأمين الذي لم يكسب من دعوته شيئًا، وعاتبه القرآن على الملأ، وأخبر بما لا يعلمه بشر.",
+      "en": "The truthful and trustworthy man who gained nothing from his call, whom the Qur’an corrected in public, and who told of what no human could know."
+    }
+  },
+  {
+    "id": "quran",
+    "emoji": "📖",
+    "title": { "ar": "القرآن معجزةٌ باقية", "en": "The Qur’an, a standing miracle" },
+    "description": {
+      "ar": "تحدٍّ لم يُجَب منذ أربعة عشر قرنًا، ونصٌّ بلا تناقض، محفوظٌ في الصدور قبل السطور.",
+      "en": "A challenge unanswered for fourteen centuries, a text without contradiction, preserved in hearts before pages."
+    }
+  },
+  {
+    "id": "road",
+    "emoji": "🛤️",
+    "title": { "ar": "الطريق من هنا", "en": "The road from here" },
+    "description": {
+      "ar": "ماذا يعني أن تكون مسلمًا، وكيف تكلّم ربّك بلا وسيط، وماذا تفعل بالأسئلة الباقية.",
+      "en": "What being a Muslim actually means, how you speak to your Lord with no intermediary, and what to do with the questions that remain."
+    }
+  }
+]
