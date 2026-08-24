@@ -77,7 +77,7 @@ note: 'The master rule of all obligation in this religion: nobody is asked for m
 As for the past you fear will chase you through the door, hear the story of ʿAmr ibn al-ʿAs — who had spent years fighting the Prophet ﷺ — on the day he came to pledge Islam, then pulled back his hand:
 
 ```hadith
-text: '… فقلت: ابسُط يمينك فلأبايعك. فبسط يمينه، فقبضتُ يدي. قال: ما لك يا عمرو؟ قلت: أردتُ أن أشترط. قال: تشترط بماذا؟ قلت: أن يُغفَر لي. قال: أما علمتَ أنّ الإسلام يهدِم ما كان قبله؟ …'
+text: '… فقلت: ابسُط يمينك فلأبايعك. فبسط يمينه — قال — فقبضتُ يدي. قال: ما لك يا عمرو؟ قال: قلتُ: أردتُ أن أشترط. قال: تشترط بماذا؟ قلت: أن يُغفَر لي. قال: أما علمتَ أنّ الإسلام يهدِم ما كان قبله؟ …'
 source: 'Sahih Muslim 121'
 url: 'https://sunnah.com/muslim:121'
 translation: '“I said: Stretch out your right hand so I may pledge to you. He stretched it out — and I withdrew mine. He said: What is it, ʿAmr? I said: I want to set a condition. He said: What condition? I said: That I be forgiven. He said: Did you not know that Islam demolishes all that came before it?”'

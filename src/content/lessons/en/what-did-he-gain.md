@@ -45,7 +45,7 @@ note: 'Armor was a warrior’s most valuable equipment; a saʿ is a grain measur
 ```
 
 ```hadith
-text: 'عن عروة عن عائشة رضي الله عنها أنها قالت: ابنَ أختي، إنْ كنّا لَننظر إلى الهلال ثلاثةَ أهلّةٍ في شهرين وما أُوقِدت في أبيات رسول الله ﷺ نار. فقلت: ما كان يُعيشكم؟ قالت: الأسودان، التمرُ والماء…'
+text: 'عن عروة عن عائشة رضي الله عنها أنها قالت لعروة: ابنَ أختي، إنْ كنّا لَننظر إلى الهلال ثلاثةَ أهلّةٍ في شهرين وما أُوقِدت في أبيات رسول الله ﷺ نار. فقلت: ما كان يُعيشكم؟ قالت: الأسودان، التمرُ والماء…'
 source: 'Sahih al-Bukhari 6459'
 url: 'https://sunnah.com/bukhari:6459'
 translation: 'Aisha told her nephew: “We would sight three new moons in two months without a fire being lit in the households of the Messenger of Allah ﷺ.” He asked: “What kept you alive?” She said: “The two black things — dates and water,” with milk the Ansar neighbors would gift.'

@@ -33,7 +33,7 @@ note: 'Ten years — and the servant was a boy, erring as boys err — without o
 And Aisha, who knew him in his privacy better than anyone, was asked about his character. Her answer compresses this entire unit:
 
 ```hadith
-text: 'قالت عائشة رضي الله عنها: ألستَ تقرأ القرآن؟ قال السائل: بلى. قالت: فإنّ خُلُق نبيِّ الله ﷺ كان القرآن.'
+text: 'ألستَ تقرأ القرآن؟ قلتُ: بلى. قالت: فإنّ خُلُق نبيِّ الله ﷺ كان القرآن.'
 source: 'Sahih Muslim 746'
 url: 'https://sunnah.com/muslim:746'
 translation: 'Aisha said to the questioner: “Do you not recite the Qur’an?” He said: “Of course.” She said: “The character of the Prophet of Allah ﷺ was the Qur’an.”'
@@ -45,7 +45,7 @@ note: 'Meaning: he was the living practice of what he recited to people — no g
 On the hardest day of his life — Aisha had asked him: was any day harder on you than Uhud? — he told the story of going out to Taif to present his message, and its rabble driving him off with stones until he bled. Then came an offer no human had ever been handed:
 
 ```hadith
-text: 'فناداني مَلَكُ الجبال، فسلّم عليّ ثم قال: يا محمد، ذلك فيما شئتَ، إن شئتَ أن أُطبِق عليهم الأخشبَين. فقال النبيّ ﷺ: بل أرجو أن يُخرج الله من أصلابهم من يعبد الله وحده لا يشرك به شيئًا.'
+text: 'فناداني مَلَكُ الجبال، فسلّم عليّ ثم قال: يا محمد، فقال: ذلك فيما شئتَ، إن شئتَ أن أُطبِق عليهم الأخشبَين. فقال النبيّ ﷺ: بل أرجو أن يُخرج الله من أصلابهم من يعبد الله وحده لا يشرك به شيئًا.'
 source: 'Sahih al-Bukhari 3231'
 url: 'https://sunnah.com/bukhari:3231'
 translation: '“…Then the Angel of the Mountains called me, greeted me, and said: O Muhammad, it is as you wish — if you wish, I will bring the two mountains down upon them. The Prophet ﷺ said: Rather, I hope Allah will bring out of their descendants people who worship Allah alone, associating nothing with Him.”'
