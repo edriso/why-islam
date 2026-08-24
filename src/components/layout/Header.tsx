@@ -19,7 +19,7 @@ function navClasses({ isActive }: { isActive: boolean }) {
 
 /**
  * The switch to the other language. It names its destination in that
- * language — «العربية» on English pages, “English” on Arabic ones — because the
+ * language («العربية» on English pages, “English” on Arabic ones) because the
  * reader it exists for is precisely the one who may not read the language the
  * rest of the header is in.
  */
@@ -32,10 +32,13 @@ function LanguageToggle() {
       lang={other}
       aria-label={s.a11y.switchLanguage}
       title={s.a11y.switchLanguage}
-      className="inline-flex items-center gap-1.5 rounded-full px-3 py-2 text-sm font-bold text-ink-600 transition hover:bg-ink-100 hover:text-ink-900 dark:text-ink-400 dark:hover:bg-ink-800 dark:hover:text-ink-50"
+      className="inline-flex items-center gap-1.5 rounded-full p-2 text-sm font-bold text-ink-600 transition hover:bg-ink-100 hover:text-ink-900 sm:px-3 sm:py-2 dark:text-ink-400 dark:hover:bg-ink-800 dark:hover:text-ink-50"
     >
       <Languages size={16} aria-hidden="true" />
-      {LANG_NAME[other]}
+      {/* The label is the affordance on wide screens; on a phone the header
+          cannot spare its width, and four hidden characters were the whole
+          difference between fitting 390px and pushing the page sideways. */}
+      <span className="hidden sm:inline">{LANG_NAME[other]}</span>
     </Link>
   )
 }
@@ -74,10 +77,10 @@ export function Header() {
       <div className="mx-auto flex max-w-4xl items-center justify-between gap-3 px-4 py-3">
         <Link
           to={p('/')}
-          className="flex shrink-0 items-center gap-2 font-extrabold text-ink-900 dark:text-ink-50"
+          className="flex min-w-0 items-center gap-2 font-extrabold text-ink-900 dark:text-ink-50"
         >
           <Logo className="size-8 text-accent-600 dark:text-accent-400" />
-          <span className="text-lg">{s.site.name}</span>
+          <span className="truncate text-lg">{s.site.name}</span>
         </Link>
 
         <nav aria-label={s.a11y.mainNav} className="hidden items-center gap-1 md:flex">
@@ -102,7 +105,7 @@ export function Header() {
             onClick={() => setOpen((value) => !value)}
             aria-expanded={open}
             aria-label={open ? s.a11y.closeMenu : s.a11y.openMenu}
-            className="rounded-full p-2.5 text-ink-600 transition hover:bg-ink-100 hover:text-ink-900 md:hidden dark:text-ink-400 dark:hover:bg-ink-800 dark:hover:text-ink-50"
+            className="rounded-full p-2 text-ink-600 transition hover:bg-ink-100 hover:text-ink-900 sm:p-2.5 md:hidden dark:text-ink-400 dark:hover:bg-ink-800 dark:hover:text-ink-50"
           >
             {open ? <X size={20} /> : <Menu size={20} />}
           </button>

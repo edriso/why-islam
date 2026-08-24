@@ -71,7 +71,7 @@ export function SettingsMenu() {
         {...(open ? { 'aria-controls': panelId } : {})}
         aria-label={s.settings.label}
         title={s.settings.label}
-        className="rounded-full p-2.5 text-ink-600 transition hover:bg-ink-100 hover:text-ink-900 dark:text-ink-400 dark:hover:bg-ink-800 dark:hover:text-ink-50"
+        className="rounded-full p-2 text-ink-600 sm:p-2.5 transition hover:bg-ink-100 hover:text-ink-900 dark:text-ink-400 dark:hover:bg-ink-800 dark:hover:text-ink-50"
       >
         <Settings2 size={18} />
       </button>
