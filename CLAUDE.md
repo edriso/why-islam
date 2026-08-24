@@ -47,7 +47,7 @@ Always run `npm run check` before pushing.
 
 Reference it (`ref: 52:35`) and the build inserts the exact text from the pinned
 Uthmani corpus. If a verse must appear in running prose, wrap it in `«…»` and the
-build checks it character by character — **including every haraka**, so an
+build checks it character by character, **including every haraka**, so an
 untashkeeled quotation fails on purpose. Guillemets are reserved for the mushaf;
 quote hadith and everything else with ordinary quotes. Deliberate departures go in
 `DELIBERATE` in `scripts/build-quran.mjs` with a reason; do not weaken the check.
@@ -59,12 +59,12 @@ quote hadith and everything else with ordinary quotes. Deliberate departures go 
   against the collection before commit. No weak narration however beloved.
 - **No weak إعجاز علمي claims.** A scientific fact may illustrate a verse; no
   argument may *rest* on a strained scientific reading of one.
-- **Tafsir claims cite tafsir** — al-Tabari, Ibn Kathir, al-Saʿdi, al-Muyassar.
+- **Tafsir claims cite tafsir**: al-Tabari, Ibn Kathir, al-Saʿdi, al-Muyassar.
 
 ### 3. Never present a contested point as settled
 
-Where qualified scholarship genuinely differs — evolution and the creation of Adam,
-dating details of the Rome prophecy, attributions of famous reports — the lesson
+Where qualified scholarship genuinely differs (evolution and the creation of Adam,
+dating details of the Rome prophecy, attributions of famous reports), the lesson
 names the positions and who holds them. Flattening a real disagreement is a defect
 even if the answer picked is the majority one. (Inherited from learn-tajweed, where
 the same rule governs tajweed's genuine disputes.)
@@ -88,7 +88,7 @@ Every lesson is `ar/<slug>.md` + `en/<slug>.md`; the build fails on a missing ha
 because the header's language switch must never 404. The Arabic file is canonical
 for `unit`/`order`/`minutes`/`emoji`; the English file carries only its own words,
 written as natural English, never translationese. English verse renderings are the
-author's explanation labeled "Meaning:", not a canonical translation — quran.com is
+author's explanation labeled "Meaning:", not a canonical translation; quran.com is
 linked for those.
 
 ### 7. Arabic typography has three hard rules
@@ -105,12 +105,19 @@ These are not preferences. Each one was a real bug before it was a rule.
   cannot reintroduce it.
 
 Related, and RTL/LTR-specific to this repo: prefer logical properties (`ps-`,
-`pe-`, `ms-`, `me-`, `start-`, `end-`, `text-start`, `border-e`) everywhere — the
-same components render both directions. Directional arrow icons must be chosen from
+`pe-`, `ms-`, `me-`, `start-`, `end-`, `text-start`, `border-e`) everywhere, because
+the same components render both directions. Directional arrow icons must be chosen from
 `dir` (see `Forward`/`Back` in Home and LessonPage). Large Arabic headings need an
 explicit `leading-*` because Tailwind's size utilities clamp line-height below what
-Arabic ascenders and hamzas need — the hero collided before `leading-[1.3]` fixed it.
+Arabic ascenders and hamzas need; the hero collided before `leading-[1.3]` fixed it.
 Qur'anic text and hadith text are always `lang="ar" dir="rtl"`, even on English pages.
+
+One punctuation rule covers both languages, site text and docs alike:
+
+- **Never use the em-dash (U+2014) in prose.** It reads machine-written, and this
+  text must read like a person wrote it. Break the sentence with commas, colons,
+  semicolons or parentheses, or restructure it; in Arabic, with «،» «؛» «:» or a
+  connective such as فـ and و.
 
 ### 8. Arabic character classes get `\uXXXX` escapes
 
@@ -131,7 +138,7 @@ a celebration for finishing a single lesson.** Inherited from learn-tajweed with
 evidence, which is *about religious learning* and applies here with more force, not
 less: gamification of sacred learning raised engagement without reaching learning
 (R² = 0.021), leaderboards were actively negative, and extrinsic rewards risk
-displacing the intrinsic motive — see the sources in learn-tajweed's CLAUDE.md
+displacing the intrinsic motive; see the sources in learn-tajweed's CLAUDE.md
 rule 7. A reader circling the biggest question of their life must not be drip-fed
 dopamine for it. Progress is **reported, not rewarded**, in three tiers:
 
@@ -139,7 +146,7 @@ dopamine for it. Progress is **reported, not rewarded**, in three tiers:
 | --- | --- | --- |
 | A lesson ticked | 30× | The button fills in; the progress bar appears. No animation. |
 | A unit finished | 9× | One line naming the unit, gold-bordered, fading in. |
-| The guide finished | 1× | `CompletionCard` with the burst, once — and it says plainly that the honest next steps cannot be read off a screen. |
+| The guide finished | 1× | `CompletionCard` with the burst, once, and it says plainly that the honest next steps cannot be read off a screen. |
 
 All three hang off `markedAt` in `LessonPage` (the slug ticked *on this page*), so
 nothing congratulates a reader for last week. One live region carries all three
@@ -150,15 +157,15 @@ announcements. Do not flatten the tiers, and do not promote tier one.
 Everything written for this repository is [0BSD](./LICENSE): no attribution, no
 conditions, deliberately. Do not add a licence header to a file, and do not add a
 credit-us line anywhere. Material this repository only redistributes (the Tanzil
-Qur'an text — CC BY 3.0, surah-name data, recitation audio, the OFL fonts) is
+Qur'an text under CC BY 3.0, surah-name data, recitation audio, the OFL fonts) is
 listed in [NOTICE](./NOTICE); if you bring in a new corpus, dataset, font or audio
 source, add it there in the same pass.
 
 ## Architecture
 
 The site is content-driven. Lessons are Markdown; React is the shell that renders
-them. The language is a **pure function of the URL** — Arabic at `/`, English under
-`/en/` — so there is no language provider, no stored preference, and no first-render
+them. The language is a **pure function of the URL** (Arabic at `/`, English under
+`/en/`), so there is no language provider, no stored preference, and no first-render
 race; a shared link opens in the language it was read in, and every prerendered
 route declares its own `lang`/`dir` plus `hreflang` alternates.
 
@@ -169,7 +176,7 @@ scripts/                  fetch, verify, generate, prerender, share card
 src/
   content/lessons/{ar,en}/*.md   THE CONTENT. One lesson = one pair, no code change.
   content/pages/{ar,en}/*.md     the summary sheet and the about page, same pairing
-  content/units.json      the nine units — JSON so the prerender reads the same file
+  content/units.json      the nine units (JSON so the prerender reads the same file)
   content/quran.generated.json   generated, never edit by hand
   content/lessons.index.json     generated, never edit by hand
   lib/i18n.ts             Lang, path helpers: langOfPath / pathFor / switchLangPath
@@ -178,7 +185,7 @@ src/
   lib/lesson-content.ts   the lesson bodies, both languages. Lazy routes only.
   lib/quran.ts            verse lookup over the generated JSON
   lib/glossary.ts         bilingual terms
-  hooks/useLang.ts        { lang, dir, s, p, l } — every component's one i18n door
+  hooks/useLang.ts        { lang, dir, s, p, l }: every component's one i18n door
   components/content/     the custom blocks (ayah, hadith, doubt, compare, quiz, callouts)
   components/layout/      header (with language switch), footer, settings, theme
   pages/                  Home, LessonPage, Practice, Cheatsheet, Glossary, About, …
@@ -187,16 +194,16 @@ src/
 Decisions worth keeping (several inherited from learn-tajweed, still load-bearing):
 
 - **Tailwind CSS v4, CSS-first.** Tokens live in the `@theme` block of
-  `src/index.css`. The accent is lapis blue — one hue number (262) recolours the
+  `src/index.css`. The accent is lapis blue; one hue number (262) recolours the
   site. Gold stays for the singular: ayah-card headers, the completion card.
 - **`lib/lessons.ts` (metadata) and `lib/lesson-content.ts` (bodies) are separate
   on purpose.** Anything that imports the bodies pulls **every lesson in both
   languages** into its chunk; only the lesson page and the practice page (via
   `lib/quiz.ts`) may.
-- **No address is hardcoded anywhere** — `site.config.mjs` derives it from
+- **No address is hardcoded anywhere**: `site.config.mjs` derives it from
   `GITHUB_REPOSITORY`, so a fork is correct with zero configuration; deviations are
   environment variables (`SITE_URL`, `SITE_CANONICAL`). The CI test is "what does a
-  fork with no settings do?" — the answer must be "the right thing, silently". The
+  fork with no settings do?", and the answer must be "the right thing, silently". The
   optional mirror job is gated on `vars.MIRROR_REPO` (the `secrets` context is not
   available in a job-level `if`).
 - **Deep links get a real 200.** `scripts/prerender-routes.mjs` writes every route
@@ -209,7 +216,7 @@ Decisions worth keeping (several inherited from learn-tajweed, still load-bearin
   `<html>`); smooth is opt-in per action where it can check
   `prefers-reduced-motion`. In-page jumps are `Link`s, never bare `<a href="#…">`.
   `<ScrollRestoration>` keys carry the path.
-- **When the code owns the scroll, `focus()` passes `preventScroll: true`** — the
+- **When the code owns the scroll, `focus()` passes `preventScroll: true`**: the
   back-to-top button and the route-change focus in `Layout` were both real bugs in
   the parent repo. The completion card scrolls itself into view with
   `block: 'nearest'` and no `focus()`.
@@ -217,15 +224,15 @@ Decisions worth keeping (several inherited from learn-tajweed, still load-bearin
   dead-chunk import and reloads once (sessionStorage-guarded). Never call
   `preventDefault()` on Vite's `vite:preloadError`.
 - **No backend, no accounts, no analytics.** Progress is `localStorage`
-  (`why-islam-progress`), language-independent — a lesson ticked in English is
+  (`why-islam-progress`), language-independent: a lesson ticked in English is
   ticked in Arabic. Export/import is a small JSON file; import is a **union**,
   unknown slugs dropped.
 
 ## Adding a lesson
 
 1. Add the slug to the plan in `docs/curriculum.md` (or take the next unwritten one).
-2. Write `src/content/lessons/ar/<slug>.md` — canonical frontmatter lives here.
-3. Write `src/content/lessons/en/<slug>.md` — its own natural-English words.
+2. Write `src/content/lessons/ar/<slug>.md`; canonical frontmatter lives here.
+3. Write `src/content/lessons/en/<slug>.md`, in its own natural-English words.
 4. `npm run check` verifies the pair, the order, the unit, every verse and every
    YAML block.
 
