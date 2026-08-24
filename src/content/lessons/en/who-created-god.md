@@ -80,7 +80,7 @@ questions:
       - Eternity is rationally impossible for anything
     answer: 0
     why: A First existent is unavoidable on any accounting; but a changing, time-bound thing with originated parts cannot be it — leaving an eternal, self-subsisting First distinct from the universe.
-  - q: What does the hadith “…until he says: who created your Lord?” demonstrate?
+  - q: 'What does the hadith “…until he says: who created your Lord?” demonstrate?'
     options:
       - A prediction, fourteen centuries early, that people would reach exactly this question — with its compulsive nature described and its remedy taught — and it happened as foretold
       - A general prohibition on thinking about the universe
