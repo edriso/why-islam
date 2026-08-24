@@ -8,9 +8,9 @@ import { cn } from '@/lib/utils'
 /**
  * Verse-by-verse recitation, streamed straight from everyayah.com.
  *
- * Which reciter plays comes from the settings menu; the default is الشيخ محمود
- * خليل الحصري murattal, the reference recording for teaching because every rule
- * is audible without the pace being unnatural.
+ * Which reciter plays comes from the settings menu; the default is الشيخ محمد
+ * صديق المنشاوي murattal, a calm and widely loved recitation that suits a first
+ * meeting with the Qur'an.
  *
  * Files are named by surah and ayah, both padded to three digits:
  *   https://everyayah.com/data/Husary_128kbps/002019.mp3  ->  al-Baqarah 2:19
@@ -77,7 +77,7 @@ export function AudioButton({ ayah, className }: { ayah: QuranAyah; className?: 
   /**
    * Changing `aria-label` on a button that already has focus is not reliably
    * re-announced, so the state is reported separately. Without this a reader who
-   * presses play and hits a network failure gets silence and no explanation —
+   * presses play and hits a network failure gets silence and no explanation;
    * the spinner and the greyed-out button are both purely visual.
    */
   const status =

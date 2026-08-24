@@ -16,14 +16,6 @@ export interface Reciter {
 
 export const RECITERS: readonly Reciter[] = [
   {
-    id: 'Husary_128kbps',
-    name: { ar: 'محمود خليل الحُصَري · مرتَّل', en: 'Mahmoud Khalil al-Husary · murattal' },
-    note: {
-      ar: 'التلاوة المرجعيّة في التعليم. متأنّيةٌ وواضحة.',
-      en: 'The reference recording for teaching: unhurried and clear.',
-    },
-  },
-  {
     id: 'Minshawy_Murattal_128kbps',
     name: { ar: 'محمّد صدّيق المنشاوي · مرتَّل', en: 'Mohamed Siddiq al-Minshawi · murattal' },
     note: {
@@ -32,11 +24,19 @@ export const RECITERS: readonly Reciter[] = [
     },
   },
   {
+    id: 'Husary_128kbps',
+    name: { ar: 'محمود خليل الحُصَري · مرتَّل', en: 'Mahmoud Khalil al-Husary · murattal' },
+    note: {
+      ar: 'التلاوة المرجعيّة في التعليم. متأنّيةٌ وواضحة.',
+      en: 'The reference recording for teaching: unhurried and clear.',
+    },
+  },
+  {
     id: 'Alafasy_128kbps',
     name: { ar: 'مشاري راشد العفاسي', en: 'Mishary Rashid Alafasy' },
     note: {
       ar: 'صوتٌ معاصرٌ واسع الانتشار، مناسبٌ لمن يسمع القرآن أوّل مرّة.',
-      en: 'A widely loved contemporary voice — a good first encounter with the Qur’an.',
+      en: 'A widely loved contemporary voice, and a good first encounter with the Qur’an.',
     },
   },
 ]
