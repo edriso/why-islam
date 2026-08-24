@@ -65,6 +65,27 @@ export const TERMS: readonly Term[] = [
     },
   },
   {
+    term: { ar: 'الآية', en: 'Ayah' },
+    definition: {
+      ar: 'في القرآن بمعنيين متلازمين: المقطع المرقَّم من السورة، والعلامة الدالّة على الله — في الكون والنفس. والقرآن يستعمل الكلمة نفسها للاثنين عمدًا: كلاهما يشير إلى صاحبه.',
+      en: 'In the Qur’an, two interlocked meanings: a numbered verse of a surah, and a sign pointing to Allah — in the cosmos and in ourselves. The Qur’an uses one word for both on purpose: each points to its Author.',
+    },
+  },
+  {
+    term: { ar: 'التفسير', en: 'Tafsir' },
+    definition: {
+      ar: 'علم بيان معاني القرآن بأدواته المنضبطة: القرآن يفسّر بعضه بعضًا، ثم السنّة، ثم فهم الصحابة واللغة. أشهر كتبه المعتمدة هنا: الطبريّ وابن كثير والسعديّ.',
+      en: 'The discipline of explaining the Qur’an by its established tools: the Qur’an explaining itself, then the Sunnah, then the first generation’s understanding and the language. The commentaries relied on here: al-Tabari, Ibn Kathir, al-Saʿdi.',
+    },
+  },
+  {
+    term: { ar: 'السيرة', en: 'Sirah' },
+    definition: {
+      ar: 'أخبار حياة النبيّ ﷺ المجموعة في كتبٍ كسيرة ابن هشام. أسانيدها أخفّ تحرّيًا من أسانيد الصحيحين، ولذلك يميّز هذا الدليل دائمًا بين «رواه البخاري» و«ذكره أهل السِّيَر».',
+      en: 'The accounts of the Prophet’s ﷺ life gathered in books like Ibn Hisham’s. Their chains are held to a lighter standard than the Sahih collections’, which is why this guide always distinguishes “narrated by al-Bukhari” from “related in the sirah books.”',
+    },
+  },
+  {
     term: { ar: 'الحديث', en: 'Hadith' },
     definition: {
       ar: 'ما نُقل عن النبيّ ﷺ من قولٍ أو فعلٍ أو إقرار، بأسانيدَ تُفحص رجالُها فحصًا دقيقًا. أصحّ دواوينه صحيحا البخاريّ ومسلم.',
