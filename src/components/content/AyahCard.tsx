@@ -124,7 +124,7 @@ export function AyahCard({ spec }: { spec: AyahSpec }) {
 
       {/* Always Arabic, whatever the page language: this is the verse itself. */}
       <p lang="ar" dir="rtl" className="quran px-5 py-6 text-center">
-        {isPartial && (
+        {from > 0 && (
           <span className="text-ink-400" aria-hidden="true">
             …{' '}
           </span>
@@ -140,7 +140,7 @@ export function AyahCard({ spec }: { spec: AyahSpec }) {
             {segment.marked ? <mark>{segment.text}</mark> : segment.text}
           </Fragment>
         ))}
-        {isPartial && (
+        {to < ayah.text.length && (
           <span className="text-ink-400" aria-hidden="true">
             {' '}
             …

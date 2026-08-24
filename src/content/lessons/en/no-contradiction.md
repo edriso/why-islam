@@ -66,7 +66,7 @@ A book revealed serially across twenty-three years on the rhythm of events, publ
 questions:
   - q: What does the tadabbur verse in Surat an-Nisa do that books normally never do?
     ref: 4:82
-    word: لوجدوا فيه اختلافا كثيرا
+    word: ولو كان من عند غير الله لوجدوا فيه اختلافا كثيرا
     options:
       - It states a testable hypothesis and invites the doubters themselves to run the test
       - It asks for belief first and understanding later

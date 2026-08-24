@@ -16,7 +16,20 @@ function QuestionText({ question }: { question: QuizQuestion }) {
   return (
     <p className="mb-3 rounded-xl bg-ink-100/70 px-4 py-3 text-center dark:bg-ink-800/50">
       <span lang="ar" dir="rtl" className="quran block">
+        {/* An ellipsis on whichever side the verse continues, so a fragment
+            never reads as if it were the whole verse. */}
+        {span[0] > 0 && (
+          <span className="text-ink-400" aria-hidden="true">
+            …{' '}
+          </span>
+        )}
         {ayah.text.slice(span[0], span[1])}
+        {span[1] < ayah.text.length && (
+          <span className="text-ink-400" aria-hidden="true">
+            {' '}
+            …
+          </span>
+        )}
       </span>
       <a
         href={quranComUrl(ayah)}

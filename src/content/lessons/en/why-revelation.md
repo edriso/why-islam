@@ -84,7 +84,7 @@ questions:
     why: Another’s will is not derived by logic; it is disclosed by the one who wills. Reason obliges gratitude but cannot supply its form except from the One being thanked.
   - q: On what does this verse make punishment conditional?
     ref: 17:15
-    word: وما كنا معذبين
+    word: وما كنا معذبين حتى نبعث رسولا
     options:
       - 'On sending a messenger first: no accounting before the case has actually reached people'
       - On the sheer quantity of sins, whether or not any message arrived

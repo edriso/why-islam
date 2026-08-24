@@ -71,7 +71,7 @@ Whatever questions remain are carried to two doors, never buried: the people of 
 questions:
   - q: What does a seeker of truth do with the questions that remain after reading the argument?
     ref: 16:43
-    word: أهل الذكر إن كنتم لا تعلمون
+    word: فسـٔلوا أهل الذكر إن كنتم لا تعلمون
     options:
       - Carry them to grounded scholars with a learner’s manners, and ask Allah for guidance, neither burying them nor letting them overturn a proven foundation
       - Treat them as proof that the established argument is false

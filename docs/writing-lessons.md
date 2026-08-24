@@ -121,6 +121,19 @@ resolve it prints the verse both with and without diacritics so you can copy the
 exact form. Every phrase must occur **exactly once** in the verse; if not, write a
 longer phrase.
 
+**A displayed fragment must stand on its own without misleading.** Quoting part
+of a verse is permitted — the Prophet ﷺ himself quoted parts of verses in his
+letters ([IslamWeb 106526](https://www.islamweb.net/ar/fatwa/106526/),
+[IslamQA 238948](https://islamqa.info/en/answers/238948)) — **provided the cut
+does not distort the meaning**, the classic counter-example being «فويل
+للمصلين» stopped before «الذين هم عن صلاتهم ساهون». So any phrase that is
+*displayed on its own* (`show:` here, `word:` in a quiz) must be a complete,
+non-misleading utterance: keep a condition with its consequence («وما كنا
+معذبين **حتى نبعث رسولا**»), a verb with its object, an answer with its
+question. The components add a muted «…» on whichever side the verse
+continues, so never type dots into the phrase itself. `highlight:` is exempt:
+it only colours words inside a fully displayed verse.
+
 Two spelling traps the resolver cannot absorb: a phrase mixing the two kinds of
 alef-madda (one word like «آياتنا», hamza+alef in the mushaf, next to one like
 «الآفاق», alef+madda-sign) will never match as one phrase, so split it; and «حتى» is

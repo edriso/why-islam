@@ -111,7 +111,7 @@ Run the challenge yourself tonight: look at the sky, then return your gaze, time
 questions:
   - q: What is the Qur’an’s method in presenting the case for a Creator, as seen in al-Ghashiyah and al-Mulk?
     ref: 88:17
-    word: أفلا ينظرون
+    word: أفلا ينظرون إلى الإبل كيف خلقت
     options:
       - It names observable exhibits, commands looking at them repeatedly, and dares the looker to find a flaw
       - It demands submission first and discourages questions
