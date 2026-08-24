@@ -366,12 +366,12 @@ for (const path of sourceFiles) {
     try {
       parse(body)
     } catch (error) {
-      fail(`${where}: بلوك \`${kind}\` لا يُقرأ كـ YAML — ${error.message}${yamlHint(error.message)}`)
+      fail(`${where}: بلوك \`${kind}\` لا يُقرأ كـ YAML: ${error.message}${yamlHint(error.message)}`)
     }
   }
 
   // Lesson frontmatter has to parse, or the page goes blank at runtime. Its
-  // completeness — required fields, unique order, real unit, the ar/en pair —
+  // completeness (required fields, unique order, real unit, the ar/en pair)
   // is checked by scripts/build-lesson-index.mjs, which owns that contract.
   if (where.startsWith('src/content/lessons/')) {
     const front = raw.match(FRONTMATTER)
@@ -382,7 +382,7 @@ for (const path of sourceFiles) {
     try {
       parse(front[1])
     } catch (error) {
-      fail(`${where}: الـ frontmatter لا يُقرأ كـ YAML — ${error.message}${yamlHint(error.message)}`)
+      fail(`${where}: الـ frontmatter لا يُقرأ كـ YAML: ${error.message}${yamlHint(error.message)}`)
       continue
     }
   }
@@ -398,7 +398,7 @@ for (const path of sourceFiles) {
       const hint = /Nested mappings|implicit map key|multiline plain value/.test(error.message)
         ? '\n      غالبًا السبب نقطتان «:» داخل نصٍّ عربيّ. ضَع القيمة بين علامتَي تنصيصٍ مفردة: \'…\''
         : ''
-      fail(`${where}: بلوك \`${kind}\` فيه خطأٌ في صيغة YAML — ${error.message}${hint}`)
+      fail(`${where}: بلوك \`${kind}\` فيه خطأٌ في صيغة YAML: ${error.message}${hint}`)
       continue
     }
     if (!spec) continue
@@ -469,7 +469,7 @@ for (const ref of [...wanted.keys()].sort()) {
 
   for (const phrase of wanted.get(ref)) {
     const found = locate(text, phrase)
-    if (typeof found === 'string') fail(`${ref} — ${found}`)
+    if (typeof found === 'string') fail(`${ref}: ${found}`)
     else spans[`${ref}|${phrase}`] = found
   }
 }
@@ -532,7 +532,7 @@ function quotationProblem(inner) {
 
   const tidy = (s) => s.normalize('NFC').replace(OPTIONAL_MARKS, '').replace(/\s+/g, ' ').trim()
 
-  // A phrase can occur in several verses that spell it differently — «هُمْ فِيهَا
+  // A phrase can occur in several verses that spell it differently: «هُمْ فِيهَا
   // خَالِدُونَ» is 2:39 and «هُمْ فِيهَآ خَـٰلِدُونَ» is 2:25. Matching ANY of them is
   // enough; only report when the writing matches none.
   const candidates = []
@@ -601,7 +601,7 @@ for (const path of sourceFiles) {
   const where = relative(ROOT, path)
 
   // The verse text of a ref block is resolved from the corpus and already
-  // exact. Its prose fields — note, q, why, wrong, right — are hand-written and
+  // exact. Its prose fields (note, q, why, wrong, right) are hand-written and
   // reach the reader, so they are checked like any other prose.
   const prose = raw.replace(
     /```(ayah|quiz)\r?\n([\s\S]*?)```/g,
@@ -666,6 +666,6 @@ const payload = { source: SOURCE_NOTE, ayat, spans }
 await writeFile(OUTPUT, `${JSON.stringify(payload, null, 2)}\n`)
 
 console.log(
-  `✓ src/content/quran.generated.json — ${Object.keys(ayat).length} verses, ` +
+  `✓ src/content/quran.generated.json: ${Object.keys(ayat).length} verses, ` +
     `${Object.keys(spans).length} resolved spans, all matching the mushaf.`,
 )

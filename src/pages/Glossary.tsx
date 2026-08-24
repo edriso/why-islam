@@ -77,7 +77,7 @@ export function Glossary() {
                 {l(entry.term)}
               </dt>
               {/* No `leading-relaxed` here: some definitions quote a verse in
-                  «…», and 1.625 is below Cairo's own `normal` of 1.874 — the
+                  «…», and 1.625 is below Cairo's own `normal` of 1.874, the
                   one place Qur'anic text would sit under a tightened line box. */}
               <dd className="mt-1.5 text-ink-600 dark:text-ink-400">
                 {l(entry.definition)}

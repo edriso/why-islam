@@ -2,7 +2,7 @@ import { Check, MessageCircleQuestion } from 'lucide-react'
 import { useLang } from '@/hooks/useLang'
 
 export interface DoubtSpec {
-  /** The objection, stated in its strongest form — see docs/writing-lessons.md. */
+  /** The objection, stated in its strongest form; see docs/writing-lessons.md. */
   claim: string
   /** The answer, in a paragraph or two. */
   answer: string

@@ -19,7 +19,7 @@ export const LANGS: readonly Lang[] = ['ar', 'en']
 
 export const DIR: Record<Lang, 'rtl' | 'ltr'> = { ar: 'rtl', en: 'ltr' }
 
-/** Endonym of each language, shown on the switcher — never translated. */
+/** Endonym of each language, shown on the switcher, never translated. */
 export const LANG_NAME: Record<Lang, string> = { ar: 'العربية', en: 'English' }
 
 /** The language a router pathname (without the Vite base) is in. */

@@ -36,7 +36,7 @@ export interface LessonWords {
  * One lesson, two languages: the structural fields (unit, order, minutes,
  * emoji) exist once, taken from the Arabic file, which is canonical; the words
  * exist per language. The bodies live in src/lib/lesson-content.ts, imported
- * only by the routes that actually render them — see that file for why.
+ * only by the routes that actually render them; see that file for why.
  */
 export interface Lesson extends Localized<LessonWords> {
   /** URL segment, taken from the file name: from-nothing.md → "from-nothing" */

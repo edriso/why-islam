@@ -17,7 +17,7 @@
   --font-quran: 'Amiri Quran', 'Cairo Variable', serif;
 
   /* ---------------------------------------------------------------------
-     Brand accent. Deep lapis blue, the blue of manuscript illumination —
+     Brand accent. Deep lapis blue, the blue of manuscript illumination,
      which is also why the gold below sits so naturally beside it. Calm and
      serious rather than neon. Change the hue (262) here to re-colour the
      whole site.
@@ -73,8 +73,8 @@
 
   /* Arabic is a joined script. Positive tracking breaks the connecting stroke
      between letters, and negative tracking pushes the i'jam dots of ب ت ث and
-     ج ح خ into each other. Half of this site is Arabic — including every verse
-     it quotes — so zeroing the scale makes every `tracking-*` utility a no-op
+     ج ح خ into each other. Half of this site is Arabic, including every verse
+     it quotes, so zeroing the scale makes every `tracking-*` utility a no-op
      rather than a silent regression. Latin text loses nothing it needed.
      https://www.w3.org/International/track/issues/333 */
   --tracking-tighter: 0em;
@@ -96,7 +96,7 @@
    * There is deliberately no `scroll-behavior: smooth` on <html>.
    *
    * It applies to every scroll the document makes, including the one the router
-   * performs on a route change — and that one is `window.scrollTo(0, y)`, which
+   * performs on a route change, and that one is `window.scrollTo(0, y)`, which
    * obeys this property. The new page rendered first and the viewport then slid
    * up to it over about eight hundred milliseconds, so a reader who opened a
    * lesson from halfway down the curriculum watched the middle of that lesson
@@ -237,7 +237,7 @@
 
   /*
    * A highlighted stretch of a verse: the words the lesson is pointing at.
-   * One neutral emphasis — the accent colour — rather than a palette: this
+   * One neutral emphasis (the accent colour) rather than a palette: this
    * site highlights to say «look here», never to encode a classification, so
    * one colour is the whole vocabulary. The lesson's prose always names what
    * it is pointing at, so the page still works without colour.
@@ -496,7 +496,7 @@
      Every keyframe below ends on the frame that should survive
      `prefers-reduced-motion`. The global rule at the bottom of this file
      collapses each duration to 0.001ms, so an animation snaps straight to
-     its last frame — which means the badge lands settled and upright, and
+     its last frame, which means the badge lands settled and upright, and
      the halo and flecks land at `opacity: 0` and are simply never seen. That
      is the whole reduced-motion handling; there is no second code path to
      keep in step with this one.
@@ -510,7 +510,7 @@
   }
 
   /*
-   * A unit finished — the middle tier, and eleven times over, so it fades in and
+   * A unit finished: the middle tier, and eleven times over, so it fades in and
    * does nothing else. Ends on the visible frame, so reduced motion keeps the
    * line and drops only the movement.
    */
@@ -590,7 +590,7 @@
  * The far end is capped at 3.4rem for the other side of the same problem. The
  * card's padding puts the badge's centre 3.5rem from the card's top edge, so a
  * fleck thrown further than that leaves the card and lands on whatever sits
- * above it — on the lesson page, the mark-as-done button.
+ * above it: on the lesson page, the mark-as-done button.
  */
 @keyframes khatm-fleck {
   0% {

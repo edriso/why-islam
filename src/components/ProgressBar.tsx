@@ -4,7 +4,7 @@ import { useLang } from '@/hooks/useLang'
  * How far through the curriculum the reader is.
  *
  * Two callers: the home page, above the units, and the foot of a lesson once it
- * has been ticked. It reports and nothing else — no streak, no score, no badge,
+ * has been ticked. It reports and nothing else: no streak, no score, no badge,
  * and that restraint is a decision with evidence behind it rather than an
  * unfinished feature. Before adding any of those three, read the «No reward
  * mechanics» rule in CLAUDE.md.

@@ -10,8 +10,8 @@ export interface CompareSpec {
 }
 
 /**
- * Two or three positions side by side — a worldview against a worldview, an
- * objection against its answer — so the difference is visible in one glance
+ * Two or three positions side by side (a worldview against a worldview, an
+ * objection against its answer) so the difference is visible in one glance
  * instead of buried in prose.
  */
 export function Compare({ spec }: { spec: CompareSpec }) {

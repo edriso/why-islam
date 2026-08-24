@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Renders public/og.png — the card that WhatsApp, Telegram and X show when
+ * Renders public/og.png: the card that WhatsApp, Telegram and X show when
  * somebody shares a link to the site.
  *
  * This is a separate, on-demand script rather than part of `npm run build`,
@@ -12,7 +12,7 @@
  * The card carries one verse. It is NOT typed here: it is sliced out of the
  * same pinned Uthmani corpus the lessons use, for the same reason lessons may
  * not type one. Writing «وَرَتِّلِ...» by hand into this file produced a shadda
- * and a kasra in the opposite order from the mushaf — visually identical, two
+ * and a kasra in the opposite order from the mushaf: visually identical, two
  * codepoints transposed. That is precisely the error this pipeline exists to
  * make impossible, and a link preview is seen by far more people than a lesson.
  */
@@ -28,7 +28,7 @@ import { CORPUS, CORPUS_SHA256 } from './corpus.mjs'
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const OUT = resolve(ROOT, 'public/og.png')
 
-/** At-Tur 52:35 — the site's central verse. The card shows all of it. */
+/** At-Tur 52:35, the site's central verse. The card shows all of it. */
 const AYAH = { surah: '52', ayah: '35' }
 
 const CHROME =
@@ -103,7 +103,7 @@ h1 .accent{color:#2d4f96}
 /*
  * The card is committed to the repository and shown to everyone who shares a
  * link, and it has the site's address printed on it. Outside CI there is no
- * published address to read, so site.config.mjs falls back to localhost —
+ * published address to read, so site.config.mjs falls back to localhost,
  * which would be baked into the PNG and quietly shipped. Ask for the real one.
  */
 if (IS_LOCAL) {
@@ -149,7 +149,7 @@ const exit = await shoot(page, OUT, 1200, 630)
 /*
  * PNG icons alongside favicon.svg. Google's favicon documentation does not list
  * SVG among the formats it states support for, and iOS "add to home screen"
- * screenshots the page when there is no apple-touch-icon — which for a study
+ * screenshots the page when there is no apple-touch-icon, which for a study
  * tool that keeps progress in localStorage is exactly the wrong first
  * impression. Both are rendered from the same SVG so they cannot drift.
  */
@@ -184,6 +184,6 @@ if (exit !== 0 || iconExit !== 0) {
 }
 
 console.log(
-  `✓ public/og.png — البطاقة جاهزة، والآية منسوخة من المصحف المثبَّت (${AYAH.surah}:${AYAH.ayah}).\n` +
-    `✓ public/icon-192.png، icon-512.png، apple-touch-icon.png — من نفس الأيقونة.`,
+  `✓ public/og.png: البطاقة جاهزة، والآية منسوخة من المصحف المثبَّت (${AYAH.surah}:${AYAH.ayah}).\n` +
+    `✓ public/icon-192.png، icon-512.png، apple-touch-icon.png: من نفس الأيقونة.`,
 )

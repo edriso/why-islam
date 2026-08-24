@@ -49,7 +49,7 @@ export const TERMS: readonly Term[] = [
     term: { ar: 'الوحي', en: 'Wahy (revelation)' },
     definition: {
       ar: 'إعلام الله لرسله بما يريد إبلاغه للناس، بواسطة المَلَك جبريل عليه السلام أو بغير ذلك ممّا صحّ به الخبر.',
-      en: 'Allah’s communication to His messengers of what He wills to reach people — through the angel Jibril (Gabriel) or the other channels the sources report.',
+      en: 'Allah’s communication to His messengers of what He wills to reach people, through the angel Jibril (Gabriel) or the other channels the sources report.',
     },
     lesson: 'why-revelation',
   },
@@ -57,7 +57,7 @@ export const TERMS: readonly Term[] = [
     term: { ar: 'النبيّ والرسول', en: 'Prophet and Messenger' },
     definition: {
       ar: 'النبيّ من أوحى الله إليه، والرسول من أُمر مع ذلك بالبلاغ إلى قومٍ أو إلى الناس كافّة. وكلّ رسولٍ نبيّ ولا عكس، على المشهور.',
-      en: 'A prophet (nabi) receives revelation; a messenger (rasul) is additionally charged with delivering it to a people. Every messenger is a prophet, not the reverse — on the better-known account.',
+      en: 'A prophet (nabi) receives revelation; a messenger (rasul) is additionally charged with delivering it to a people. Every messenger is a prophet, not the reverse, on the better-known account.',
     },
     lesson: 'one-message',
   },
@@ -72,8 +72,8 @@ export const TERMS: readonly Term[] = [
   {
     term: { ar: 'الآية', en: 'Ayah' },
     definition: {
-      ar: 'في القرآن بمعنيين متلازمين: المقطع المرقَّم من السورة، والعلامة الدالّة على الله — في الكون والنفس. والقرآن يستعمل الكلمة نفسها للاثنين عمدًا: كلاهما يشير إلى صاحبه.',
-      en: 'In the Qur’an, two interlocked meanings: a numbered verse of a surah, and a sign pointing to Allah — in the cosmos and in ourselves. The Qur’an uses one word for both on purpose: each points to its Author.',
+      ar: 'في القرآن بمعنيين متلازمين: المقطع المرقَّم من السورة، والعلامة الدالّة على الله في الكون والنفس. والقرآن يستعمل الكلمة نفسها للاثنين عمدًا: كلاهما يشير إلى صاحبه.',
+      en: 'In the Qur’an, two interlocked meanings: a numbered verse of a surah, and a sign pointing to Allah, in the cosmos and in ourselves. The Qur’an uses one word for both on purpose: each points to its Author.',
     },
     lesson: 'design',
   },
@@ -110,7 +110,7 @@ export const TERMS: readonly Term[] = [
     term: { ar: 'التواتر', en: 'Tawatur (mass transmission)' },
     definition: {
       ar: 'نقل جمعٍ يستحيل تواطؤهم على الكذب عن جمعٍ مثلهم، جيلًا عن جيل. وبه وصلنا القرآن: حفظًا وكتابةً معًا.',
-      en: 'Transmission by numbers so large, in every generation, that collusion on a lie is impossible. This is how the Qur’an reached us — memorized and written, together.',
+      en: 'Transmission by numbers so large, in every generation, that collusion on a lie is impossible. This is how the Qur’an reached us: memorized and written, together.',
     },
     lesson: 'preserved',
   },
@@ -118,7 +118,7 @@ export const TERMS: readonly Term[] = [
     term: { ar: 'الإعجاز', en: 'Iʿjaz (inimitability)' },
     definition: {
       ar: 'عجز الخلق عن الإتيان بمثل القرآن مع قيام التحدّي ودوامه. أظهر وجوهه بلاغته ونظمه، وثباتُ التحدّي أربعة عشر قرنًا.',
-      en: 'The demonstrated inability of anyone to produce the like of the Qur’an while its open challenge stands. Its clearest face is the language itself — and fourteen unanswered centuries.',
+      en: 'The demonstrated inability of anyone to produce the like of the Qur’an while its open challenge stands. Its clearest face is the language itself, and fourteen unanswered centuries.',
     },
     lesson: 'the-challenge',
   },
@@ -126,7 +126,7 @@ export const TERMS: readonly Term[] = [
     term: { ar: 'الشهادتان', en: 'The Shahadah' },
     definition: {
       ar: 'قول: أشهد أن لا إله إلا الله وأشهد أنّ محمّدًا رسول الله، بيقين القلب. بها يدخل الإنسان في الإسلام، بلا وسيطٍ ولا مراسم.',
-      en: 'The testimony — “I bear witness that there is no god but Allah, and that Muhammad is the Messenger of Allah” — said with conviction. It is the whole entry into Islam: no intermediary, no ceremony.',
+      en: 'The testimony, “I bear witness that there is no god but Allah, and that Muhammad is the Messenger of Allah”, said with conviction. It is the whole entry into Islam: no intermediary, no ceremony.',
     },
     lesson: 'becoming-muslim',
   },

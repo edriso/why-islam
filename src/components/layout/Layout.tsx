@@ -35,7 +35,7 @@ export function Layout() {
    * way a full page load would. Skipped on first render so the entry point is
    * not stolen from the browser.
    *
-   * `preventScroll` because this moves focus and nothing else — the viewport
+   * `preventScroll` because this moves focus and nothing else: the viewport
    * belongs to <ScrollRestoration> below. Without it, focus() also scrolls the
    * element into view, and <main> is nearly as tall as the document, so from
    * the footer that scroll lands most of the way up the page. Today that is
@@ -83,8 +83,8 @@ export function Layout() {
        * Saved positions live in sessionStorage, so they outlive the document,
        * and the first history entry of *every* document is keyed "default". A
        * reader who scrolled the curriculum and opened a lesson left 2600px
-       * saved under "default"; the next full page load — a shared deep link, a
-       * refresh, or the reload our stale-build boundary performs — read the
+       * saved under "default"; the next full page load (a shared deep link, a
+       * refresh, or the reload our stale-build boundary performs) read the
        * same key and dropped them into the middle of a page they had never
        * scrolled. Every cold load did it, on every route.
        *

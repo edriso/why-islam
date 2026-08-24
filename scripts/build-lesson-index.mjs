@@ -48,7 +48,7 @@ async function readMeta(lang, file) {
   try {
     return parse(match[1])
   } catch (error) {
-    console.error(`✗ ${lang}/${file}: broken YAML frontmatter — ${error.message}`)
+    console.error(`✗ ${lang}/${file}: broken YAML frontmatter: ${error.message}`)
     console.error('  (An Arabic sentence containing «:» must be wrapped in single quotes.)')
     process.exit(1)
   }
@@ -69,7 +69,7 @@ const missingAr = enSlugs.filter((slug) => !arSlugs.includes(slug))
 if (missingEn.length || missingAr.length) {
   for (const slug of missingEn) console.error(`✗ ${slug}: exists in ar/ but not in en/.`)
   for (const slug of missingAr) console.error(`✗ ${slug}: exists in en/ but not in ar/.`)
-  console.error('  Every lesson is a pair — the language switch on a lesson page must never 404.')
+  console.error('  Every lesson is a pair: the language switch on a lesson page must never 404.')
   process.exit(1)
 }
 
@@ -99,13 +99,13 @@ for (const slug of arSlugs) {
     if (en[field] !== undefined) {
       console.error(
         `✗ en/${slug}.md declares «${field}», which belongs to the Arabic file alone. ` +
-          `Remove it there — two declarations is two places to disagree.`,
+          `Remove it there; two declarations is two places to disagree.`,
       )
       process.exit(1)
     }
   }
   if (!UNITS.has(ar.unit)) {
-    console.error(`✗ ar/${slug}.md: unknown unit «${ar.unit}» — see src/content/units.json.`)
+    console.error(`✗ ar/${slug}.md: unknown unit «${ar.unit}»; see src/content/units.json.`)
     process.exit(1)
   }
   if (orders.has(ar.order)) {
@@ -137,4 +137,4 @@ for (const slug of arSlugs) {
 index.sort((a, b) => a.order - b.order)
 await writeFile(OUT, `${JSON.stringify(index, null, 2)}\n`, 'utf8')
 
-console.log(`✓ src/content/lessons.index.json — ${index.length} lessons × 2 languages (metadata only).`)
+console.log(`✓ src/content/lessons.index.json: ${index.length} lessons × 2 languages (metadata only).`)

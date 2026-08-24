@@ -39,7 +39,7 @@ function readCodeBlock(children: ReactNode): { lang?: string; source: string } |
 
 /**
  * The overrides that must apply to author-written Markdown wherever it is
- * rendered — including inside a callout body, which gets its own nested
+ * rendered, including inside a callout body, which gets its own nested
  * renderer. They live at module level precisely so that nested instance can be
  * handed the same set: when it was not, a table written inside a ```tip fence
  * came out as a bare <table> with no scroll wrapper and spilled straight out of

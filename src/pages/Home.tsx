@@ -23,7 +23,7 @@ export function Home() {
 
   /*
    * Three states, not two. A reader who has finished everything has no «where
-   * they stopped» to be taken back to, and `nextLesson` is undefined — so the
+   * they stopped» to be taken back to, and `nextLesson` is undefined, so the
    * button would keep promising to continue and then quietly drop them at
    * lesson one. Restarting is a fine thing for it to offer; saying so is the
    * part that matters.
@@ -72,7 +72,7 @@ export function Home() {
       </section>
 
       {/* At 100% the bar has nothing left to say, so the completion card takes
-          its place — and keeps it, for as long as progress stays there. The
+          its place, and keeps it, for as long as progress stays there. The
           burst is not played here: it belongs to the moment of ticking the last
           lesson, on the lesson page. */}
       {finished ? (
@@ -119,7 +119,7 @@ export function Home() {
         {/* Nine units make a long page, so let readers jump straight to one.
             These must be `Link`s, not plain `<a href="#…">`. A bare fragment
             link is a navigation the browser performs itself, and the history
-            entry it creates carries none of the router's state — so the router
+            entry it creates carries none of the router's state, so the router
             reads it as a return to the entry the page was opened on and
             restores that entry's saved scroll position, cancelling the jump.
             A `Link` pushes a location the router owns, and its scroll
@@ -147,7 +147,7 @@ export function Home() {
 
             // No `scroll-mt` on the <li>: `html` already sets
             // `scroll-padding-top` to clear the sticky header, and the two add
-            // up — the unit landed a hand's width down, with nothing above it.
+            // up; the unit landed a hand's width down, with nothing above it.
             return (
               <li key={unit.id} id={`unit-${unit.id}`}>
                 <div className="flex items-start gap-3">

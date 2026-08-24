@@ -8,7 +8,7 @@ import { cn } from '@/lib/utils'
 export type CalloutKind = 'rule' | 'tip' | 'note' | 'warning'
 
 const STYLES: Record<CalloutKind, { icon: LucideIcon; box: string; head: string }> = {
-  // `rule` is the crisp statement of the lesson's argument — the one paragraph
+  // `rule` is the crisp statement of the lesson's argument: the one paragraph
   // to remember if the reader remembers nothing else.
   rule: {
     icon: BookMarked,

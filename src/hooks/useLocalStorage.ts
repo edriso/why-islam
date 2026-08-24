@@ -17,7 +17,7 @@ interface SameTabDetail {
 }
 
 /**
- * State that survives a refresh and stays in sync across tabs — and, through
+ * State that survives a refresh and stays in sync across tabs, and, through
  * the event above, across components inside one tab.
  *
  * Every read and write is wrapped in try/catch: localStorage throws in private

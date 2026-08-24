@@ -8,7 +8,7 @@ import type { Localized } from './i18n'
  * from reason and observation alone; unit 4 introduces who He is; units 5–6
  * establish why revelation, and why this one; units 7–8 are the case for the
  * messenger and the Book; unit 9 is what to do about all of it. Each unit
- * assumes only what the ones before it established — see docs/curriculum.md.
+ * assumes only what the ones before it established; see docs/curriculum.md.
  *
  * The data lives in src/content/units.json rather than in this file because
  * scripts/prerender-routes.mjs needs the same titles for breadcrumbs and page

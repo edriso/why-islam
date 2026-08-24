@@ -4,7 +4,7 @@ import type { Lang } from './i18n'
  * Every interface string on the site, in both languages.
  *
  * Lesson content lives in Markdown and is written per language; this file is
- * only the chrome around it — navigation, buttons, labels, announcements. If a
+ * only the chrome around it: navigation, buttons, labels, announcements. If a
  * string appears in a component, it comes from here, so adding a language is
  * filling in one more object rather than hunting through the tree.
  *
@@ -19,7 +19,7 @@ function arabicDigits(value: number | string): string {
   return String(value).replace(/\d/g, (digit) => ARABIC_DIGITS[Number(digit)])
 }
 
-/** «٣ دروس» / «درسان» / «درس» — the four Arabic count forms. */
+/** «٣ دروس» / «درسان» / «درس»: the four Arabic count forms. */
 function arCount(n: number, [one, two, few, many]: [string, string, string, string]) {
   if (n === 1) return one
   if (n === 2) return two
@@ -477,7 +477,7 @@ const en: Strings = {
     title: 'Why Islam?',
     titleAccent: 'From question to certainty',
     intro:
-      'Does the universe have a Creator? Why can’t we see Him? Why is there suffering? And how do we know Muhammad ﷺ didn’t simply invent all of this? This guide doesn’t scold your questions — it takes them seriously: thirty lessons that walk from question to answer, one step at a time.',
+      'Does the universe have a Creator? Why can’t we see Him? Why is there suffering? And how do we know Muhammad ﷺ didn’t simply invent all of this? This guide doesn’t scold your questions; it takes them seriously: thirty lessons that walk from question to answer, one step at a time.',
     ctaStart: 'Start the first lesson',
     ctaContinue: 'Continue where you stopped',
     ctaRestart: 'Read again from lesson one',
@@ -515,15 +515,15 @@ const en: Strings = {
     goDeeper: 'Go deeper',
     markDone: 'Mark as done',
     markedDone: 'You finished this lesson',
-    savedLocally: 'Your progress is saved on this device only — no account, no server.',
+    savedLocally: 'Your progress is saved on this device only: no account, no server.',
     prevLesson: 'Previous lesson',
     nextLesson: 'Next lesson',
     lessonNav: 'Lesson navigation',
     announceDone: (completed, total) =>
       `Lesson marked as done. You have finished ${completed} of ${total}.`,
     announceUnitDone: (unit) =>
-      `Lesson marked as done — and with it you finished the whole unit: ${unit}.`,
-    announceGuideDone: 'Lesson marked as done — and with it you finished the entire guide.',
+      `Lesson marked as done, and with it you finished the whole unit: ${unit}.`,
+    announceGuideDone: 'Lesson marked as done, and with it you finished the entire guide.',
     unitDoneLine: (unit) => `With this you finished the whole unit: ${unit}.`,
   },
 
@@ -534,7 +534,7 @@ const en: Strings = {
   },
 
   completion: {
-    title: 'You finished the guide — all praise belongs to Allah',
+    title: 'You finished the guide, and all praise belongs to Allah',
     body: (lessons, units) =>
       `You completed ${lessons} lessons in ${units} units, from the first question of existence to what being a Muslim actually means.`,
     nextStep:
@@ -581,8 +581,8 @@ const en: Strings = {
     correct: 'Correct. ',
     correctIs: (answer) => `The correct answer is “${answer}”. `,
     srCorrectAnswer: ' (the correct answer)',
-    srPickedWrong: ' (your pick — incorrect)',
-    verdictPerfect: 'Excellent — you got every question right. On to the next lesson.',
+    srPickedWrong: ' (your pick, and it is incorrect)',
+    verdictPerfect: 'Excellent: you got every question right. On to the next lesson.',
     verdictRetry: 'Review what you missed, then try again.',
     retry: 'Try again',
   },
@@ -598,7 +598,7 @@ const en: Strings = {
     noQuestions: 'No questions yet. Add a quiz block to any lesson and it appears here automatically.',
     missedOne: 'Missed one? ',
     missedOneLink: 'Go back to its lesson',
-    missedOneTail: ' and read it again — the question finds the gap, the lesson closes it.',
+    missedOneTail: ' and read it again; the question finds the gap, the lesson closes it.',
   },
 
   glossary: {
@@ -640,7 +640,7 @@ const en: Strings = {
   },
 
   routeError: {
-    reloading: 'A new version of the site was published — refreshing the page…',
+    reloading: 'A new version of the site was published; refreshing the page…',
     reloadingTitle: 'Refreshing',
     title: 'This page could not be opened',
     staleBody: 'The copy of the site open in this tab looks out of date. Reload the page to get the current one.',

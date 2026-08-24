@@ -5,7 +5,7 @@ import type { Lang } from './i18n'
  * Standalone pages (the summary sheet, the about page) written as Markdown in
  * src/content/pages/{ar,en}/. They use exactly the same blocks as the lessons,
  * so `​```ayah` and friends work there too. Like lessons, every page is a
- * pair — one file per language, same slug.
+ * pair: one file per language, same slug.
  */
 
 export interface PageMeta {

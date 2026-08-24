@@ -27,7 +27,7 @@ export function LessonPage() {
    * completed unit, both stay true afterwards, so a page opened later would
    * congratulate them again for something they did last week. Storing the slug
    * rather than a boolean also stops the greeting following them to the next
-   * lesson — react-router reuses this route component across slugs, so a boolean
+   * lesson: react-router reuses this route component across slugs, so a boolean
    * would survive the navigation that a keyed value cannot.
    */
   const [markedAt, setMarkedAt] = useState<string | null>(null)
@@ -60,7 +60,7 @@ export function LessonPage() {
    * at the foot of the page moves. That is information, and information is what
    * a reader who ticked a box asked for. A burst thirty times over would cost
    * the thirtieth one its meaning. This was argued out and settled on the
-   * evidence — see rule «No reward mechanics» in CLAUDE.md.
+   * evidence; see rule «No reward mechanics» in CLAUDE.md.
    *
    * Finishing a whole unit gets a line naming it. Nine times, no animation
    * beyond a fade, no score.
@@ -79,8 +79,8 @@ export function LessonPage() {
    * it false again. Everything derived above reads the *post*-toggle state, so
    * there is no arithmetic here to keep in step with the hook.
    *
-   * It works on `slug` rather than `lesson.slug` — the same string, since the
-   * lesson was looked up by it — because narrowing `lesson` away from
+   * It works on `slug` rather than `lesson.slug` (the same string, since the
+   * lesson was looked up by it) because narrowing `lesson` away from
    * `undefined` above does not reach inside this closure.
    */
   function markDone() {
@@ -255,7 +255,7 @@ export function LessonPage() {
       )}
 
       {/* Tier three: the whole guide, finished on this click. Nothing but the
-          tick that completes it puts this here — see `markedAt`. */}
+          tick that completes it puts this here; see `markedAt`. */}
       {finishedGuideNow && (
         <CompletionCard total={total} celebrate showLessonsLink className="mt-6" />
       )}

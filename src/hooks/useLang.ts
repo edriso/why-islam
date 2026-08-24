@@ -19,7 +19,7 @@ export interface LangContext {
 /**
  * The page's language, derived from the URL and nothing else.
  *
- * Arabic lives at the root, English under /en/ — see src/lib/i18n.ts for why
+ * Arabic lives at the root, English under /en/; see src/lib/i18n.ts for why
  * the URL is the source of truth. Because the language is a pure function of
  * the pathname there is no provider and no stored state: any component that
  * calls this re-renders on navigation and always agrees with the address bar.

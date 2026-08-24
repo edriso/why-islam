@@ -116,7 +116,7 @@ function Question({
       {/* The live region has to be in the accessibility tree BEFORE the answer
           lands in it. A region that is `display:none` until it has something to
           say is created and filled in the same tick, and screen readers reliably
-          miss that — which would silently drop the whole point of the quiz. So
+          miss that, which would silently drop the whole point of the quiz. So
           the wrapper is always rendered and only its contents appear. */}
       <div role="status">
         {answered && (
@@ -193,7 +193,7 @@ export function Quiz({
       </ul>
 
       {/* The region has to be in the tree before the verdict arrives, so it sits
-          outside the `finished` block rather than inside it — a region created
+          outside the `finished` block rather than inside it: a region created
           in the same tick that fills it is the race screen readers lose. The
           visible copy below carries no role, and the retry button is kept out
           of the region so it is not read as part of the result. */}

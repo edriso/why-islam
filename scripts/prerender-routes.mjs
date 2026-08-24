@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Writes a copy of dist/index.html at every route the site has — in both
- * languages — so GitHub Pages answers a deep link with 200 instead of 404, and
+ * Writes a copy of dist/index.html at every route the site has, in both
+ * languages, so GitHub Pages answers a deep link with 200 instead of 404, and
  * gives each copy its own head.
  *
  * GitHub Pages serves static files only: it knows nothing about client-side
@@ -13,7 +13,7 @@
  * Three things each copy gets:
  *
  * 1. Its own <title>, description, Open Graph tags and canonical, from the
- *    lesson's own frontmatter — in the language of the route. React sets
+ *    lesson's own frontmatter, in the language of the route. React sets
  *    `document.title` on navigation, but the crawlers behind a WhatsApp or
  *    Telegram link preview do not run JavaScript: they read the HTML as served.
  *
@@ -27,7 +27,7 @@
  * 3. JSON-LD: a breadcrumb per lesson, and the site identity on each home page.
  *
  * What this deliberately does NOT do is write a static copy of the lesson into
- * #root — see learn-tajweed, where that was tried: `createRoot` replaces #root
+ * #root; see learn-tajweed, where that was tried: `createRoot` replaces #root
  * wholesale on mount, so every visitor watched a wall of unstyled text turn
  * into the actual page.
  *
@@ -90,12 +90,12 @@ const CODE_PAGES = {
     ar: {
       title: 'معجم المصطلحات',
       description:
-        'شرحٌ موجزٌ للمصطلحات الواردة في الدليل — الفطرة والتوحيد والوحي والإعجاز وغيرها — مرتَّبةً للرجوع السريع.',
+        'شرحٌ موجزٌ للمصطلحات الواردة في الدليل: الفطرة والتوحيد والوحي والإعجاز وغيرها، مرتَّبةً للرجوع السريع.',
     },
     en: {
       title: 'Glossary',
       description:
-        'Short definitions of the terms this guide uses — fitrah, tawhid, revelation, iʿjaz and more — arranged for quick reference.',
+        'Short definitions of the terms this guide uses: fitrah, tawhid, revelation, iʿjaz and more, arranged for quick reference.',
     },
   },
 }
@@ -138,7 +138,7 @@ const lessonSlugs = (await readdir(resolve(ROOT, 'src/content/lessons/ar')))
 /**
  * Every route to write, one entry per (page, language). `neutral` is the
  * language-free path («lessons/x», '' for home), from which both concrete
- * paths — and therefore the hreflang pair — are derived.
+ * paths (and therefore the hreflang pair) are derived.
  */
 const routes = []
 
@@ -185,10 +185,10 @@ for (const lang of LANGS) {
  * Preload the two Arabic faces.
  *
  * Both are declared `font-display: swap`, and the browser only discovers them
- * after it has fetched and parsed the stylesheet — so the first paint used a
+ * after it has fetched and parsed the stylesheet, so the first paint used a
  * fallback and the text visibly reflowed when Cairo and Amiri Quran arrived.
  * Preloading starts both in parallel with the CSS instead. Only the Arabic
- * subsets — English pages still quote the Qur'an in Arabic on their first
+ * subsets: English pages still quote the Qur'an in Arabic on their first
  * screen, and Cairo's Arabic file also carries the interface's Latin fallback
  * duty until the Latin subset arrives with the stylesheet.
  *
@@ -204,7 +204,7 @@ async function fontPreloads() {
     if (!file) {
       throw new Error(
         `prerender: font file «${stem}*.woff2» not found in dist/assets. ` +
-          `The font packages probably renamed their files — update scripts/prerender-routes.mjs.`,
+          `The font packages probably renamed their files; update scripts/prerender-routes.mjs.`,
       )
     }
     links.push(
@@ -239,7 +239,7 @@ function replaceTag(html, pattern, replacement, label) {
   if (!pattern.test(html)) {
     throw new Error(
       `prerender: tag «${label}» not found in dist/index.html. ` +
-        `index.html probably changed — update scripts/prerender-routes.mjs to match.`,
+        `index.html probably changed; update scripts/prerender-routes.mjs to match.`,
     )
   }
   return html.replace(pattern, replacement)
@@ -247,7 +247,7 @@ function replaceTag(html, pattern, replacement, label) {
 
 /**
  * og:image is inserted here rather than written in index.html, because it has
- * to be absolute — a link-preview crawler has no base to resolve against — and
+ * to be absolute (a link-preview crawler has no base to resolve against) and
  * the origin is known only to site.config.mjs.
  *
  * This one is SITE_URL, not CANONICAL_URL: it points at the copy this build
@@ -417,7 +417,7 @@ function renderHome(lang) {
         name: SITE_NAME[lang],
         inLanguage: lang,
         description: HOME_DESCRIPTION[lang],
-        // The guide itself, code and lessons alike, is 0BSD — see LICENSE. This
+        // The guide itself, code and lessons alike, is 0BSD; see LICENSE. This
         // says nothing about the Qur'anic text it quotes, which stays under the
         // Tanzil terms recorded in NOTICE and is not ours to relicense.
         license: 'https://opensource.org/license/0bsd',
@@ -450,7 +450,7 @@ await writeFile(
 /**
  * Last commit date per content file, for <lastmod>. One `git log` call per file
  * is fine at build time. Needs full history: the deploy workflow sets
- * fetch-depth: 0 for exactly this. Without git, lastmod is simply omitted —
+ * fetch-depth: 0 for exactly this. Without git, lastmod is simply omitted:
  * a wrong date is worse than none, since Google only trusts it when accurate.
  */
 async function lastModified(file) {

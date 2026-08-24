@@ -7,7 +7,7 @@ export interface HadithSpec {
   /**
    * Attribution the reader can check: collection and number, e.g.
    * «صحيح البخاري (٦٠٩٤)» / "Sahih al-Bukhari 6094". For anything outside
-   * Bukhari and Muslim it must also carry the grading — see
+   * Bukhari and Muslim it must also carry the grading; see
    * docs/writing-lessons.md, which forbids weak narrations outright.
    */
   source: string
@@ -22,7 +22,7 @@ export interface HadithSpec {
 /**
  * A hadith, visually distinct from a verse on purpose: the Qur'an card carries
  * the gold header and the mushaf font, and nothing else on the site may look
- * like it. This card is plainer — an ink border, the interface font — because
+ * like it. This card is plainer (an ink border, the interface font) because
  * the difference between the Book and the reports *about* its Prophet ﷺ is a
  * distinction this site teaches.
  */

@@ -177,7 +177,7 @@ export function ProgressTransfer() {
 
       {/* Always mounted, filled later: a live region created in the same tick as
           its text is reliably missed by screen readers. It keeps its empty line
-          for the same reason a form keeps room for its error — so the panel does
+          for the same reason a form keeps room for its error: so the panel does
           not jump under the reader's hand when a message arrives. */}
       <p
         role="status"

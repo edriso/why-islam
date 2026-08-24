@@ -12,21 +12,21 @@ import { cn } from '@/lib/utils'
  * Two callers, one card. The lesson page mounts it with `celebrate` at the exact
  * moment the last remaining lesson is marked done, which is the only place the
  * burst plays. The home page mounts it in place of the progress bar for as long
- * as progress stays at 100%, with no animation — an entrance that replays on
+ * as progress stays at 100%, with no animation: an entrance that replays on
  * every visit stops reading as a celebration and starts reading as a page that
  * cannot settle.
  *
  * The tone is deliberate. Finishing thirty lessons on why Islam is true is
  * worth marking, and it is also not the finish of anything: the verse below is
  * a du'a for *more* knowledge, and the card says plainly that the honest next
- * steps — asking Allah for guidance, and people of knowledge for what is still
- * unclear — cannot be read off a screen. A guide that congratulated the reader
+ * steps (asking Allah for guidance, and people of knowledge for what is still
+ * unclear) cannot be read off a screen. A guide that congratulated the reader
  * into thinking they were done would be teaching the one thing it exists to
  * deny.
  */
 
 /**
- * «وَقُل رَّبِّ زِدْنِى عِلْمًا» — “My Lord, increase me in knowledge.”
+ * «وَقُل رَّبِّ زِدْنِى عِلْمًا»: “My Lord, increase me in knowledge.”
  *
  * Not typed: looked up by reference, so `npm run quran:build` sees this call and
  * checks the phrase against the pinned mushaf exactly as it checks a lesson's.
@@ -55,7 +55,7 @@ function CompletionAyah() {
 /**
  * The burst: a gold halo blooming out of the badge and eight flecks thrown off
  * it. Purely decorative, so it is `aria-hidden` and it is the first thing
- * `prefers-reduced-motion` removes — the animations end at `opacity: 0`, so the
+ * `prefers-reduced-motion` removes: the animations end at `opacity: 0`, so the
  * global reduced-motion rule in index.css, which collapses every duration to
  * nothing, lands them on that final frame and the reader simply never sees them.
  *
@@ -113,7 +113,7 @@ export function CompletionCard({
    * the page to a fixed point.
    *
    * Deliberately no `focus()` alongside it. `focus()` scrolls too, instantly,
-   * which cancels a smooth scroll already in flight — the bug that cost the
+   * which cancels a smooth scroll already in flight: the bug that cost the
    * back-to-top button two clicks per press. Nothing here needs focus moved:
    * the announcement is made by the live region the lesson page keeps mounted
    * beside its button, and the reader's next Tab reaches these links anyway.
@@ -137,7 +137,7 @@ export function CompletionCard({
       )}
     >
       {/* Gold, not the site's blue. Gold is how this site marks something
-          singular — the rule under a section heading, the verse card's header —
+          singular (the rule under a section heading, the verse card's header),
           and the reader arrives here once. */}
       <span
         className="pointer-events-none absolute inset-x-0 top-0 h-1 rounded-t-card bg-linear-to-r from-transparent via-gold-400 to-transparent"

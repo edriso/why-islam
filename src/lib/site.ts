@@ -6,7 +6,7 @@ export const SITE_NAME: Localized = { ar: 'لماذا الإسلام؟', en: 'Wh
 
 /**
  * Where this copy's source lives. Worked out at build time from the repository
- * itself — never written down — so a fork's footer sends its readers to the
+ * itself, never written down, so a fork's footer sends its readers to the
  * fork. Empty when it cannot be determined, and the footer then shows no link.
  * See `repoUrl()` in site.config.mjs and `define` in vite.config.ts.
  */

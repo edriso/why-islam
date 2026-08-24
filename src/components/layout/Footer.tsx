@@ -14,8 +14,8 @@ function FooterAyah() {
   const { s } = useLang()
   const ayah = getAyah('41:53')
   // Two spans, one slice. The stretch between them holds words plain text
-  // cannot query — «حتى» is written with a dagger alef, and «آياتنا» and
-  // «الآفاق» spell their alef madda two incompatible ways — so a short phrase
+  // cannot query: «حتى» is written with a dagger alef, and «آياتنا» and
+  // «الآفاق» spell their alef madda two incompatible ways. So a short phrase
   // anchors each end and the text between comes along inside the slice, every
   // letter still from the corpus.
   const start = getSpan('41:53', 'سنريهم آياتنا')

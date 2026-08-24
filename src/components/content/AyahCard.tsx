@@ -5,7 +5,7 @@ import { useLang } from '@/hooks/useLang'
 import { getAyah, getSpan, quranComUrl, surahName } from '@/lib/quran'
 
 export interface AyahSpec {
-  /** «2:19» — surah:ayah. */
+  /** «2:19», surah:ayah. */
   ref: string
   /** Show only this part of a long verse. Written without tashkeel. */
   show?: string
@@ -17,7 +17,7 @@ export interface AyahSpec {
    * An explanatory rendering of the meaning, shown under the verse. English
    * lessons use it so a reader who cannot read the Arabic still gets the
    * verse; it is the author's explanation, labeled as such, not a canonical
-   * translation — the quran.com link alongside carries those.
+   * translation; the quran.com link alongside carries those.
    */
   translation?: string
 }
@@ -115,7 +115,7 @@ export function AyahCard({ spec }: { spec: AyahSpec }) {
             >
               <ExternalLink size={16} aria-hidden="true" />
               <span className="sr-only">
-                {s.ayah.openInContext} — <span lang="en">quran.com</span>
+                {s.ayah.openInContext} (<span lang="en">quran.com</span>)
               </span>
             </a>
           </div>
@@ -132,7 +132,7 @@ export function AyahCard({ spec }: { spec: AyahSpec }) {
         {/*
           The <mark> carries no font weight: Amiri Quran ships one 400 face, so
           asking for more would render the highlighted stretch in the Cairo
-          fallback during the font swap — a visible weight seam inside a verse.
+          fallback during the font swap: a visible weight seam inside a verse.
           The accent colour carries the emphasis on its own.
         */}
         {segments.map((segment, index) => (

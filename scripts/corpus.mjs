@@ -1,7 +1,7 @@
 /**
  * The pinned mushaf: where it is, and the checksum that says it is unchanged.
  *
- * Two scripts verify this file before trusting a single letter of it —
+ * Two scripts verify this file before trusting a single letter of it:
  * build-quran.mjs, which resolves every verse the lessons reference, and
  * build-og-image.mjs, which slices the verse printed on the share card. Both
  * used to carry their own copy of the hash, joined by a comment saying they
@@ -9,7 +9,7 @@
  *
  * Nothing silently went wrong when they drifted; both scripts fail loudly on a
  * mismatch. What did go wrong is that updating the corpus meant remembering two
- * places, and one of the error messages told you to edit "this file" — which
+ * places, and one of the error messages told you to edit "this file", which
  * after a drift is the wrong advice. For the constant that stands between the
  * site and a misprinted mushaf, one copy is the only defensible number.
  *

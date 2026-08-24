@@ -51,7 +51,7 @@ const router = createBrowserRouter(
           // the element of the route it sits on, so putting it on the layout
           // route would take the whole shell down with the page.
           //
-          // The failure it exists for is a stale build — see RouteError.
+          // The failure it exists for is a stale build; see RouteError.
           errorElement: <RouteError />,
           children: [...routesFor(''), ...routesFor('/en'), { path: '*', element: <NotFound /> }],
         },

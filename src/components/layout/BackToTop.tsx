@@ -39,8 +39,8 @@ export function BackToTop() {
     // cancels the smooth one that started a line earlier. <main> is nearly as
     // tall as the document, so its own scroll-into-view target is a fixed point
     // most of the way down the page: from the footer, one click moved the
-    // viewport there and stopped, and only a second click — which found the
-    // page already at that target, so the cancelling scroll was a no-op — went
+    // viewport there and stopped, and only a second click (which found the
+    // page already at that target, so the cancelling scroll was a no-op) went
     // to the top. Measured on the curriculum page: 5057 → 4705, then 4705 → 0.
     document.getElementById('main')?.focus({ preventScroll: true })
   }

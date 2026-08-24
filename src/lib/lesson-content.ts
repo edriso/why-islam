@@ -8,7 +8,7 @@
  * entry chunk grows by the whole curriculum to render a list of titles.
  *
  * If you find yourself importing this from something the home page reaches,
- * you probably want `lessons` from ./lessons instead — it has everything except
+ * you probably want `lessons` from ./lessons instead; it has everything except
  * the bodies.
  */
 import type { Lang } from './i18n'

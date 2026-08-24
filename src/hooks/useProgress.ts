@@ -11,7 +11,7 @@ const KNOWN = new Set(lessons.map((lesson) => lesson.slug))
  * Progress lives only on this device (localStorage). There is no account and no
  * server, so nothing is ever sent anywhere. Moving it to another device is the
  * reader's own doing, through the export and import buttons in the settings
- * panel — see `components/layout/ProgressTransfer.tsx`.
+ * panel; see `components/layout/ProgressTransfer.tsx`.
  */
 export function useProgress() {
   const [done, setDone] = useLocalStorage<string[]>('why-islam-progress', [])
@@ -57,8 +57,8 @@ export function useProgress() {
   const percent = total === 0 ? 0 : Math.round((completed / total) * 100)
 
   /**
-   * Every lesson done. Guarded on `total` so an empty curriculum — a build with
-   * no lesson files — reads as «nothing finished» rather than «all finished».
+   * Every lesson done. Guarded on `total` so an empty curriculum (a build with
+   * no lesson files) reads as «nothing finished» rather than «all finished».
    */
   const finished = total > 0 && completed === total
 

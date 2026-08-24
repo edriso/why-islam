@@ -16,7 +16,7 @@ import { usePageTitle } from '@/hooks/usePageTitle'
  *
  * Nothing is broken: the reader is holding a stale copy of the app. Reloading
  * fetches the current index.html with the current file names and lands on the
- * route they asked for — which is why refreshing always appeared to fix it. So
+ * route they asked for, which is why refreshing always appeared to fix it. So
  * we do it for them, once, rather than showing them an error they would have to
  * understand.
  *
