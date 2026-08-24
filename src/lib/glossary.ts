@@ -20,6 +20,7 @@ export const TERMS: readonly Term[] = [
       ar: 'ما يعقد الإنسان قلبه عليه من إيمان: بالله وملائكته وكتبه ورسله واليوم الآخر والقدر. وهي موضوع هذا الدليل كلّه.',
       en: 'What the heart is bound to in belief: in Allah, His angels, His books, His messengers, the Last Day, and the decree. It is the subject of this whole guide.',
     },
+    lesson: 'big-questions',
   },
   {
     term: { ar: 'الفطرة', en: 'Fitrah' },
@@ -35,6 +36,7 @@ export const TERMS: readonly Term[] = [
       ar: 'إفراد الله وحده بالخلق والتدبير والعبادة، وبأسمائه وصفاته. وهو الرسالة الواحدة التي جاء بها الأنبياء جميعًا.',
       en: 'Affirming Allah alone as Creator, Sustainer and the only one worthy of worship, with His names and attributes. The one message every prophet carried.',
     },
+    lesson: 'one-god',
   },
   {
     term: { ar: 'الشرك', en: 'Shirk' },
@@ -49,6 +51,7 @@ export const TERMS: readonly Term[] = [
       ar: 'إعلام الله لرسله بما يريد إبلاغه للناس، بواسطة المَلَك جبريل عليه السلام أو بغير ذلك ممّا صحّ به الخبر.',
       en: 'Allah’s communication to His messengers of what He wills to reach people — through the angel Jibril (Gabriel) or the other channels the sources report.',
     },
+    lesson: 'why-revelation',
   },
   {
     term: { ar: 'النبيّ والرسول', en: 'Prophet and Messenger' },
@@ -56,6 +59,7 @@ export const TERMS: readonly Term[] = [
       ar: 'النبيّ من أوحى الله إليه، والرسول من أُمر مع ذلك بالبلاغ إلى قومٍ أو إلى الناس كافّة. وكلّ رسولٍ نبيّ ولا عكس، على المشهور.',
       en: 'A prophet (nabi) receives revelation; a messenger (rasul) is additionally charged with delivering it to a people. Every messenger is a prophet, not the reverse — on the better-known account.',
     },
+    lesson: 'one-message',
   },
   {
     term: { ar: 'الشبهة', en: 'Shubhah (objection)' },
@@ -63,6 +67,7 @@ export const TERMS: readonly Term[] = [
       ar: 'اعتراضٌ يُلبِس الحقّ بالباطل حتى يشتبها. لا تُدفع بالتجاهل ولا بالغضب، بل بعرضها في أقوى صورها ثم بيان موضع الخلل فيها.',
       en: 'An objection that dresses falsehood in the clothes of truth until the two blur. It is answered neither by ignoring it nor by anger, but by stating it at full strength and then showing exactly where it fails.',
     },
+    lesson: 'keep-asking',
   },
   {
     term: { ar: 'الآية', en: 'Ayah' },
@@ -70,6 +75,7 @@ export const TERMS: readonly Term[] = [
       ar: 'في القرآن بمعنيين متلازمين: المقطع المرقَّم من السورة، والعلامة الدالّة على الله — في الكون والنفس. والقرآن يستعمل الكلمة نفسها للاثنين عمدًا: كلاهما يشير إلى صاحبه.',
       en: 'In the Qur’an, two interlocked meanings: a numbered verse of a surah, and a sign pointing to Allah — in the cosmos and in ourselves. The Qur’an uses one word for both on purpose: each points to its Author.',
     },
+    lesson: 'design',
   },
   {
     term: { ar: 'التفسير', en: 'Tafsir' },
@@ -84,6 +90,7 @@ export const TERMS: readonly Term[] = [
       ar: 'أخبار حياة النبيّ ﷺ المجموعة في كتبٍ كسيرة ابن هشام. أسانيدها أخفّ تحرّيًا من أسانيد الصحيحين، ولذلك يميّز هذا الدليل دائمًا بين «رواه البخاري» و«ذكره أهل السِّيَر».',
       en: 'The accounts of the Prophet’s ﷺ life gathered in books like Ibn Hisham’s. Their chains are held to a lighter standard than the Sahih collections’, which is why this guide always distinguishes “narrated by al-Bukhari” from “related in the sirah books.”',
     },
+    lesson: 'before-prophethood',
   },
   {
     term: { ar: 'الحديث', en: 'Hadith' },
@@ -105,6 +112,7 @@ export const TERMS: readonly Term[] = [
       ar: 'نقل جمعٍ يستحيل تواطؤهم على الكذب عن جمعٍ مثلهم، جيلًا عن جيل. وبه وصلنا القرآن: حفظًا وكتابةً معًا.',
       en: 'Transmission by numbers so large, in every generation, that collusion on a lie is impossible. This is how the Qur’an reached us — memorized and written, together.',
     },
+    lesson: 'preserved',
   },
   {
     term: { ar: 'الإعجاز', en: 'Iʿjaz (inimitability)' },
@@ -112,6 +120,7 @@ export const TERMS: readonly Term[] = [
       ar: 'عجز الخلق عن الإتيان بمثل القرآن مع قيام التحدّي ودوامه. أظهر وجوهه بلاغته ونظمه، وثباتُ التحدّي أربعة عشر قرنًا.',
       en: 'The demonstrated inability of anyone to produce the like of the Qur’an while its open challenge stands. Its clearest face is the language itself — and fourteen unanswered centuries.',
     },
+    lesson: 'the-challenge',
   },
   {
     term: { ar: 'الشهادتان', en: 'The Shahadah' },
@@ -119,5 +128,6 @@ export const TERMS: readonly Term[] = [
       ar: 'قول: أشهد أن لا إله إلا الله وأشهد أنّ محمّدًا رسول الله، بيقين القلب. بها يدخل الإنسان في الإسلام، بلا وسيطٍ ولا مراسم.',
       en: 'The testimony — “I bear witness that there is no god but Allah, and that Muhammad is the Messenger of Allah” — said with conviction. It is the whole entry into Islam: no intermediary, no ceremony.',
     },
+    lesson: 'becoming-muslim',
   },
 ]
