@@ -84,7 +84,7 @@ export function AudioButton({ ayah, className }: { ayah: QuranAyah; className?: 
     state === 'error'
       ? s.ayah.audioError
       : state === 'loading'
-        ? s.ayah.audioStop
+        ? s.ayah.statusLoading
         : state === 'playing'
           ? s.ayah.nowPlaying
           : ''

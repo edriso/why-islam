@@ -120,7 +120,7 @@ export interface Strings {
     audioError: string
     audioLoading: string
     audioPlaying: string
-    audioStop: string
+    statusLoading: string
     nowPlaying: string
     /** Heading of the explanatory rendering under a verse on English pages. */
     meaning: string
@@ -333,7 +333,7 @@ const ar: Strings = {
     audioError: 'تعذَّر تشغيل التلاوة',
     audioLoading: 'جارٍ تحميل التلاوة',
     audioPlaying: 'إيقاف التلاوة',
-    audioStop: 'جارٍ التحميل',
+    statusLoading: 'جارٍ التحميل',
     nowPlaying: 'يُتلى الآن',
     meaning: 'المعنى',
     staleData: 'غير موجودة في بيانات المصحف. شغِّل',
@@ -553,7 +553,7 @@ const en: Strings = {
     audioError: 'The recitation could not be played',
     audioLoading: 'Loading the recitation',
     audioPlaying: 'Stop the recitation',
-    audioStop: 'Loading',
+    statusLoading: 'Loading',
     nowPlaying: 'Now playing',
     meaning: 'Meaning',
     staleData: 'is missing from the mushaf data. Run',
