@@ -14,6 +14,10 @@
  *    rather than silently colouring the wrong letters.
  * 4. Any Qur'anic text typed directly into a file matches the mushaf character
  *    for character.
+ * 5. Every fenced YAML block (ayah, hadith, doubt, compare, quiz) parses AND has
+ *    the shape its component expects, every text field a string. A colon inside
+ *    a list item turns that item into a mapping without any parse error, and
+ *    the browser is where that used to surface.
  *
  * Nothing here "fixes up" text. If something does not match, the build stops
  * and says where. That is the point: a wrong verse must never ship.
@@ -313,6 +317,10 @@ const REF_BLOCK = /```(ayah|quiz)\r?\n([\s\S]*?)```/g
  * is an uncaught exception and the whole page goes blank. The commonest cause
  * is an Arabic sentence containing a colon, which YAML reads as a second key.
  * Catching it in the build turns a white screen into a one-line message.
+ *
+ * Each block is then checked for shape as well (see checkShape): a colon can
+ * also produce YAML that parses but is the wrong type, which fails just as
+ * loudly in the browser and is invisible to a parse-only check.
  */
 const YAML_BLOCK = /```(ayah|quiz|hadith|doubt|compare)\r?\n([\s\S]*?)```/g
 const FRONTMATTER = /^---\r?\n([\s\S]*?)\r?\n---/
@@ -321,6 +329,121 @@ function yamlHint(message) {
   return /Nested mappings|implicit map key|multiline plain value|All collection items/.test(message)
     ? "\n      غالبًا السبب نقطتان «:» داخل نصٍّ عربيّ. ضَع القيمة بين علامتَي تنصيصٍ مفردة: '…'"
     : ''
+}
+
+/**
+ * A block that parses can still be wrong in a way only the browser sees.
+ *
+ * YAML reads a colon-plus-space inside a plain value as "key: value", and it
+ * does that inside list items too. So a quiz option written as
+ *
+ *   - بسلوكه الموثَّق: نهى عن إطرائه
+ *
+ * is perfectly valid YAML that comes back as a one-key object instead of a
+ * string. The parser raises nothing, the build passed, and the component then
+ * handed React an object where it expected text: React threw, and the lesson
+ * page showed the route error instead of the lesson. This happened on a live
+ * page, so every text field of every block is now checked to be a string, and
+ * the message names the field rather than leaving the author to find it.
+ */
+function checkShape(kind, spec, where) {
+  const describe = (value) => {
+    if (value === undefined) return 'مفقود.'
+    if (value === null) return 'فارغ.'
+    if (Array.isArray(value)) return 'قُرئ كقائمةٍ لا كنصّ.'
+    if (typeof value === 'object') {
+      return (
+        'قُرئ كـ «مفتاح: قيمة» لا كنصّ.' +
+        "\n      غالبًا السبب نقطتان «:» تليهما مسافة داخل الجملة. ضَع القيمة كلَّها بين علامتَي تنصيصٍ مفردة: '…'"
+      )
+    }
+    return `قُرئ كـ ${typeof value === 'number' ? 'رقم' : typeof value === 'boolean' ? 'قيمةٍ منطقيّة' : typeof value} لا كنصّ.`
+  }
+  const bad = (field, value) =>
+    fail(`${where}: في بلوك \`${kind}\` الحقلُ \`${field}\` ${describe(value)}`)
+
+  if (spec === null || typeof spec !== 'object' || Array.isArray(spec)) {
+    fail(`${where}: بلوك \`${kind}\` ${spec === null ? 'فارغ' : 'ليس خريطةَ حقولٍ (مفتاح: قيمة)'}.`)
+    return
+  }
+
+  /** `field` must be a string; when `required` is false it may also be absent. */
+  const text = (object, field, required, label = field) => {
+    const value = object[field]
+    if (value === undefined && !required) return
+    if (typeof value !== 'string') bad(label, value)
+  }
+  /** `field` must be a list of strings. */
+  const texts = (object, field, required, label = field) => {
+    const value = object[field]
+    if (value === undefined && !required) return
+    if (!Array.isArray(value)) {
+      bad(label, value === undefined ? undefined : [value])
+      return
+    }
+    value.forEach((item, index) => {
+      if (typeof item !== 'string') bad(`${label}[${index}]`, item)
+    })
+  }
+
+  switch (kind) {
+    case 'ayah':
+      text(spec, 'ref', true)
+      text(spec, 'show', false)
+      text(spec, 'note', false)
+      text(spec, 'translation', false)
+      if (Array.isArray(spec.highlight)) texts(spec, 'highlight', false)
+      else text(spec, 'highlight', false)
+      break
+    case 'hadith':
+      text(spec, 'text', true)
+      text(spec, 'source', true)
+      text(spec, 'url', false)
+      text(spec, 'translation', false)
+      text(spec, 'note', false)
+      break
+    case 'doubt':
+      text(spec, 'claim', true)
+      text(spec, 'answer', true)
+      break
+    case 'compare':
+      if (!Array.isArray(spec.columns)) {
+        bad('columns', spec.columns)
+        break
+      }
+      spec.columns.forEach((column, index) => {
+        const label = `columns[${index}]`
+        if (column === null || typeof column !== 'object') {
+          bad(label, column)
+          return
+        }
+        text(column, 'title', true, `${label}.title`)
+        texts(column, 'points', true, `${label}.points`)
+      })
+      break
+    case 'quiz':
+      text(spec, 'title', false)
+      if (!Array.isArray(spec.questions)) {
+        bad('questions', spec.questions)
+        break
+      }
+      spec.questions.forEach((question, index) => {
+        const label = `questions[${index}]`
+        if (question === null || typeof question !== 'object') {
+          bad(label, question)
+          return
+        }
+        text(question, 'q', true, `${label}.q`)
+        texts(question, 'options', true, `${label}.options`)
+        text(question, 'why', true, `${label}.why`)
+        text(question, 'ref', false, `${label}.ref`)
+        text(question, 'word', false, `${label}.word`)
+        if (typeof question.answer !== 'number') {
+          fail(`${where}: في بلوك \`quiz\` الحقلُ \`${label}.answer\` ليس رقمًا (اكتب رقمَ الخيار الصحيح، و0 هو الأوّل).`)
+        }
+      })
+      break
+  }
 }
 
 /**
@@ -363,11 +486,16 @@ for (const path of sourceFiles) {
 
   // Every YAML body in the file has to parse, or the page goes blank at runtime.
   for (const [, kind, body] of raw.matchAll(YAML_BLOCK)) {
+    let spec
     try {
-      parse(body)
+      spec = parse(body)
     } catch (error) {
       fail(`${where}: بلوك \`${kind}\` لا يُقرأ كـ YAML: ${error.message}${yamlHint(error.message)}`)
+      continue
     }
+    // Parsing is not enough: the result also has to be the shape the
+    // component expects, or the page fails in the browser instead.
+    checkShape(kind, spec, where)
   }
 
   // Lesson frontmatter has to parse, or the page goes blank at runtime. Its

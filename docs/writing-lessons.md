@@ -87,6 +87,13 @@ YAML reads `:` as "key: value". An Arabic sentence containing a colon breaks the
 parser, and in the browser that means a **blank page**. Wrap any value containing a
 colon in single quotes. `npm run check` catches this and tells you which line.
 
+The same applies to list items, and there it is quieter: a quiz option written as
+`- بسلوكه الموثَّق: نهى عن إطرائه` is *valid* YAML that comes back as a one-key
+mapping instead of a string, so nothing fails until the browser tries to render it
+(that was a live «تعذَّر فتح هذه الصفحة» once). Quote the whole item:
+`- 'بسلوكه الموثَّق: نهى عن إطرائه'`. The build now checks every field's type as
+well as its syntax, and names the field.
+
 ---
 
 ## The body
@@ -122,9 +129,9 @@ exact form. Every phrase must occur **exactly once** in the verse; if not, write
 longer phrase.
 
 **A displayed fragment must stand on its own without misleading.** Quoting part
-of a verse is permitted — the Prophet ﷺ himself quoted parts of verses in his
-letters ([IslamWeb 106526](https://www.islamweb.net/ar/fatwa/106526/),
-[IslamQA 238948](https://islamqa.info/en/answers/238948)) — **provided the cut
+of a verse is permitted (the Prophet ﷺ himself quoted parts of verses in his
+letters: [IslamWeb 106526](https://www.islamweb.net/ar/fatwa/106526/),
+[IslamQA 238948](https://islamqa.info/en/answers/238948)), **provided the cut
 does not distort the meaning**, the classic counter-example being «فويل
 للمصلين» stopped before «الذين هم عن صلاتهم ساهون». So any phrase that is
 *displayed on its own* (`show:` here, `word:` in a quiz) must be a complete,
@@ -297,6 +304,7 @@ the pair checker (build-lesson-index) speaks English. Common messages:
 | `لم يُعثر على «…» في الآية` | Copy the phrase from the "بلا تشكيل" line it prints |
 | `العبارة «…» تتكرّر N مرّاتٍ` | Write a longer phrase that pins down the place |
 | `فيه خطأٌ في صيغة YAML` | Usually a colon in Arabic text; wrap the value in `'…'` |
+| `الحقلُ «…» قُرئ كـ «مفتاح: قيمة» لا كنصّ` | A colon inside a quiz option or another value made YAML read it as a mapping; wrap the whole item in `'…'` |
 | `هذه العبارة قرآنيّة لكنها لا تطابق المصحف` | Use an `ayah` block, or copy the exact mushaf orthography |
 | `exists in ar/ but not in en/` | Write the missing half of the pair |
 | `order N is already used by …` | Two lessons share an `order`; renumber one |

@@ -28,7 +28,7 @@ note: 'Stronger than denying a fee: if I ever asked you for anything, take it ba
 
 ## The offer he turned down
 
-The price was not out of reach, such that refusing it cost him nothing. The sirah books (Ibn Hisham's among them; sirah reports, not Sahih hadith) record that Quraysh sent him ʿUtbah ibn Rabiʿah, one of their chiefs, with an explicit offer: if he wanted wealth, they would gather riches for him until he was the wealthiest of them; if he wanted honor, they would make him their master; if he wanted kingship, they would crown him, on one condition: that he stop saying what he was saying.
+The price was not out of reach, such that refusing it cost him nothing. The sirah books (Ibn Hisham's among them) record that Quraysh sent him ʿUtbah ibn Rabiʿah, one of their chiefs, with an explicit offer: if he wanted wealth, they would gather riches for him until he was the wealthiest of them; if he wanted honor, they would make him their master; if he wanted kingship, they would crown him, on one condition: that he stop saying what he was saying. This is a sirah report, not a Sahih hadith: Ibn Ishaq's chain for it is mursal (it stops short of an eyewitness), though a second, connected chain from Jabir ibn ʿAbdullah is recorded by Ibn Abi Shaybah and was [graded authentic by al-Albani in Sahih al-Sirah](https://islamqa.info/en/answers/249967), with one narrator in it whose reliability is disputed.
 
 This is the impostor's dream deal: the full price, paid up front, with no war and no risk. A man whose preaching was a means to money or a throne takes the deal and the story ends: the goal is reached, the means can be dropped. He refused it, recited Qur'an to ʿUtbah instead, and kept the message, and with it the boycott, the siege, the exile, and the wars.
 
@@ -45,7 +45,7 @@ note: 'Armor was a warrior’s most valuable equipment; a saʿ is a grain measur
 ```
 
 ```hadith
-text: 'عن عروة عن عائشة رضي الله عنها أنها قالت لعروة: ابنَ أختي، إنْ كنّا لَننظر إلى الهلال ثلاثةَ أهلّةٍ في شهرين وما أُوقِدت في أبيات رسول الله ﷺ نار. فقلت: ما كان يُعيشكم؟ قالت: الأسودان، التمرُ والماء…'
+text: 'عن عروة عن عائشة أنها قالت لعروة: ابنَ أختي، إنْ كنّا لَننظر إلى الهلال ثلاثةَ أهلّةٍ في شهرين وما أُوقِدت في أبيات رسول الله ﷺ نار. فقلت: ما كان يُعيشكم؟ قالت: الأسودان، التمرُ والماء، إلا أنه قد كان لرسول الله ﷺ جيرانٌ من الأنصار كان لهم منائح، وكانوا يمنحون رسولَ الله ﷺ من أبياتهم فيسقيناه.'
 source: 'Sahih al-Bukhari 6459'
 url: 'https://sunnah.com/bukhari:6459'
 translation: 'Aisha told her nephew: “We would sight three new moons in two months without a fire being lit in the households of the Messenger of Allah ﷺ.” He asked: “What kept you alive?” She said: “The two black things: dates and water,” with milk the Ansar neighbors would gift.'
@@ -60,7 +60,7 @@ If the religion had been a business, where is the merchandise? He refused the pr
 claim: Motives aren’t only financial. Maybe he wanted power itself, or glory, or to have his name venerated, pleasures a man can feast on while living on dates and water.
 answer: |-
   This is the strongest version of the objection, so test it against how glory-seekers actually behave: they collect titles, demand veneration, and build dynasties for their heirs. His authenticated record is the opposite, item by item. A power-seeker had a shortcut on the table: Quraysh’s own offer was mastery and kingship in cash; he refused it and chose thirteen years of persecution, siege, and the stones of Taif, years in which no worldly horizon of victory existed. And a veneration-seeker does not say what is authentically his: “Do not extol me as the Christians extolled the son of Maryam; I am only His servant; so say: the servant of Allah and His Messenger” (al-Bukhari 3445). A man who commanded hearts and swords, forbidding people to overpraise him.
-  And the “he wanted glory” hypothesis assumes he knew the mission would succeed. In Makkah in 613, every human calculation pointed the other way: the enmity of his people and the loss of the standing he already securely had: he was respected, trusted, and beloved before the call. By claiming prophethood he lost precisely what a status-seeker seeks.
+  And the “he wanted glory” hypothesis assumes he knew the mission would succeed. In Makkah around 613 CE, every human calculation pointed the other way: the enmity of his people and the loss of the standing he already securely had: he was respected, trusted, and beloved before the call. By claiming prophethood he lost precisely what a status-seeker seeks.
 ```
 
 ```rule
