@@ -18,7 +18,7 @@ note: Jubayr ibn Mutʿim heard this before his Islam and said his heart nearly t
 
 **And the universe began.** Modern cosmology itself holds that the universe has a beginning; what begins cannot explain itself, and a chain of causes cannot run backwards forever.
 
-**And precision is not what accidents write.** Physical constants tuned so finely that a hair’s deviation would mean no stars and no cells; the eye reading this line is more intricate than anything humans have built. “Chance” is an explanation that gets weaker the more precisely we measure.
+**And precision is not what accidents write.** Physical constants tuned so finely that a hair’s deviation would mean no stars and no cells; the eye reading this line is a self-focusing lens over a layered, color-discriminating sensor. “Chance” is an explanation that gets weaker the more precisely we measure.
 
 **And “then who created God?” misfires.** The rule “everything needs a cause” applies to what *comes into being*. The Creator the argument points to is first, with nothing before Him, not the kind of thing the rule ranges over. Among the more striking credentials of the Prophet ﷺ: he foretold that people would reach exactly this question, and taught the answer.
 
@@ -28,7 +28,7 @@ note: Jubayr ibn Mutʿim heard this before his Islam and said his heart nearly t
 
 ## Third: the God the evidence points to
 
-One, without partner: plurality of absolute wills is incoherent, and the order of the cosmos testifies against it. The Most Merciful, nearer to His servant than any other near one. He created us for the noblest of purposes, to know Him and worship Him, out of no need of ours to fill.
+One, without partner: plurality of absolute wills is incoherent, and the order of the cosmos testifies against it. The Most Merciful, nearer to His servant than anyone or anything else. He created us for the noblest of purposes, to know Him and worship Him, out of no need of ours to fill.
 
 ## Fourth: revelation is necessary, and the message is one
 

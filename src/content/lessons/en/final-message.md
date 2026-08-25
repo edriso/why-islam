@@ -31,21 +31,21 @@ translation: '“This day I have perfected your religion for you, completed My f
 note: This passage came down on the day of ʿArafah during the Farewell Pilgrimage, about three months before the Prophet’s ﷺ death. The declaration of completion came from the revelation itself, while he was alive and reciting it.
 ```
 
-And the weight of this verse was not lost even on a scholar of another scripture:
+And the weight of this verse was not lost even on a man of another scripture:
 
 ```hadith
 text: 'يَا أَمِيرَ الْمُؤْمِنِينَ، آيَةٌ فِي كِتَابِكُمْ تَقْرَءُونَهَا لَوْ عَلَيْنَا مَعْشَرَ الْيَهُودِ نَزَلَتْ لاَتَّخَذْنَا ذَلِكَ الْيَوْمَ عِيدًا… قَالَ عُمَرُ قَدْ عَرَفْنَا ذَلِكَ الْيَوْمَ وَالْمَكَانَ الَّذِي نَزَلَتْ فِيهِ عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ قَائِمٌ بِعَرَفَةَ يَوْمَ جُمُعَةٍ'
 source: 'Sahih al-Bukhari 45'
 url: 'https://sunnah.com/bukhari:45'
 translation: '“O Commander of the Faithful, there is a verse in your Book which you recite; had it been revealed to us, the community of the Jews, we would have taken that day as a festival.” … ʿUmar said, “We know that day, and the place where it was revealed to the Prophet ﷺ: he was standing at ʿArafah, on a Friday.”'
-note: 'A Jewish scholar read the completion verse and instantly grasped its weight: a day on which a religion is completed deserves to be a festival. ʿUmar’s reply: we have kept that day and that place. It fell on a Friday, the day Muslims gather every week, at ʿArafah, the summit of the pilgrimage.'
+note: 'A man of the Jews brought up the completion verse and instantly grasped its weight: a day on which a religion is completed deserves to be a festival. ʿUmar’s reply: we have kept that day and that place. It fell on a Friday, the day Muslims gather every week, at ʿArafah, the summit of the pilgrimage.'
 ```
 
 Read the scene without any triumphalism: there is no winner and loser in it, only two readers who know what revelation weighs. One says: had it come to us, we would have made it a feast. The other answers: the moment is kept with us, down to its day and its place. A community that remembers, for a single verse, the day and the spot where it came down is the same community you watched, in the previous lesson, preserve the entire text.
 
 ## To all of mankind
 
-The messages before him were sent to particular peoples, for their time and their place. This message announces something else about itself:
+The messages before him were sent to particular peoples, for their time and their place. A Christian reader will object at once, and fairly: Matthew’s Gospel closes with a commission to all nations. The Qur’an’s claim is not that no earlier community understood itself as sent outward; it is about whom each messenger was sent to in the first place, and the Qur’an says of ʿIsa that he was sent to the Children of Israel (3:49, 61:6). Where the two accounts differ, that difference is something to weigh, not something to slip past. This message announces something else about itself:
 
 ```ayah
 ref: 34:28

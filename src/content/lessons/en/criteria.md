@@ -60,7 +60,7 @@ Each criterion has its reason:
 1. **A concept of God that survives reason.** The earlier units established a Creator who is one without partner, first without beginning, and in need of nothing. Any religion offering a God who multiplies, or needs, or is described in ways that unmake His perfection has already failed the standard that reason itself established, before we open its book.
 2. **A revelation whose text is preserved.** A message whose original is lost, or mixed with human words, cannot bind anyone to its letter. How could a person be held to a text he has no way to verify? Preservation is not a bonus feature; it is the precondition of a message having authority at all.
 3. **Internal coherence.** Truth does not contradict itself. A book that asserts a thing and its opposite on the fundamentals of belief cannot be the reference for the greatest questions.
-4. **A message for all people.** The Lord of all creation is not the god of one tribe. A religion that makes salvation a matter of bloodline testifies against itself that it is narrower than the Lordship of the Creator of everyone.
+4. **A message for all people.** The Lord of all creation is not the god of one tribe. A religion that made salvation a matter of bloodline would testify against itself that it is narrower than the Lordship of the Creator of everyone. This is a test, not an accusation aimed at anybody: most traditions, asked directly, deny that they do this, and their answer is part of what gets weighed.
 5. **A law humans can live.** A law nobody can keep is either abandoned or turns its followers into pretenders. Islam states this principle about itself, and that claim will be weighed like every other:
 
 ```ayah

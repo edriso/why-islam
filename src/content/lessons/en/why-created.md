@@ -68,9 +68,9 @@ To weigh Islam's answer fairly, set it beside the only other product on the shel
 columns:
   - title: A universe with no Creator and no purpose
     points:
-      - Meaning is a story we tell ourselves to bear living, while the cosmos behind it is deaf and does not know we exist
-      - Your worth is a passing chemical sensation on a marginal planet
-      - Every love, justice and sacrifice is erased by death, with no appeal
+      - Meaning is something we make, and it is real to us even if it is not written into the universe
+      - Your worth is that you are a conscious being who suffers and loves, and that alone is enough to ground real ethics
+      - Death is the end with no appeal, and the shortness of a life is what makes it precious
       - The question “why am I here” has no answer because, on this picture, it was never a meaningful question
   - title: A universe created by the Most Merciful, for a purpose
     points:

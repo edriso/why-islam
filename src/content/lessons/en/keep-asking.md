@@ -24,7 +24,7 @@ This verse asks two things of you: actually ask (rather than letting a question 
 Asking has an etiquette that separates the seeker of truth from the seeker of victory, binding on you within yourself before anyone else:
 
 - **Ask to understand, not to corner:** the question hunting for an answer usually finds one; the question hunting for a fight always does.
-- **Size the question correctly:** there is a difference between a question about the religion's foundation and one about a fine branch; never let fog around a branch overturn a root whose proof already stood. You met this in "What being Muslim means": the passenger certain of flight loses nothing by not having finished the aerodynamics textbook.
+- **Size the question correctly:** there is a difference between a question about the religion's foundation and one about a fine branch; never let fog around a branch overturn a root whose proof already stood. Never let fog around a branch overturn a root whose proof already stood: the passenger certain of flight loses nothing by not having finished the aerodynamics textbook.
 - **And do not assert without knowledge:** as one verse commands asking the knowledgeable, its sister forbids asserting what you do not know (17:36). Suspending judgment where you are ignorant is also an act of worship.
 
 ## The second door: the Lord of knowledge

@@ -33,7 +33,7 @@ Look closely at the comparison: distorted religion needs an outside agent (“th
 
 If the idea of a Creator were merely cultural inheritance, it would vanish wherever the culture doesn’t transmit it. Reality says otherwise:
 
-- **Its universality.** History knows no civilization without worship, including peoples isolated on islands and in forests who inherited nothing from anyone. People go wrong about *whom* to worship; the *turning toward something worshipped* never goes missing. And getting a thing wrong is evidence the thing exists, not that it doesn’t.
+- **Its universality.** History knows no civilization without worship, including peoples isolated on islands and in forests, cut off from any tradition the rest of the world passed around. People go wrong about *whom* to worship; the *turning toward something worshipped* never goes missing. And getting a thing wrong is evidence the thing exists, not that it doesn’t.
 - **The moment of crisis.** When a person faces real danger with no way out, the heart turns *upward*, before any decision, without any reasoning. The Qur’an names this moment precisely:
 
 ```ayah
@@ -47,10 +47,10 @@ note: 'At sea, when every earthly means is cut off, every claimed deity “stray
 ref: 29:65
 highlight: دعوا الله مخلصين له الدين
 translation: '“When they board the ship, they call on Allah, making their faith pure for Him alone; but when He brings them safely to land, at once they associate others with Him.”'
-note: 'Revealed about idol-worshippers, yet on the water their prayer went to Allah alone. The crisis taught them nothing new; it uncovered what was under the rubble.'
+note: 'The verse describes the idol-worshippers: on the water, their prayer went to Allah alone. The crisis taught them nothing new; it uncovered what was under the rubble.'
 ```
 
-This is not a report about seventh-century Arabs. The atheist in a plunging elevator or a shaking aircraft finds a call in his chest he cannot account for. Why does the heart turn, under pressure, to the very address the tongue spent a lifetime denying? If no one is there, where is the call going?
+This is not a report about seventh-century Arabs. Plenty of people who do not believe describe it themselves: a plunging elevator, a shaking aircraft, and a call in the chest they cannot account for. Others say honestly that they have never felt it, and nobody is being told what is in their own heart. The question is only about those who did find it there. Why does the heart turn, under pressure, to the very address the tongue spent a lifetime denying? If no one is there, where is the call going?
 
 ## Buried, not dead
 

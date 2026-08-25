@@ -73,7 +73,7 @@ columns:
 claim: Every religion claims to be the original and calls the others the deviation. Islam’s claim is one of many identical claims. Why believe this one in particular?
 answer: |-
   A fair objection, and the first answer is: don’t believe it yet. This lesson presents the claim; it does not ask you to grant it. The case for it belongs to the units ahead, where the weighing criteria are declared openly (uncompromised monotheism, a preserved text, internal coherence) and applied to Islam before anyone else.
-  But notice already that this is not a “trust me” claim: it commits itself to consequences that can be checked. If the message was one, you should find explicit monotheism in the oldest layers of the great traditions, and you do: the first of Musa’s commandments is the worship of God alone, and when ʿIsa was asked for the greatest commandment, his answer as the Gospels themselves report it begins: the Lord our God is one Lord. And if the message was completed in a preserved text, then exactly one unchanged text ought to exist today, a matter you settle by historical examination, not by taking anyone’s word.
+  But notice already that this is not a “trust me” claim: it commits itself to consequences that can be checked. If the message was one, you should find explicit monotheism in the oldest layers of the great traditions, and you do: the first of Musa’s commandments is the worship of God alone, and when ʿIsa was asked for the greatest commandment, his answer as Mark’s Gospel reports it (Mark 12:29) begins: the Lord our God is one Lord. And if the message was completed in a preserved text, then exactly one unchanged text ought to exist today, a matter you settle by historical examination, not by taking anyone’s word.
 ```
 
 ```rule

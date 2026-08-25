@@ -8,7 +8,7 @@ tags: [the Rome prophecy, foretelling, Surah al-Masad]
 
 ## A prophecy with a deadline
 
-Around the year 614, Persia crushed Rome: it tore away Syria and Egypt and entered Jerusalem, and the Roman empire looked finished; historians of the period describe its condition as despair. The pagans of Makkah gloated over the Muslims: our fellow fire-worshippers have beaten the people of scripture, and we will do the same to you.
+In 614 Persia crushed Rome: it tore away Syria, entered Jerusalem and carried off the Christians’ greatest relic, then went on to swallow Egypt four years later. The Roman empire looked finished, and in the historians’ description it was a state on the edge of disappearing. The pagans of Makkah gloated over the Muslims: our fellow fire-worshippers have beaten the people of scripture, and we will do the same to you.
 
 Then came verses that contradicted every visible strategic calculation:
 
@@ -27,12 +27,14 @@ note: 'Then the explicit prophecy: the crushed loser will win. No “perhaps,”
 
 ```ayah
 ref: 30:4
-show: في بضع سنين
-translation: '“within a few (biḍʿ) years…”'
+highlight: في بضع سنين
+translation: '“Within a few (biḍʿ) years. To Allah belongs the command, before and after; and on that day the believers will rejoice.”'
 note: 'The most dangerous element: a deadline. In Arabic, biḍʿ means three to nine; the verse schedules its own public examination and holds no power to postpone it.'
 ```
 
-Weigh the gamble if these were human words: the resurrection of a collapsing empire was a matter in which Muhammad ﷺ commanded not one soldier; the term was fixed; and his enemies were watching for any slip. Then it happened as stated: Heraclius rose in his famous counter-campaign, broke Persia's power in its own heartland, and recovered what was lost, within the term. (Which two battles exactly bracket the "few years," historians discuss; ancient chronology is approximate, and this guide names that openly. But the prophecy's substance (a hopeless loser overturning into victor within a handful of years) is uncontested historical fact.)
+Weigh the gamble if these were human words: the resurrection of a collapsing empire was a matter in which Muhammad ﷺ commanded not one soldier; the term was fixed; and his enemies were watching for any slip. Then it happened as stated: Heraclius launched his famous counter-campaign in 622 and carried the war onto Persian soil, and the balance turned over completely, until Persia was beaten in its own heartland in 627 and gave back what it had taken.
+
+Which years exactly are the "few"? Here people differ, and you are owed the disagreement rather than a smooth surface. The commentators count the term from the revelation rather than from the defeat, and place the fulfillment at Badr in 2 AH on one report from Abu Saʿid al-Khudri, or at al-Hudaybiyah on another; on that reckoning the term falls inside bidʿ. Count instead from the fall of Jerusalem in 614, and Heraclius's turn in 622 falls inside nine years while the decisive blow at Nineveh in 627 falls outside them. Ancient chronology is approximate either way. What nobody disputes is the substance: an empire written off as finished came back as victor within a handful of years, and the announcement was made while every visible calculation said the opposite.
 
 And the Qur'an itself names this category of knowledge and argues from it:
 
@@ -50,7 +52,7 @@ The second prophecy is bolder, because refuting it lay in the hands of a living 
 ```ayah
 ref: 111:3
 translation: '“He will burn in a fire of blazing flame.”'
-note: 'A categorical verdict on a living man: he will die a disbeliever and enter the Fire. No exception clause, no condition.'
+note: 'A categorical verdict on a living man: he will die a disbeliever and enter the Fire. No exception clause, no condition. That it came down in his presence is established in the Sahih: when the Prophet ﷺ gathered Quraysh at as-Safa, Abu Lahab said “Perish you, is this why you gathered us?”, and the surah came down (al-Bukhari 4801).'
 ```
 
 Now stand in Abu Lahab's place. Your enemy is reciting to the public a surah declaring you will never believe. The cheapest weapon imaginable lies in your hand: stand in the marketplace and say *"I bear witness there is no god but Allah"* (one sentence, even hypocritically), and your enemy's book refutes itself in front of everyone. Abu Lahab lived roughly ten years after the surah came down, hearing it recited, and died on his disbelief without ever saying the sentence. Ten years with the door open, while the book's supposed human author would have been hostage, every morning, to a single sentence his enemy could choose to say. Who gambles like that with a book he claims is infallible?
@@ -61,7 +63,7 @@ Now stand in Abu Lahab's place. Your enemy is reciting to the public a surah dec
 claim: 'Perhaps the Rome verses were inserted into the Qur’an after Rome actually won; or they were a guess that happened to land: soothsayers’ lucky hits are remembered and their misses forgotten.'
 answer: |-
   Insertion after the event collides with how the Qur’an was transmitted, as the “Why Islam?” unit details: a text recited publicly and memorized by dozens, then hundreds, from the moment of revelation, in Makkah, before Muslims had any state or editorial power. Retro-inserting verses into a text carried in the memories of followers and enemies alike is a claim that needs a mechanism nobody has described; and the sources that date the revelation before the event are the same sources that record the event.
-  As for “soothsayers sometimes hit”: a true rule, with a condition. The soothsayer hits by volume and vagueness, so his misses drown the record. This case is its opposite in every respect: one prophecy with specified parties (who will win, who will lose, and within how long) against the visible odds; plus al-Masad’s bet left open for a decade. Had the Qur’an ever missed such a throw, its enemies, who counted its every breath, would have seized it that very day; not a word of the kind is recorded from them.
+  As for “soothsayers sometimes hit”: a true rule, with a condition. The soothsayer hits by volume and vagueness, so his misses drown the record. This case is its opposite in every respect: one prophecy with specified parties (who will win, who will lose, and within how long) against the visible odds; plus al-Masad’s bet left open for a decade. Had the Qur’an ever missed such a throw, its enemies, who counted its every breath, would have seized it that very day; not a word of the kind is recorded from them in anything of theirs that reached us.
   And note the method: this lesson built nothing on elastic predictions that fit any outcome. It used dated, falsifiable announcements that survived falsification. That is the difference between evidence and marketing.
 ```
 

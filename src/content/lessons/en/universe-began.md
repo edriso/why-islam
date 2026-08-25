@@ -11,7 +11,7 @@ tags: [beginning of the universe, cosmological argument, infinite regress]
 “The universe is eternal; it has no beginning” was the classic escape from the question of a Creator: what never began needs no one to begin it. The last century closed that escape from an unexpected direction: the observatories.
 
 - **The expansion.** Since the 1920s, measurements have shown the galaxies receding from one another: the universe is expanding. Run the film backwards and you arrive at an initial state of extreme density and heat, at which the space and time we know begin. That is today’s standard model of cosmology, not its critics’ view, and in it the universe’s age is finite: about 13.8 billion years.
-- **The running-down of usable energy.** The second law of thermodynamics: the energy available to do work steadily decreases, like a wound clock unwinding. If an infinite past lay behind us, the clock would have unwound an infinity ago: every star burnt out, temperature evened out everywhere. Yet the sun is still burning. A clock still ticking is evidence that it was once wound.
+- **The running-down of usable energy.** The second law of thermodynamics: the energy available to do work steadily decreases, like a wound clock unwinding. If an infinite past lay behind us, the clock would have unwound an infinity ago: every star burnt out, temperature evened out everywhere. Yet the sun is still burning. A clock still ticking is evidence that it was once wound. This is a supporting argument from reason rather than an independent observation, and physicists dispute it: in an expanding universe the ceiling of entropy rises too, so equilibrium is not forced. We offer it as something that strengthens the case, not as a pillar the case stands on.
 
 Honesty requires a caveat: science here describes the event and does not name its cause, which is not a weakness in the argument but the boundary of science’s tools. What observation supplies is the premise: the universe began. What follows from that premise is reason’s business, and we turn to it now.
 
@@ -45,12 +45,12 @@ Your existence is the shot that actually rang out. Every link in the chain of ca
 claim: The Big Bang is not necessarily an absolute beginning. Perhaps our universe is one link in a beginningless series of universes, or arose from a prior state described by physics we don’t yet have, so it’s premature to build anything on “a beginning.”
 answer: |-
   Physics discusses this possibility seriously, so let us take it seriously. First: it is a hypothesis with no observation behind it, while a beginning is the straightforward reading of the evidence we actually have; these are not two equally supported readings.
-  Second: the modern theorems themselves squeeze it. The Borde–Guth–Vilenkin theorem (2003) holds that any universe which is, on average, expanding cannot have a past that extends without limit, so even a chain of successive universes would, on its terms, still need a beginning. Theoretical attempts to escape its assumptions exist; none is complete, and none has an observation to its name.
+  Second: the modern theorems themselves squeeze it. The Borde-Guth-Vilenkin theorem proves that any spacetime which is, on average, expanding is incomplete toward the past, meaning that describing its past boundary takes physics other than expansion. Vilenkin built on that to argue that the scenarios offered for an eternal past, chains of successive universes among them, cannot deliver a past without a beginning. That reading is not a consensus: some physicists read the result more narrowly, Guth among them, and he is one of the theorem’s authors. The point is that escaping into an infinite past is not the easy exit it is taken to be, not that the matter is closed. Theoretical attempts to escape its assumptions exist; none is complete, and none has an observation to its name.
   Third, and most important: lengthening a chain is not explaining it. Put a universe before ours, and a thousand before that: the chain of soldiers you just met fires no shot by adding soldiers. The question does not dissolve with more intermediaries; it grows more insistent.
 ```
 
 ```rule
-Whatever begins needs something to begin it. The universe began (witnessed by the expansion, by the running-down of usable energy, and by the standard model of cosmology), so the universe has an originator. And a chain of originators cannot run back without a First; there must be a First preceded by nothing. Who that First is, and why “what caused Him?” is not a gap in this argument, is the final lesson of this unit.
+Whatever begins needs something to begin it. The universe began (witnessed by the expansion and by the standard model of cosmology, and supported by the argument from the running-down of usable energy), so the universe has an originator. And a chain of originators cannot run back without a First; there must be a First preceded by nothing. Who that First is, and why “what caused Him?” is not a gap in this argument, is the final lesson of this unit.
 ```
 
 ```note
@@ -66,7 +66,7 @@ questions:
       - Philosophers voted on it at a scientific congress
       - The universe is too small to be old
     answer: 0
-    why: Two independent lines of evidence (expansion and thermodynamics) both point to a finite past, and that is the standard model of cosmology today.
+    why: Expansion is cosmology’s own witness to a finite past and is the standard model today; the running-down of usable energy is an argument from reason that supports it rather than standing in its place.
   - q: What is the point of the analogy of soldiers waiting for permission to fire?
     options:
       - A chain of dependent intermediaries produces nothing however long it is, so the fact that anything happened proves a first, independent member

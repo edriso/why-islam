@@ -12,7 +12,7 @@ This unit does not ask you to think well of Muhammad ﷺ. It asks the opposite: 
 
 ## Forty years before the claim
 
-Muhammad ﷺ did not claim prophethood as an unknown young man. He was forty: a whole adult life lived among his people, house by house and market by market. And their verdict on that life was a nickname they gave him before any revelation existed: **al-Amin**, the trustworthy.
+Muhammad ﷺ did not claim prophethood as an unknown young man. He was forty: a whole adult life lived among his people, house by house and market by market. And their verdict on that life was a nickname they gave him before any revelation existed: **al-Amin**, the trustworthy. You do not have to rely on the sirah for this. The day he first climbed as-Safa to call them, he asked: if I told you a cavalry force in the valley meant to raid you, would you believe me? They answered in their own words: "We have never found you anything but truthful" (al-Bukhari 4770). That is their testimony, recorded in the soundest book after the mushaf, spoken a moment before they heard any claim of prophethood at all.
 
 It was not flattery; it was behavior, and it continued even from those fighting him. The Makkans kept depositing their valuables with him while rejecting his message and torturing his followers. The sirah literature (Ibn Hisham’s biography) records that on the very night of his escape from Makkah, with his people plotting to kill him, he left ʿAli ibn Abi Talib behind for one task: to return the deposits to their owners. Hold that scene still for a moment: a people saying “liar” with their tongues, while their own hands said “there is no one else we trust with our money.”
 
@@ -29,7 +29,7 @@ note: 'The argument, as the commentators read it: you have forty years of data o
 ref: 6:33
 highlight: فإنهم لا يكذبونك
 translation: '“We know well that what they say grieves you. Yet it is not you they disbelieve; it is the signs of Allah the wrongdoers reject.”'
-note: 'As the commentators explain: they could not call the man a liar; his truthfulness was tested and known. Their quarrel was with the message, never with his record.'
+note: 'As the commentators explain: in their own hearts they were not accusing the man of lying, since his truthfulness was tested and known; their quarrel was with what he brought. Abu Jahl said it in as many words: we do not call you a liar, we reject what you have brought.'
 ```
 
 ## An enemy’s testimony in an emperor’s court

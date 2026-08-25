@@ -70,10 +70,10 @@ text: 'ما مِن الأنبياءِ نبيٌّ إلّا أُعطيَ ما مث
 source: 'Sahih al-Bukhari 4981'
 url: 'https://sunnah.com/bukhari:4981'
 translation: '“Every prophet was given signs of a kind that made people believe in him. What I was given is a revelation that Allah revealed to me, so I hope to have the most followers on the Day of Resurrection.”'
-note: 'The signs of earlier prophets were witnessed by their generation and then became reports. This Prophet’s ﷺ sign is the revelation itself: a standing text, in your hands, testable right now.'
+note: 'The signs of earlier prophets were witnessed by their generation and then became reports. This Prophet’s ﷺ enduring sign is the revelation itself: a standing text, in your hands, testable right now. He had other signs, soundly reported, but those ended with the generation that saw them, exactly as earlier prophets’ did. This one did not.'
 ```
 
-That is why the challenge has no expiry date. Arabic is a living language mastered by hundreds of millions, non-Muslim writers and critics among them, and dismantling Islam with a single paragraph would be the biggest prize in the history of religious debate. Yet the silence has now lasted fourteen centuries. This is not an old anecdote; it is an experiment still running in front of you.
+That is why the challenge has no expiry date. Arabic is a living language mastered by hundreds of millions, non-Muslim writers and critics among them, and dismantling Islam with a single paragraph would be the biggest prize in the history of religious debate. Yet the result has been the same for fourteen centuries. The claim is not that nobody has tried. Musaylima tried in the Prophet’s own lifetime; attempts are reported from Ibn al-Muqaffaʿ and Ibn al-Rawandi and others; and in 1999 a book called al-Furqan al-Haqq was published and announced as the answer to the challenge. The claim is that every attempt has been laid before people who know the language, Muslim and not, and none has held its ground. That is a judgment you do not have to take from us: the attempts are in print, and you can read them. This is not an old anecdote; it is an experiment still running in front of you.
 
 ```doubt
 claim: Beauty is subjective. I have read the Qur’an in translation and it did not strike me as miraculous; an argument from eloquence cannot bind someone who does not feel it.

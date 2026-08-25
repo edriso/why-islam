@@ -27,7 +27,7 @@ note: 'Musa’s answer when Pharaoh demanded to know who his Lord was. Guidance 
 
 ## What did reason alone actually produce?
 
-This is not a thought experiment; humanity ran it, for millennia. The fitrah pushes everyone to seek something to worship (lesson two established that), and seeking without a map, people worshipped the sun, the stars, rivers, cattle, kings, and idols their own hands had carved. Thousands of contradictory religions, all testifying to one thing: the question is built into us; the answer’s details are not.
+This is not a thought experiment; humanity ran it, for millennia. The fitrah pushes everyone to seek something to worship (lesson two established that), and seeking without a map, people worshipped the sun, the stars, rivers, kings, and idols their own hands had carved. Thousands of contradictory religions, all testifying to one thing: the question is built into us; the answer’s details are not.
 
 Nor was this only the crowd. The Greek philosophers, giants of logic, disagreed about God, the soul, death, and the good life, and disagreed completely. If bare reason sufficed here, the greatest minds would have converged on the answer the way they converge on arithmetic.
 

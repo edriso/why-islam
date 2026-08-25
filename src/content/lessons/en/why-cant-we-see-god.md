@@ -45,7 +45,7 @@ translation: '“When Musa came to Our appointed meeting and his Lord spoke to h
 note: 'Musa was not told “you have asked for something that does not exist.” He was shown why it cannot be seen in this world: the mountain could not withstand the disclosure. The limit is in the receiver’s capacity, not in the existence of the one asked about.'
 ```
 
-Sit with what the story contains. A prophet asks to see God, and the asking itself is not rebuked. And the answer is not a denial of existence but a demonstration of capacity: solid rock could not bear the disclosure, so what then of a human eye? The question is one of capacity and of which world you are standing in, not of whether anything is there.
+Sit with what the story contains. A prophet asks to see God, and he is not told that the thing he asked for does not exist. And the answer is not a denial of existence but a demonstration of capacity: solid rock could not bear the disclosure, so what then of a human eye? The question is one of capacity and of which world you are standing in, not of whether anything is there.
 
 ```note
 Not seeing Him in this life is not an absolute impossibility. It is Muslim belief that the believers will see their Lord in the Hereafter (Surat al-Qiyamah, 75:22–23), when creation is remade in a form that can bear what this world’s eyesight cannot. The shortfall belongs to the world and the instrument, not to the One seen.
@@ -70,7 +70,7 @@ answer: |-
 ```
 
 ```rule
-Sight is one road to knowledge, not its only condition and not its summit. Whoever accepts minds, gravity, and history on their effects, then rejects the universe’s testimony to its Maker because his eye never landed on Him, has switched scales for one question only. And the Qur’an never asks for belief without effects: it points at the effects and asks: do they not indicate?
+Sight is one road to knowledge, not its only condition and not its summit. Whoever accepts minds, gravity, and history on their effects, then rejects the universe’s testimony to its Maker because his eye never landed on Him, is applying to one question a standard he applies to nothing else. And the Qur’an never asks for belief without effects: it points at the effects and asks: do they not indicate?
 ```
 
 ```quiz
@@ -92,6 +92,8 @@ questions:
     answer: 0
     why: The mountain crumbling at the disclosure showed this is a question of the receiver’s capacity and of which world you stand in, and believers will see Him in the Hereafter, when creation is remade to bear it.
   - q: How does the lesson answer “I only trust what can be measured”?
+    ref: 67:14
+    word: ألا يعلم من خلق
     options:
       - The rule itself cannot be measured, so it fails its own test; and the case offered rests on empirical premises anyway
       - Measurement is worthless and plays no role in knowledge

@@ -15,7 +15,7 @@ Watch a kettle boil, and ask: why is the water boiling?
 
 Both answers are true at once, and neither competes with the other, because they answer different questions: **mechanism** and **purpose**. That is where science and religion sit on the map. Science owns the "how" question, and any religious claim that muscles into measuring the measurable has overstepped. But "why is there anything?" and "what ought I do?" stand outside the laboratory *by construction*, not by accident: no microscope images "purpose," and no scale weighs "good."
 
-That is why "science has disproven God" is a double methodological error: denying what an instrument cannot measure, using the instrument unfit for it. And the matter runs deeper: science's own success is a phenomenon crying out for explanation: why is the universe lawful, stable, discoverable, mathematically expressible, and intelligible to a mind that grew up inside it? The universe's orderliness is science's working capital, and science cannot account for it. It is exactly what you would expect if a wise Lawgiver stands behind the cosmos, and exactly what has no right to be there if existence bottoms out in accident.
+That is why "science has disproven God" is a double methodological error: denying what an instrument cannot measure, using the instrument unfit for it. And the matter runs deeper: science's own success is a phenomenon crying out for explanation: why is the universe lawful, stable, discoverable, mathematically expressible, and intelligible to a mind that grew up inside it? The universe's orderliness is science's working capital, and science cannot account for it. It is exactly what you would expect if a wise Lawgiver stands behind the cosmos, and on the other account it is a brute fact you can only accept and not explain.
 
 ## A religion that commands the first empirical step
 
@@ -25,7 +25,7 @@ As for Islam being science's enemy, its founding text refutes the charge before 
 ref: 10:101
 highlight: قل انظروا ماذا في السماوات والأرض
 translation: '“Say: look at what is in the heavens and the earth…”'
-note: 'An explicit command of sensory observation: look at what is IN the heavens and the earth, not merely muse in the abstract. This is the Lord of the worlds ordering data collection.'
+note: 'A command to look at what is in the heavens and the earth: at the sun and moon, the alternation of night and day, the mountains and the plants, as al-Tabari spells it out; and what is meant is the looking of thought, reflection and consideration, as al-Saʿdi puts it. Looking into the universe is commanded in this religion, not forbidden, and the invitation is addressed to the eye and the mind together.'
 ```
 
 ```ayah
@@ -35,7 +35,7 @@ translation: '“…who remember Allah standing, sitting and on their sides, and
 note: 'The mark of people of understanding: remembrance and reflection on the creation together, a worshipping heart and an investigating mind in one verse. In this religion, studying the cosmos is worship, not a charge to answer.'
 ```
 
-The early Muslims took the command literally, and their cities were the world's scientific capitals for centuries: Ibn al-Haytham built the experimental method in optics six hundred years before Bacon; medicine, astronomy and mathematics flourished from Baghdad to Córdoba; the words *algebra* and *algorithm* are Arabic. And the pioneers of Europe's scientific revolution (Copernicus, Kepler, Newton, Boyle) were believers in God who saw discovering laws as reading the Creator's book. So where is the eternal war between science and faith? Modern historians of science themselves classify the "conflict thesis" as a late nineteenth-century construction, not an honest description of the record.
+The early Muslims took the command literally, and their cities were the world's scientific capitals for centuries: Ibn al-Haytham, working in Cairo, built the experimental method in optics six hundred years before Francis Bacon; medicine, astronomy and mathematics flourished from Baghdad to Córdoba; the word *algebra* is al-jabr, and *algorithm* carries al-Khwarizmi’s own name. And the pioneers of Europe's scientific revolution (Copernicus, Kepler, Newton, Boyle) were believers in God who saw discovering laws as reading the Creator's book. So where is the eternal war between science and faith? Modern historians of science themselves classify the "conflict thesis" as a late nineteenth-century construction, not an honest description of the record.
 
 ## “I only believe what science proves”
 
@@ -43,7 +43,7 @@ The early Muslims took the command literally, and their cities were the world's 
 claim: The only rational stance is to accept nothing except what the empirical method has established. Everything else, religion first among them, is conjecture that never rises to knowledge.
 answer: |-
   Apply the rule to itself: the sentence “accept nothing except what the empirical method establishes” is not the result of any experiment or measurement, so by its own standard it is inadmissible conjecture. This is not a word game; it exposes what the stance actually is: a philosophy about science, not a finding of science. Scientism is a doctrine wearing a lab coat.
-  Its holder doesn’t live by it either. He trusts logic and mathematics (no experiment proves them; every experiment presupposes them), historical facts (no lab can rerun them), the real wrongness of injustice (no microscope images it), and the reliability of his own reasoning (an assumption with no empirical proof behind it). Knowledge is wider than the laboratory; everyone’s practice concedes it. The right question is never “was it measured?” but “does it have evidence fitting its domain?” And this guide’s evidence is of exactly that kind: its premises are observational (a universe that began, precise calibration, a preserved text, a documented life), and its inferences are the same reasoning you accept in every serious question of your life.
+  Its holder doesn’t live by it either. He trusts logic and mathematics (no experiment proves them; every experiment presupposes them), historical facts (no lab can rerun them), the real wrongness of injustice (no microscope images it), and the reliability of his own reasoning (an assumption with no empirical proof behind it). Knowledge is wider than the laboratory; everyone’s practice concedes it. The right question is never “was it measured?” but “does it have evidence fitting its domain?” And this guide’s evidence is of exactly that kind: its premises are observational (a universe that began, precise calibration), with two more of the same kind, a preserved text and a documented life, still ahead of you in this guide, and its inferences are the same reasoning you accept in every serious question of your life.
 ```
 
 ## “Religion is a crutch for the weak”
@@ -52,7 +52,7 @@ answer: |-
 claim: Religion is a comforting psychological invention, an opium by which those afraid of death and the downtrodden numb their pain. The need for it explains its spread, with no requirement that it be true.
 answer: |-
   First: where an idea comes from does not settle whether it is true: the genetic fallacy, by name. Your craving for water does not make water an illusion; if anything, thirst is evidence that drink exists. So even granting that humans “need” God psychologically, that fits two explanations, not one: that they invented Him, or that they were constituted to know Him, as the fitrah lesson showed. Only evidence can arbitrate between the two, and the evidence has already been presented.
-  Second: the argument backfires harder than it fires. Which creed is actually more comfortable: that you are accountable for every word, will be raised, and will be asked? Or that there is no watcher, no resurrection, no questioning: do as you please, then sleep forever? If “the comfortable belief is the suspect belief” were a sound principle, atheism would be the prime suspect: it is a blanket amnesty from the court.
+  Second: the principle cuts the other way harder than it cuts this one. Which creed is actually more comfortable: that you are accountable for every word, will be raised, and will be asked? Or that there is no watcher, no resurrection, no questioning: do as you please, then sleep forever? If “the comfortable belief is the suspect belief” were a sound principle, atheism would be the prime suspect: it is a blanket amnesty from the court.
   Third: strange opium, this. It wakes its users before dawn to pray, denies them their appetites a month a year, deducts a share of their wealth for the poor, and holds them answerable for an ant wrongly harmed. Narcotics lower the demands on you; this religion raises them, and then grants, alongside the duty, a serenity of another species altogether: the calm of someone who knows why they are here.
 ```
 

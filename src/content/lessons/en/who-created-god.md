@@ -15,10 +15,10 @@ The answer starts by correcting the premise: we never said "everything that exis
 Nor is this an exemption we grant our side as a courtesy; it is precisely what the argument concluded. The "universe with a beginning" lesson showed that the chain of originated things cannot run back forever, and that it needs an existent *not of its kind*: an eternal First at which the chain stops. Having arrived there, the questioner turns around and applies the rule for originated things to the very being the argument proved is not one of them.
 
 ```doubt
-claim: 'That’s special pleading: you carved out a convenient exception. If an eternal uncaused God is allowed, an eternal uncaused universe is allowed, and we can cut out the middleman.'
+claim: 'That’s special pleading: you carved out a convenient exception. If an eternal uncaused God is allowed, an eternal uncaused universe is allowed, and positing a God is one assumption more than the job needs.'
 answer: |-
   The difference is not stipulation but the testimony of reality: the universe we actually have is not eternal: its own physics says it began (a beginning of time and space), and the impossibility of infinite regress says the same, as that lesson laid out. What the objector proposes, an eternal universe, is an option human thought ran with for centuries, and science itself retired it before religion had to.
-  Moreover, whatever is described as eternal must have a description fit for eternity. The universe changes; its parts are originated; time runs over it; its order dissipates thermally; and whatever changes and submits to time is no true First. So the argument never said "everything has a cause except our favorite exception." It said: the originated needs an originator, and the totality of originated things necessarily terminates in something unoriginated. The dispute, then, is not over whether a First exists (that is unavoidable on any accounting) but over its description: blind, changing matter, or the Living, the Sustainer? The precision and calibration lessons answered that: the cosmos bears the signature of intent, and blind matter does not intend.
+  Moreover, whatever is described as eternal must have a description fit for eternity. The universe changes; its parts are originated; time runs over it; its order dissipates thermally; and whatever changes and submits to time is no true First. So the argument never said "everything has a cause except our favorite exception." It said: the originated needs an originator, and the totality of originated things necessarily terminates in something unoriginated. The dispute, then, is not over whether a First exists (that is unavoidable on any accounting) but over its description: blind, changing matter, or the Living, the Sustainer? The precision lesson answered that: the cosmos bears the signature of intent, and blind matter does not intend.
 ```
 
 ## And revelation's name for this is: the First
@@ -44,19 +44,31 @@ note: '“Nothing before You.” Four words that sever the question at its root:
 
 ## The small prophecy inside the question
 
-And here is a detail worth pausing on, squarely within this guide's subject. The Prophet ﷺ foretold, fourteen centuries ago, that people's questioning would chain onward until it reached exactly this point:
+And here is a detail worth pausing on. The Prophet ﷺ foretold, fourteen centuries ago, that people's questioning would chain onward until it reached exactly this point:
+
+```hadith
+text: 'لا يزال الناسُ يتساءلون حتى يقال: هذا خلق اللهُ الخلقَ، فمن خلق الله؟ فمن وجد من ذلك شيئًا فليقل: آمنتُ بالله.'
+source: 'Sahih Muslim 134'
+url: 'https://sunnah.com/muslim:134'
+translation: '“People will not stop asking until it is said: this much Allah created, so who created Allah? Whoever finds anything of that, let him say: I believe in Allah.”'
+note: '“Will not stop” is a statement about a continuing future: the asking would carry people to this exact point, and the instruction follows it in a single sentence.'
+```
+
+A second hadith describes the nature of that chain, and its remedy:
 
 ```hadith
 text: 'يأتي الشيطانُ أحدَكم فيقول: من خلق كذا؟ من خلق كذا؟ حتى يقول: من خلق ربَّك؟ فإذا بلغَه فليستعذ بالله ولْيَنتهِ.'
 source: 'Sahih al-Bukhari 3276'
 url: 'https://sunnah.com/bukhari:3276'
 translation: '“Shaytan comes to one of you and says: who created this? who created that? until he says: who created your Lord? When it reaches that, let him seek refuge in Allah and desist.”'
-note: 'A narration in Muslim adds the instruction to say: “I believe in Allah.” The “desist” targets the spiraling whisper that never stops, not thinking itself; as you have seen, the Qur’an commands looking, emphatically.'
+note: 'The “desist” targets the spiraling whisper that never stops, not thinking itself; as you have seen, the Qur’an commands looking, emphatically.'
 ```
 
-A seventh-century man, in a culture with no tradition of philosophical disputation, predicts that "who created your Lord?" will knock on human chests in an orderly sequence, and prescribes the psychological remedy before the epistemic one: this particular chain is a compulsive loop, not a knowledge-seeking question that rests when answered. Today that very question headlines popular atheism, and the rational answer remains what it was: stop at the First; nothing is before Him.
+We are not arguing from this here: that these words are revelation is something the guide has not established yet. Record it as a note, and we will come back to weigh it in the unit on Muhammad ﷺ.
 
-Notice, too, the hadith's fairness to a psychology that did not yet exist: anyone who has experienced intrusive thoughts knows the "and who created… and who created…" spiral is not satisfied by answers, because it was never a request for one. The Prophet's instruction (break the loop and recall what the proof established) is what is said today in treating ruminative thought.
+A seventh-century man, in a culture with no tradition of Greek philosophy and its disputes, predicts that "who created your Lord?" will knock on human chests in an orderly sequence, and prescribes the psychological remedy before the epistemic one: this particular chain is a compulsive loop, not a knowledge-seeking question that rests when answered. Today that very question headlines popular atheism, and the rational answer remains what it was: stop at the First; nothing is before Him.
+
+Notice, too, the hadith's fairness to a psychology that did not yet exist: anyone who has experienced intrusive thoughts knows the "and who created… and who created…" spiral is not satisfied by answers, because it was never a request for one. And the resemblance that stops you is this: the remedy on offer is not more argument with the whisper but stepping out of the loop. That is close to what is said today to someone caught in ruminative thought, that re-entering the internal debate feeds the spiral rather than ending it. No claim that the hadith is a clinical manual; the point is the accuracy of the diagnosis.
 
 ```rule
 The argument’s rule: every originated thing needs an originator, not every existent. The argument itself forces a terminus at an unoriginated First, so “who created Him?” re-applies the originated-things rule to the very being proven outside it. Revelation names Him the First with nothing before Him. And His Prophet announced in advance that people would arrive at this exact question, and taught its answer.
@@ -82,7 +94,7 @@ questions:
     why: A First existent is unavoidable on any accounting; but a changing, time-bound thing with originated parts cannot be it, leaving an eternal, self-subsisting First distinct from the universe.
   - q: 'What does the hadith “…until he says: who created your Lord?” demonstrate?'
     options:
-      - A prediction, fourteen centuries early, that people would reach exactly this question (with its compulsive nature described and its remedy taught), and it happened as foretold
+      - A prediction, fourteen centuries early, that people would reach exactly this question (with its compulsive nature described and its remedy taught)
       - A general prohibition on thinking about the universe
       - Proof that the question has no answer
       - That Shaytan literally creates questions

@@ -42,14 +42,14 @@ note: 'Meaning: he was the living practice of what he recited to people: no gap 
 
 ## The day of Taif: mercy under blood
 
-On the hardest day of his life (Aisha had asked him: was any day harder on you than Uhud?) he told the story of going out to Taif to present his message, and its rabble driving him off with stones until he bled. Then came an offer no human had ever been handed:
+On the hardest day of his life he told the story himself, when Aisha asked him whether any day had been harder on him than Uhud. He said he had offered his message to the chief of Thaqif and been refused, and had walked away with his mind gone from him. (The detail everyone knows, that he was stoned at Taif until his feet bled, is not in the Sahih narration; it comes from the maghazi of Musa ibn ʿUqbah and the Tabaqat of Ibn Saʿd, both quoted by Ibn Kathir in al-Bidaya wa’l-Nihaya.) Then, on the road back, absolute power over the people who had refused him was placed in his hands:
 
 ```hadith
 text: 'فناداني مَلَكُ الجبال، فسلّم عليّ ثم قال: يا محمد، فقال: ذلك فيما شئتَ، إن شئتَ أن أُطبِق عليهم الأخشبَين. فقال النبيّ ﷺ: بل أرجو أن يُخرج الله من أصلابهم من يعبد الله وحده لا يشرك به شيئًا.'
 source: 'Sahih al-Bukhari 3231'
 url: 'https://sunnah.com/bukhari:3231'
 translation: '“…Then the Angel of the Mountains called me, greeted me, and said: O Muhammad, it is as you wish: if you wish, I will bring the two mountains down upon them. The Prophet ﷺ said: Rather, I hope Allah will bring out of their descendants people who worship Allah alone, associating nothing with Him.”'
-note: 'An offer to annihilate those who had just bloodied him, made while he stood wounded and expelled. He chose their children’s future over revenge on them. Thaqif accepted Islam years later, exactly as he hoped.'
+note: 'An offer to annihilate those who had just bloodied him, made while he stood freshly refused and driven out. He chose their children’s future over revenge on them. Thaqif accepted Islam years later, exactly as he hoped.'
 ```
 
 Hold the psychological moment: this is not cool-headed clemency in a council chamber; it is a decision at the peak of the wound, with absolute power on the table. Anger there is human nature, and revenge justifiable by every worldly measure. His answer came from a different measure.
@@ -58,7 +58,7 @@ Hold the psychological moment: this is not cool-headed clemency in a council cha
 
 Then the wheel turned full circle. In the eighth year of the hijrah he entered Makkah as conqueror at the head of ten thousand: the city that had tortured his companions, killed those he loved, expelled him, and fought him for twenty years, now standing before him with nothing in between. This is the moment history waits for from every victor: settlement day; and how many massacres humanity has watched at exactly this juncture.
 
-The sirah books record that he asked them: *"What do you suppose I will do with you?"* They said: good, a generous brother, son of a generous brother. He said: **"Go, for you are free."** A general amnesty for the whole city. (The report is among the famous sirah accounts, not a Sahih-collection hadith, but the surrounding history is uncontested: no massacre took place in Makkah, no captives were taken, and within weeks its people had entered Islam and marched in his army, which is itself the strongest witness that the account is true.) Enemies of twenty years walked out of his hands free, and yesterday's war commanders became commanders in his ranks.
+What is established in the Sahih is the name its people carried afterwards, a name given only to men who have been let go: **al-ṭulaqāʾ**, the freed ones. Weeks later, at Hunayn, Anas describes the Prophet’s ﷺ army: "with the Prophet ﷺ were ten thousand, and the freed ones" (al-Bukhari 4333). The word is itself the testimony: a town that had fought him for twenty years, entered, released, and marching in his ranks within weeks. (The famous exchange, "What do you suppose I will do with you? … Go, for you are free," is [graded weak in that wording](https://islamqa.info/ar/answers/290672); Ibn Ishaq’s chain for it is broken. This guide does not build on it, and the established title makes it unnecessary.) The amnesty was not a suspension of justice: a short, named list of men with blood or incitement against them was excepted, and his order regarding Ibn Khatal is in the Sahih (al-Bukhari 1846). The point is the ratio: pardon was the rule and the exceptions were countable individuals, which is the reverse of what conquest normally looks like. Enemies of twenty years walked out of his hands free, and yesterday's war commanders became commanders in his ranks.
 
 ```doubt
 claim: 'Every successful leader gets virtue stories; followers gild their founder’s biography after his death. How do we know these accounts aren’t follower embellishment?'

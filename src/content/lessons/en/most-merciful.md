@@ -37,7 +37,7 @@ translation: '“Some captives were brought to the Prophet ﷺ, and among them w
 note: 'A captive mother, at the lowest point of her life, nursing any infant she could find. Of her, at her most desperate and most tender, the Prophet ﷺ said that Allah is more merciful to His servants than she to her child.'
 ```
 
-Notice the choice of measure. He did not say “more merciful than a king to his guest” or “than a friend to a friend.” He set the floor at a bereaved mother clutching a child to nurse. Allah’s mercy toward His servant is *above* that, not equal to it.
+Notice the choice of measure. He did not say “more merciful than a king to his guest” or “than a friend to a friend.” He set the floor at a mother who had lost her own child among the captives, clasping every infant she found. Allah’s mercy toward His servant is *above* that, not equal to it.
 
 ## A rule He wrote upon Himself
 
@@ -78,10 +78,11 @@ This verse is not a theory to read; it is a door to try. Tonight, in no special 
 ```
 
 ```doubt
-claim: Islam’s own scriptures are full of fire, threats, and wrath. A God who threatens painful punishment for those who disobey Him does not deserve the name “Most Merciful”; that is intimidation, not mercy.
+claim: 'The problem isn’t the warning; it’s the sentence. Punishment without end, for a disbelief that lasted seventy years, is a penalty no human scale of justice would call proportionate. And worse: it falls on people who looked honestly and were not convinced. What kind of mercy is that?'
 answer: |-
   The first answer: an honest warning about a real danger is precisely what a merciful being does. A doctor who names your disease bluntly and hands you the cure is kinder than one who flatters you into the grave, and nobody calls a minefield warning sign an assault on hikers. If there really is an accounting (and the lesson on evil and suffering argued that complete justice requires one), then the height of mercy is to be warned of it in advance, in the starkest terms available; the height of cruelty would be to let you stroll toward it reassured.
   The second answer is in the proportions, which this lesson has just shown you in the texts themselves: mercy is the written, prior, prevailing rule; wrath is the exception with its causes; and the door stays open for as long as a person lives: open, explicitly, to the very people who spent a lifetime going to excess. Punishment, in the Qur’an’s own picture, is not the temper of an irritable deity; it is the end of someone who saw the door standing open all his life and insisted on never walking through it. And anyone genuinely afraid of the fire has his exit named in the verse he just read: do not despair.
+  The third answer goes to proportion, which is the binding part of the objection. Eternity, as the scholars frame it, is not payment for a fixed number of years but for what the heart settled on by the end; whoever dies still refusing dies on an intention that would have stayed with him had he stayed. And the door was not shut for one moment of that life, which already takes the picture out of the category of a court with no way out. As for someone who searched honestly and never had the case put to him, the Qur’an makes liability wait on the message arriving, and you will read its text in “Is reason alone enough?” (17:15): no punishment until a messenger has been sent.
 ```
 
 ```rule

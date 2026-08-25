@@ -16,7 +16,7 @@ Anyone who assumes Islam was built on hostility to what came before it is startl
 
 - **The most-named person in the Qur'an is not Muhammad ﷺ**; it is Musa (Moses), peace be upon him: over a hundred and thirty times by name, and his story is the Qur'an's longest and most retold. Muhammad ﷺ is named four times.
 - **The only woman named in the Qur'an is Maryam (Mary)**, the mother of Jesus: thirty-four times (more than the New Testament names her), and the nineteenth surah bears her name.
-- **ʿIsa (Jesus), peace be upon him, is named twenty-five times**, and the Qur'an calls him *the Messiah* in eleven places.
+- **ʿIsa (Jesus), peace be upon him, is named twenty-five times**, and the Qur'an calls him *the Messiah* eleven times.
 - **And belief in them both is not an optional courtesy but a pillar:** whoever denies the prophethood of Moses or Jesus is simply not a Muslim.
 
 ```ayah
@@ -82,10 +82,11 @@ note: 'Allah made the infant Messiah speak to clear his mother, and the first th
 And lest this description seem reserved for Jesus: the Qur'an describes Muhammad ﷺ himself in nearly the same words in 3:144: a messenger, preceded by messengers. Islam does not raise its own prophet above the station in which it places Jesus; both, in its creed, are human messengers, and the noblest title either receives is *Allah's servant and messenger*.
 
 ```doubt
-claim: Someone born of a virgin, who raised the dead, whom the Qur’an itself calls a word from Allah and the Messiah, is no mere messenger. Making him only a prophet is a demotion contradicted by his own miracles.
+claim: 'Our case has never rested on the miracles. It rests on what Jesus said about himself: he forgives sins, he says “before Abraham was, I am” and “I and the Father are one,” and he accepts worship without refusing it. Then he rose from the dead, and it is on that, not on his birth, that his disciples built everything. Reducing him to a prophet does not answer our strongest evidence; it declines to look at it.'
 answer: |-
   Apply one scale to all cases. Born without a father? Adam was created with neither father nor mother, and no one worships Adam. Raising the dead? The Bible itself records prophets at whose hands the dead were raised (Elijah, Elisha), and their followers never called them divine. In every such case the miracle points to the power of the One who worked it, Allah, not to the divinity of the man through whose hands it ran; which is exactly why the Qur’an stamps every one of Jesus’s miracles with “by Allah’s permission.”
   As for “demotion,” it assumes prophethood is a lowly station. In Islam it is not: there is no title more honored than servanthood to Allah joined to messengership, and it is the highest thing Muslims say of Muhammad ﷺ himself. To a Muslim, the demotion is attributing to Jesus what he never said of himself; the honoring is revering him in the station he announced from the cradle. So the disagreement is not between love and coldness (both sides love him) but between two forms of honoring, and Islam refers the dispute to Jesus’s own first words about himself.
+  As for his sayings about himself in the Gospels, which is where the real case lies, the answer has two parts. First, those same Gospels carry sayings that pull the other way on their face: “Why do you call me good? No one is good but God alone” (Mark 10:18), and, in his own prayer, “you, the only true God” (John 17:3). Second, an argument from a text assumes first that the text is established and transmitted intact, and that is a question of manuscripts and history whose place is the “Why Islam?” unit. So this lesson states Islam’s position and its reasons from the inside, and defers the comparison to where it belongs rather than declining to look at it.
 ```
 
 ```rule

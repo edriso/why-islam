@@ -25,7 +25,7 @@ Notice where this claim sits on the previous lesson’s scale: it is a historica
 
 ## The first channel: hearts
 
-Within the Prophet’s ﷺ own lifetime the Qur’an lived in the memories of hundreds of his companions. They recited it aloud in the daily congregational prayers, taught it to one another, and the whole text was reviewed on an annual cycle:
+Within the Prophet’s ﷺ own lifetime the Qur’an lived in the memories of large numbers of his companions. They recited it aloud in the daily congregational prayers, taught it to one another, and the whole text was reviewed on an annual cycle:
 
 ```hadith
 text: 'كَانَ يَعْرِضُ عَلَى النَّبِيِّ صلى الله عليه وسلم الْقُرْآنَ كُلَّ عَامٍ مَرَّةً، فَعَرَضَ عَلَيْهِ مَرَّتَيْنِ فِي الْعَامِ الَّذِي قُبِضَ'
@@ -56,7 +56,7 @@ text: 'فَأَرْسَلَ عُثْمَانُ إِلَى حَفْصَةَ أَ�
 source: 'Sahih al-Bukhari 4987'
 url: 'https://sunnah.com/bukhari:4987'
 translation: '“So ʿUthman sent word to Hafsah: send us the sheets, that we may copy them into volumes; then we shall return them to you.”'
-note: 'Notice the verb: copy, not compose and not edit. The source was the first collection kept with Hafsah; the standard at every dispute was the memorized, mass-transmitted recitation.'
+note: 'Notice the verb: copy, not compose and not edit. The source was the first collection kept with Hafsah. The same hadith records what they did where they differed: write it in the dialect of Quraysh, since it came down in their tongue. The question at issue was how to spell it, not what was recited.'
 ```
 
 So the text stands on two legs that walk together: a mass-memorized recitation no individual has the power to alter, and a written record that began in the Prophet’s ﷺ own presence. Memory alone, anywhere else, drifts with the generations; writing alone is hostage to its copyists. Together, each corrects the other, every generation.
@@ -75,7 +75,7 @@ You may hear that the Qur’an has “readings” (Hafs, Warsh) and take them fo
 claim: ʿUthman standardized everyone on one codex and ordered the alternatives burned; that is tampering by definition. A state committee decided what “the Qur’an” is and destroyed the evidence.
 answer: |-
   First, this story is not a secret unearthed by researchers. We know it from the Muslims’ own narration, in their most rigorously authenticated collection, and tampering is not the sort of act one broadcasts. Then look at what actually happened: ʿUthman did not compose a text. He had copies made from the collection assembled under Abu Bakr, collated against the memorizers, in public, in the presence of the very generation that had heard the Qur’an from the Prophet’s ﷺ own mouth. Tampering needs darkness; this happened in broad daylight.
-  Second, the oral channel makes written tampering pointless anyway: had a committee altered one letter, thousands of memorizers reciting the text in their prayers every single day would have cried out. What was burned were private copies of uneven completeness and spelling: a standardization of exemplars, not the invention of a text. And history offers the sharpest witness of all: ʿUthman faced a rebellion and was killed in it, yet his enemies, the men who took his life, never once accused him of changing the Qur’an. They recited his codex and prayed with it.
+  Second, the oral channel makes written tampering pointless anyway: had a committee altered one letter, thousands of memorizers reciting the text in their prayers every single day would have cried out. What was burned were individuals’ own copies, written as personal aids, carrying what their owner had received alongside notes he had written for himself. And Muslim scholars themselves differ on how much of the seven ahruf the ʿUthmanic codex retains: al-Tabari, al-Tahawi and Ibn ʿAbd al-Barr held that ʿUthman gathered people on one of them; Ibn al-Jazari and most later verifiers held that the undotted script still carries what remained; al-Suyuti held that it carries all seven. We name that disagreement rather than fold it away. What was standardized was the written exemplar, not the recitation carried by mass transmission. And history offers the sharpest witness of all: ʿUthman faced a rebellion and was killed in it, yet his enemies, the men who took his life, never once accused him of changing the Qur’an. They recited his codex and prayed with it.
 ```
 
 ```rule

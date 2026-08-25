@@ -16,9 +16,9 @@ The Qur'an breaks this rule explicitly, in separate passages spread across years
 
 ## A surah called “He frowned”
 
-The story, as the commentators record in the occasion of revelation: ʿAbdullah ibn Umm Maktum, a blind man among the poor Muslims, came asking the Prophet ﷺ to teach him, while the Prophet ﷺ was occupied inviting chiefs of Quraysh, hoping their Islam would open the way for their tribes. The blind man interrupted: *teach me from what Allah has taught you.* The Prophet ﷺ frowned at him, turned away, and continued with the chiefs.
+The story, as al-Tirmidhi reports it from Aisha (an occasion-of-revelation report, not a Sahih-collection hadith): ʿAbdullah ibn Umm Maktum, a blind man among the poor Muslims, came asking the Prophet ﷺ to teach him, while the Prophet ﷺ was occupied inviting one of the great men of the idolaters, hoping his Islam would open the way for those behind him. The blind man interrupted: *teach me from what Allah has taught you.* The Prophet ﷺ frowned at him, turned away, and continued with the chiefs.
 
-Stop here a moment. The blind man **never saw the frown**. And nobody in the gathering objected: preferring the powerful over the weak is exactly how the world has always worked. If the matter had rested with a preacher editing his own book, the moment would have been buried where it fell: no witness to it, and no interest in publishing it.
+Stop here a moment. The blind man **never saw the frown**. And the Qurayshi notable who did see it had no reason to publicize it: being preferred over a poor blind man was not a grievance in his world, it was how the world worked. Which is to say nobody in that gathering had any motive to carry the moment out of the room. If the matter had rested with a preacher editing his own book, it would have been buried where it fell.
 
 Then revelation came down:
 
@@ -73,14 +73,14 @@ note: 'He swore off something lawful to please his wives, and was corrected: no 
 ```ayah
 ref: 18:23
 translation: '“And never say of anything: I will do that tomorrow…”'
-note: 'People asked him about the People of the Cave; he said “I will tell you tomorrow” without adding “if Allah wills.” Revelation then withheld itself for a stretch that weighed on him painfully, before this timeless instruction came down. Notice what the episode does to the authorship hypothesis: an author does not lock himself out of his own book at the exact moment he desperately needs the answer.'
+note: 'The commentaries and sirah works report that people asked him about the People of the Cave, that he said “I will tell you tomorrow” without adding “if Allah wills,” and that revelation then withheld itself for a period that weighed on him. Treat that as sirah, not Sahih: its source is Ibn Ishaq, through a chain containing an unnamed man, so it cannot carry weight of its own. What is beyond dispute is the two verses themselves: a direct prohibition addressed to the man carrying the book, left standing in the mushaf to be recited.'
 ```
 
 ```ayah
 ref: 33:37
 highlight: وتخفي في نفسك ما الله مبديه
 translation: '“…and you concealed within yourself what Allah was going to reveal, and you feared the people, while Allah has more right to be feared…”'
-note: 'The most uncomfortable verse in this whole file: it puts on record that he kept something inside that Allah would expose, and names his fear of people where Allah deserved the fearing. Aisha’s famous remark, recorded in essence in the Sahih collections, was that had the Prophet ﷺ ever concealed any revelation, he would have concealed this verse.'
+note: 'The most uncomfortable verse in this whole file: it puts on record that he kept something inside that Allah would expose, and names his fear of people where Allah deserved the fearing. What he kept inside, on the reading of the verifying commentators, was that Allah had already told him Zaynab would become his wife, and he shrank from what people would say about a man marrying the former wife of the boy he had adopted. Ibn Kathir explicitly sets the other reports on this verse aside for want of authenticity. And Aisha’s famous remark is in both Sahih collections (al-Bukhari 7420, Muslim 177): had the Prophet ﷺ ever concealed any revelation, he would have concealed this verse.'
 ```
 
 ## “He planted the rebukes to look humble”
@@ -88,8 +88,8 @@ note: 'The most uncomfortable verse in this whole file: it puts on record that h
 ```doubt
 claim: 'The rebukes are clever theater: the Qur’an’s author inserted reprimands of himself deliberately to buy credibility, so that people would say exactly what you are saying now: a man who rebukes himself can’t be lying.'
 answer: |-
-  A hypothesis worth weighing, so weigh it against three loads. First: a schemer cunning enough to engineer theatrical humility knows the con artist’s first rule: promotional self-criticism stays vague and never touches a vital organ. These passages are the opposite: command decisions he got wrong (the Tabuk permissions), explicit domestic embarrassment (the oath), and a passage touching his most private affairs, affirming that he hid something within himself (al-Ahzab). No rational schemer picks those files as marketing material.
-  Second: the “I’ll tell you tomorrow” episode demolishes the hypothesis from inside. The supposed author was in a crisis, Quraysh waiting to score the test, and the answer was in his head, if the book was his. Why lock himself out of his own book for weeks, swallowing the gloating, and then open the long-awaited answer with a rebuke of himself? A man holding the pen does not torture himself with his own pen.
+  A hypothesis worth weighing, so weigh it against three loads. First: a schemer cunning enough to engineer theatrical humility knows the con artist’s first rule: promotional self-criticism stays vague and never touches a vital organ. These passages are the opposite: command decisions he got wrong (the Tabuk permissions), explicit domestic embarrassment (the oath), and a passage putting on record something he kept inside and a fear of what people would say, in the most delicate matter touching his household (al-Ahzab). No rational schemer picks those files as marketing material.
+  Second: look at the two verses of al-Kahf with no story attached. Their form is a plain prohibition of an ordinary habit of speech: never say “I will do that tomorrow” without “if Allah wills.” The man being corrected is the man carrying the book, and the correction is still recited back to him by his followers at every completion of the text. An author engineering theatrical humility writes bland praise; he does not write a permanent rule of manners against himself. (The well-known occasion-of-revelation narrative behind it rests on a weak chain, so nothing here is built on it.)
   Third: compare the people we know for certain edited their own texts: kings in their court chronicles, leaders in their memoirs. All of recorded history flows one way: toward flattery. The “promotional rebuke” hypothesis asks you to believe in a behavior with no precedent in the history of authors, all to escape a simple explanation: the book was not his.
 ```
 
@@ -115,12 +115,12 @@ questions:
     why: The blind man never saw the frown and nobody present objected; had an author controlled the text, the moment would have been buried. Instead it became a surah he himself recited in public.
   - q: Why does the “I will tell you tomorrow” episode (18:23–24) demolish the authorship hypothesis from within?
     options:
-      - Revelation withheld itself for weeks exactly when he most needed the answer, and a man holding the pen doesn’t lock himself out, then open the answer with his own rebuke
+      - The prohibition in those verses is aimed at the man carrying the book and is still recited back to him by his followers, and a man holding the pen does not write a permanent rule of manners against himself
       - Because the People of the Cave were unknown to the Arabs
       - Because “tomorrow” is not proper classical Arabic
       - Because Quraysh never cared about the story
     answer: 0
-    why: If the answer had been in his head he would have produced it immediately and spared himself the gloating; the withholding, then the arrival opening with a rebuke, is the behavior of a source outside his control.
+    why: The prohibition still stands in the mushaf, read back to him by his own followers at every completion; a man engineering theatrical humility writes bland praise, not a rule of manners that binds him forever.
   - q: How does the lesson answer “he inserted the rebukes deliberately to buy credibility”?
     options:
       - Promotional self-criticism stays vague and safe; these rebukes touch costly decisions and private affairs, with a withholding of revelation that tormented him, behavior without precedent among authors

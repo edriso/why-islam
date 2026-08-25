@@ -4,7 +4,7 @@ description: 'One sentence brings a person into Islam: what the two testimonies 
 tags: [the shahadah, pillars of Islam, articles of faith]
 ---
 
-> **The one idea:** entering Islam is one sentence said with conviction: no baptism, no ceremony, no intermediary, no gatekeeper. The relationship you are entering is direct, so its door is direct like it. Everything past the door comes gradually.
+> **The one idea:** entering Islam is one sentence said with conviction: no baptism, no ceremony, no intermediary, no gatekeeper. The relationship you are entering is direct, so its door is direct too. Everything past the door comes gradually.
 
 ## One sentence
 
@@ -64,7 +64,7 @@ Six articles, and you have walked past the evidence for most of them in this gui
 claim: 'I can’t become Muslim now: I’d have to change my whole life at once, learn Arabic, and I’d surely have to be a genuinely good person first, and I’m not.'
 answer: |-
   The fear is understandable, but it rests on an inverted picture. Islam meets a person where they stand, and the obligations arrive gradually as knowledge grows, which is exactly how revelation itself came: twenty-three years of step-by-step teaching, and nobody was asked, on the day they entered, for what a twenty-year student is asked. The Companions themselves entered as beginners who did not know the rulings; they learned them after entering, not before.
-  Arabic is not a condition: du'a is valid in every language, the short surahs are learned unhurriedly, and hundreds of millions of Muslims today speak no Arabic. And perfection was never the entry requirement; truthfulness is. In fact the door is designed precisely for the imperfect: Islam erases everything before it, and the page is white from the first moment.
+  Arabic is not a condition: du'a is valid in every language, the short surahs are learned unhurriedly, and hundreds of millions of Muslims today speak no Arabic. And perfection was never the entry requirement; truthfulness is. In fact the door is designed precisely for the imperfect: Everything between you and Allah is forgiven the day you enter, and your page starts white. What you owe other people is returned to them as part of Islam itself, not carried as a leftover debt from the past.
 ```
 
 ```ayah

@@ -61,7 +61,7 @@ translation: '“I heard the Prophet ﷺ reciting Surat at-Tur in the sunset pra
 note: 'The verse is the one you just read. In another narration he said, “and that was the first time faith settled in my heart” (Bukhari 4023); a third records that he had come regarding the captives of Badr (Bukhari 3050).'
 ```
 
-Consider the scene. A man whose native craft was Arabic eloquence, with nothing between him and this religion but enmity. He heard no emotional appeal, no promise, no threat; he heard an airtight logical division, and described its effect as his heart nearly flying. Years later, he embraced Islam. The argument you are reading now is the same one he heard.
+Consider the scene. A man whose native craft was Arabic eloquence, with nothing between him and this religion but enmity. He heard the whole surah, its warnings included, yet the place he singled out, the place where his heart nearly flew, was the logical division itself. Years later, he embraced Islam. The argument you are reading now is the same one he heard.
 
 ## “But physics says otherwise”
 
@@ -73,7 +73,7 @@ answer: |-
 ```
 
 ```rule
-For anything that comes into being there are exactly three possibilities: it came from nothing, it made itself, or something else made it. The first contradicts the axiom that nothing yields nothing; the second requires a thing to exist before it exists. The third stands by necessity: this universe, and you, have a Maker who is neither of you.
+For anything that comes into being there are exactly three possibilities: it came from nothing, it made itself, or something else made it. The first contradicts the axiom that nothing yields nothing; the second requires a thing to exist before it exists. The third stands by necessity: you have a Maker who is neither you nor nothing. One question is left standing: is the universe itself something that began, so that this division applies to it too, or is it eternal and untouched by it? That is the next lesson.
 ```
 
 ```tip

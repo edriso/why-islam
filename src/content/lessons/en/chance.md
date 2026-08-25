@@ -5,7 +5,7 @@ tags: [chance, origin of life, evolution, the creation of Adam]
 resources:
   - title: 'Human Origins: Theological Conclusions and Empirical Limitations (Yaqeen Institute)'
     url: https://yaqeeninstitute.org/read/paper/human-origins-part-1-theological-conclusions-and-empirical-limitations
-    note: 'A peer-reviewed paper setting out what the texts require about Adam’s creation and where legitimate difference remains, without settling the empirical question.'
+    note: 'A long research paper setting out what the texts require about Adam’s creation and where legitimate difference remains, without settling the empirical question.'
 ---
 
 > **The one idea:** “chance” is not a force that does anything; it is the name we give to the absence of intent. The greater the system to be explained, the further “it happened with no intent” drifts from being an explanation and the closer it comes to being an escape from one. And this guide's argument neither stands on refuting evolution nor falls by accepting it, because it lives where evolution has no say.
@@ -14,19 +14,19 @@ resources:
 
 When someone says "the universe and life arose by chance," chance is not an agent that replaced the Creator; chance is a *description of the absence* of an intending agent. The sentence means, precisely: all of this happened without anything intending it. That is a claim that can be weighed, and we will weigh it with no invented numbers; honest qualitative pricing is enough.
 
-If you found a safe standing open, its combination long, two explanations offer themselves: the dials spun at random and happened to hit the code, or a hand that knew the code opened it. The first is "possible" in a cold mathematical sense, but you do not live by it, and the longer the code, the more preferring randomness becomes evasion rather than explanation. Now look at what needs explaining at life's origin: the smallest known living cell is a system that feeds itself, repairs itself, and copies itself, run by a genetic code that is read and translated by machines which are themselves built from the code's instructions. A single functional protein is a precisely ordered chain; the possible arrangements of its letters are beyond counting, and the functional ones are tiny islands in an ocean of gibberish.
+If you found a safe standing open, its combination long, two explanations offer themselves: the dials spun at random and happened to hit the code, or a hand that knew the code opened it. The first is "possible" in a cold mathematical sense, but you do not live by it, and the longer the code, the more preferring randomness becomes evasion rather than explanation. Now look at what needs explaining at life's origin: the smallest known living cell is a system that feeds itself, repairs itself, and copies itself, run by a genetic code that is read and translated by machines which are themselves built from the code's instructions. A single functional protein is a precisely ordered chain; the possible arrangements of its letters are beyond counting, and the working ones are a small fraction of that space, though how small is itself still argued over in the literature.
 
-If it is said that "long ages work miracles", the answer is that time alone favors nothing. Time only works when something exists to *keep* the successful attempts and build on them. And that is exactly where the next point lands.
+If it is said that "long ages work miracles", the answer is that time alone favors nothing. Time only works when something exists to *keep* the successful attempts and build on them. Origin-of-life researchers have proposed mechanisms for exactly that keeping, before any cell: autocatalytic cycles, mineral-surface catalysis, self-copying RNA. None of them has yet produced a self-replicating system from scratch. The question is open, and that is all we claim. And that is exactly where the next point lands.
 
 ## A tornado in a junkyard
 
-In an analogy attributed to the astronomer Fred Hoyle: the probability of the first life arising by sheer randomness is like a tornado sweeping through a junkyard and assembling, from the scrap, a jetliner ready for takeoff. The analogy's point is not that anyone claims the cell assembled in an instant; its point is the size of the gap between "available materials, time, and randomness" and "a functional system of interdependent parts": a plane does not fly with half a wing, and a cell does not live with half a code.
+There is a famous analogy from the astronomer Fred Hoyle: the probability of the first life arising by sheer randomness is like a tornado sweeping through a junkyard and assembling, from the scrap, a jetliner ready for takeoff. Honesty requires two things be said alongside it. Hoyle did not run the analogy toward a Creator; he ran it toward life arriving from outside the earth, and he described himself as an atheist. And biologists answered that it prices a single one-shot random assembly, which is not what origin-of-life research proposes, to the point that it is known in the literature as "Hoyle's fallacy". So take it for what it is worth: a picture of the size of the gap, not a proof about it. What survives the objection is narrower and sound: selection cannot start improving the copying until there is something that copies itself at all.
 
 ## Where does evolution stand relative to this argument?
 
 Here is a point enthusiasts on both sides get wrong, so take it precisely: **this guide's argument does not need evolution to be false.**
 
-Evolution (grant it whole, as its proponents present it) begins its work with a living, reproducing cell already in hand. Its declared mechanism, variation and selection across generations, only operates among organisms that reproduce; before the first replicator there is no selection and no generations, only chemistry that prefers nothing over anything. So the theory, at the very maximum of its claims, speaks about the *diversification* of life after it exists, and says not one word about the two questions the previous unit was built on: where did the first cell come from, and why were the universe's laws and constants such that chemistry, stars, and life were possible at all?
+Evolution (grant it whole, as its proponents present it) begins its work with something that copies itself and passes on its traits already in hand. Its declared mechanism, variation and selection across generations, only operates among organisms that reproduce; before the first replicator there is no selection and no generations, only chemistry that prefers nothing over anything. So the theory, at the very maximum of its claims, speaks about the *diversification* of life after it exists, and says not one word about the two questions the previous unit was built on: where did the first cell come from, and why were the universe's laws and constants such that chemistry, stars, and life were possible at all?
 
 ```doubt
 claim: 'Evolution explained the complexity of living things through a blind mechanism (mutation and natural selection), so design is no longer a necessary explanation, and the argument from precision collapses.'
@@ -45,7 +45,7 @@ Honesty requires sorting this file by grade; not everything in it stands at one 
 ```ayah
 ref: 3:59
 highlight: كمثل آدم خلقه من تراب
-translation: '“Indeed, the example of ʿIsa with Allah is like that of Adam: He created him from dust, then said to him “Be,” and he was.”'
+translation: '“Indeed, the example of ʿIsa with Allah is like that of Adam: He created him from dust, then said to him ‘Be,’ and he was.”'
 note: 'The verse argues against those who found Jesus’s fatherless birth too much by citing one created with no parents at all. Adam’s creation from dust is the very hinge of the argument, not a passing detail open to reinterpretation.'
 ```
 
@@ -63,7 +63,7 @@ translation: '“So when I have fashioned him and breathed into him of My spirit
 note: 'Fashioning, breathing of the spirit, and the honoring prostration: a narrative of special origination from start to finish, not one link in a chain.'
 ```
 
-**Genuinely differed on:** revelation's verdict on evolution as a mechanism *outside* Adam: the rest of living things, or human-like creatures before Adam. Qualified contemporary researchers have held that the texts neither affirm nor deny this, so reconciliation is possible while Adam's special creation stands as stated; other scholars reject the theory wholesale and find its evidence non-binding even outside the human case. That is a live disagreement among qualified people, and we transmit it as it is.
+**Genuinely differed on:** revelation's verdict on evolution as a mechanism *outside* Adam: the rest of living things, or human-like creatures before Adam. Qualified contemporary researchers, among them Dr. Nazir Khan and Dr. Yasir Qadhi in the paper recommended above, and Dr. Shoaib Ahmed Malik in his *Islam and Evolution*, have held that the texts neither affirm nor deny this, so reconciliation is possible while Adam's special creation stands as stated; other scholars reject the theory wholesale and find its evidence non-binding even outside the human case, Shaykh Ibn Baz among them in [his fatwa on Darwin's theory](https://binbaz.org.sa/fatwas/7143). That is a live disagreement among qualified people, and we transmit it as it is.
 
 ```note
 This lesson does not arbitrate between the two camps, and it does not need to: its argument, as you saw, rests on the origin of life and the calibration of the cosmos, which stand identically for those who accept the theory outside Adam and those who reject it. Whoever wants the question in depth will find, in this lesson's resources, a peer-reviewed paper laying out the limits and conditions of reconciliation.
