@@ -49,7 +49,9 @@ Reference it (`ref: 52:35`) and the build inserts the exact text from the pinned
 Uthmani corpus. If a verse must appear in running prose, wrap it in `«…»` and the
 build checks it character by character, **including every haraka**, so an
 untashkeeled quotation fails on purpose. Guillemets are reserved for the mushaf;
-quote hadith and everything else with ordinary quotes. Deliberate departures go in
+quote hadith and everything else with ordinary quotes (“…”). This is enforced, not
+advisory: guillemets around ordinary Arabic fail the build the moment the phrase
+also occurs in the mushaf, as «لا يزال» does at 9:110. Deliberate departures go in
 `DELIBERATE` in `scripts/build-quran.mjs` with a reason; do not weaken the check.
 
 ### 2. No weak sources, ever
@@ -57,6 +59,17 @@ quote hadith and everything else with ordinary quotes. Deliberate departures go 
 - **Hadith:** Bukhari and Muslim by default; anything else must carry a mainstream
   sahih/hasan grading, linked (sunnah.com / dorar.net), and the matn verified
   against the collection before commit. No weak narration however beloved.
+  Verify against **the number you cite**, not against the report in general: a
+  phrase belonging to a parallel riwaya may not ride along on a number that does
+  not carry it. Two shipped that way before this was written down (an honorific
+  from Bukhari 2567 attached to 6459, and «آمنت بالله» from Muslim 134.01
+  attached to Bukhari 3276).
+- **Sirah is labelled sirah, at the place it is used.** The stoning at Taif,
+  ʿUtbah's offer, «اذهبوا فأنتم الطلقاء»: maghazi reports, some of them weak,
+  and none may be blended into the wording of a Sahih narration or introduced
+  with «حكى» as though the Prophet ﷺ narrated it. Where the Sahih carries the
+  same point in plainer words, build on the Sahih and note the rest: «عشرة آلاف
+  والطُّلَقاء» (Bukhari 4333) does the work the famous weak dialogue was doing.
 - **No weak إعجاز علمي claims.** A scientific fact may illustrate a verse; no
   argument may *rest* on a strained scientific reading of one.
 - **Tafsir claims cite tafsir**: al-Tabari, Ibn Kathir, al-Saʿdi, al-Muyassar.
@@ -126,6 +139,13 @@ expression. A bidirectional editor reorders ranges on screen, so a range can be
 saved completely differently from how it reads, silently. The self-test in
 `build-quran.mjs` exists because this actually happened.
 
+The same trap catches any **search** over Arabic content, including a throwaway
+grep during review. «حذف الله» does not match «حُذف الله»: one damma hides it. And
+a diacritic-stripping class typed literally reorders and eats the letters instead
+of the marks, so either every phrase "matches" or none does. Strip marks with an
+escaped class, and never trust a clean Arabic grep you have not first proved
+against a known hit.
+
 ### 9. Nothing haram, and videos verified
 
 No images of people, no music, no channels that mix teaching with entertainment.
@@ -160,6 +180,26 @@ credit-us line anywhere. Material this repository only redistributes (the Tanzil
 Qur'an text under CC BY 3.0, surah-name data, recitation audio, the OFL fonts) is
 listed in [NOTICE](./NOTICE); if you bring in a new corpus, dataset, font or audio
 source, add it there in the same pass.
+
+### 12. Quote any value that contains a colon
+
+YAML reads `key: value` inside list items too, so a quiz option written as
+`- بسلوكه الموثَّق: نهى عن إطرائه` parses perfectly into a one-key mapping instead
+of a string. Nothing fails, `npm run check` stays green, and the lesson then dies
+in the browser with «تعذَّر فتح هذه الصفحة». That shipped to a live page.
+`build-quran.mjs` now checks the **shape** of every fenced block as well as its
+syntax, and names the offending field, so this class of bug fails at build time.
+Wrap any value containing `:` in single quotes, and do not weaken the check.
+
+### 13. Argue in order, and mark a concession as a concession
+
+A lesson may rely on anything an **earlier** lesson established and nothing from a
+later one; where it must reach forward, it says so and defers the weight. The
+mirror defect is subtler and was live: `why-suffering` invited the reader to
+suppose a universe with no Creator three lessons after unit 2 argued there is no
+such thing, quietly handing back what the guide had just earned. Supposing a
+refuted position for argument's sake is legitimate, and usually stronger, but it
+must be named as تنزّلٌ في الجدل لا تسليم, with a pointer to where it was settled.
 
 ## Architecture
 
