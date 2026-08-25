@@ -23,7 +23,7 @@ note: 'A standing rule: every messenger who ever came carried this same core: no
 ref: 16:36
 highlight: في كل أمة رسولا
 translation: '“And We sent into every nation a messenger: worship Allah and shun false gods.”'
-note: 'No nation was left without a warner. So Islam’s claim is that pure monotheism is not a seventh-century Arabian invention; it is the original message delivered everywhere.'
+note: 'No nation was left without a warner. A ṭaghut is anything worshipped besides Allah that consents to it, or anything followed into disobeying Him; those worshipped against their will, ʿIsa and the angels among them, are not included (21:101). So Islam’s claim is that pure monotheism is not a seventh-century Arabian invention; it is the original message delivered everywhere.'
 ```
 
 ## Names you already know
@@ -34,7 +34,7 @@ The Qur’an does not speak of unknown messengers. It names the very men a Jewis
 ref: 42:13
 highlight: أن أقيموا الدين ولا تتفرقوا فيه
 translation: '“He has laid down for you the same religion He enjoined on Nuh, and what We revealed to you, and what We enjoined on Ibrahim, Musa, and ʿIsa: establish the religion and do not divide in it…”'
-note: 'The “religion” enjoined on all of them (per the classical commentators, al-Tabari, Ibn Kathir, al-Saʿdi) is the shared core: tawhid. The practical laws (forms of prayer, what is permitted) did differ from one dispensation to the next, as Surah al-Ma’idah (5:48) states.'
+note: 'The “religion” enjoined on all of them is the shared core: tawhid. Ibn Kathir puts it directly: what they hold in common is the worship of Allah alone with no partner, however much their codes and paths differed, and he cites al-Ma’idah (5:48) for the difference. The practical laws, the forms of prayer and what is permitted, did differ from one dispensation to the next.'
 ```
 
 And the Prophet ﷺ described that chain in one sentence that could serve as this lesson’s summary:

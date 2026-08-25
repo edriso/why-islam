@@ -49,7 +49,7 @@ And here is a detail worth pausing on. The Prophet ﷺ foretold, fourteen centur
 ```hadith
 text: 'لا يزال الناسُ يتساءلون حتى يقال: هذا خلق اللهُ الخلقَ، فمن خلق الله؟ فمن وجد من ذلك شيئًا فليقل: آمنتُ بالله.'
 source: 'Sahih Muslim 134'
-url: 'https://sunnah.com/muslim:134'
+url: 'https://sunnah.com/muslim:134a'
 translation: '“People will not stop asking until it is said: this much Allah created, so who created Allah? Whoever finds anything of that, let him say: I believe in Allah.”'
 note: '“Will not stop” is a statement about a continuing future: the asking would carry people to this exact point, and the instruction follows it in a single sentence.'
 ```
@@ -64,11 +64,11 @@ translation: '“Shaytan comes to one of you and says: who created this? who cre
 note: 'The “desist” targets the spiraling whisper that never stops, not thinking itself; as you have seen, the Qur’an commands looking, emphatically.'
 ```
 
-We are not arguing from this here: that these words are revelation is something the guide has not established yet. Record it as a note, and we will come back to weigh it in the unit on Muhammad ﷺ.
-
 A seventh-century man, in a culture with no tradition of Greek philosophy and its disputes, predicts that "who created your Lord?" will knock on human chests in an orderly sequence, and prescribes the psychological remedy before the epistemic one: this particular chain is a compulsive loop, not a knowledge-seeking question that rests when answered. Today that very question headlines popular atheism, and the rational answer remains what it was: stop at the First; nothing is before Him.
 
 Notice, too, the hadith's fairness to a psychology that did not yet exist: anyone who has experienced intrusive thoughts knows the "and who created… and who created…" spiral is not satisfied by answers, because it was never a request for one. And the resemblance that stops you is this: the remedy on offer is not more argument with the whisper but stepping out of the loop. That is close to what is said today to someone caught in ruminative thought, that re-entering the internal debate feeds the spiral rather than ending it. No claim that the hadith is a clinical manual; the point is the accuracy of the diagnosis.
+
+Even so, we are not arguing from this here: that these words are revelation is something the guide has not established yet. Record it as a note, and we will come back to weigh it in the unit on Muhammad ﷺ.
 
 ```rule
 The argument’s rule: every originated thing needs an originator, not every existent. The argument itself forces a terminus at an unoriginated First, so “who created Him?” re-applies the originated-things rule to the very being proven outside it. Revelation names Him the First with nothing before Him. And His Prophet announced in advance that people would arrive at this exact question, and taught its answer.

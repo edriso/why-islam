@@ -20,7 +20,7 @@ note: 'Two names, both from the root of rahmah (mercy), placed in the Fatiha imm
 ref: 7:156
 show: ورحمتي وسعت كل شيء
 translation: '“…and My mercy embraces all things.”'
-note: 'Earlier in this same verse, punishment is something He directs at whom He wills. Mercy alone is described as unbounded: nothing falls outside its reach. Punishment has its causes and its targets; it is mercy that embraces everything.'
+note: 'Earlier in this same verse, punishment is something He directs at whom He wills. Mercy alone is described as unbounded: nothing falls outside its reach. Punishment has its causes and its targets; it is mercy that embraces everything. And the verse goes on, “so I will decree it for those who are mindful of Me”, which al-Saʿdi reads as two mercies: a general one that has already reached every creature, righteous or wicked, believer or unbeliever, and a particular one, the happiness of both worlds, which has a door you walk through. This whole lesson is about where that door is.'
 ```
 
 That is an enormous claim. Is there a measure by which a human being can grasp how much mercy is meant?

@@ -40,7 +40,7 @@ translation: 'Aisha said to the questioner: “Do you not recite the Qur’an?�
 note: 'Meaning: he was the living practice of what he recited to people: no gap between text and conduct. And this is the testimony of a wife; homes know the truth about men.'
 ```
 
-## The day of Taif: mercy under blood
+## The day of Taif: mercy with power on offer
 
 On the hardest day of his life he told the story himself, when Aisha asked him whether any day had been harder on him than Uhud. He said he had offered his message to the chief of Thaqif and been refused, and had walked away with his mind gone from him. (The detail everyone knows, that he was stoned at Taif until his feet bled, is not in the Sahih narration; it comes from the maghazi of Musa ibn ʿUqbah and the Tabaqat of Ibn Saʿd, both quoted by Ibn Kathir in al-Bidaya wa’l-Nihaya.) Then, on the road back, absolute power over the people who had refused him was placed in his hands:
 
@@ -49,7 +49,7 @@ text: 'فناداني مَلَكُ الجبال، فسلّم عليّ ثم قا�
 source: 'Sahih al-Bukhari 3231'
 url: 'https://sunnah.com/bukhari:3231'
 translation: '“…Then the Angel of the Mountains called me, greeted me, and said: O Muhammad, it is as you wish: if you wish, I will bring the two mountains down upon them. The Prophet ﷺ said: Rather, I hope Allah will bring out of their descendants people who worship Allah alone, associating nothing with Him.”'
-note: 'An offer to annihilate those who had just bloodied him, made while he stood freshly refused and driven out. He chose their children’s future over revenge on them. Thaqif accepted Islam years later, exactly as he hoped.'
+note: 'An offer to annihilate those who had just refused him, made while he was walking away grieved. He chose their children’s future over revenge on them. Thaqif accepted Islam years later, exactly as he hoped.'
 ```
 
 Hold the psychological moment: this is not cool-headed clemency in a council chamber; it is a decision at the peak of the wound, with absolute power on the table. Anger there is human nature, and revenge justifiable by every worldly measure. His answer came from a different measure.
@@ -88,12 +88,12 @@ questions:
     why: Virtue can be performed at gatherings; ten years at home before a boy servant cannot be a performance, and the testimony is in the Sahih.
   - q: What is the significance of his answer to the Angel of the Mountains on the day of Taif?
     options:
-      - Offered the annihilation of those who had just bloodied him, at the peak of the wound, he chose hope for their descendants’ faith, mercy at the exact moment the world excuses revenge
+      - Offered the annihilation of those who had just refused him, at the lowest point of his mission, he chose hope for their descendants’ faith, mercy at the exact moment the world excuses revenge
       - He simply lacked the power to take revenge
       - He postponed the revenge until the conquest of Makkah
       - The story is one of the weak late tales
     answer: 0
-    why: The account is in Sahih al-Bukhari, prompted by Aisha’s question about his hardest day; the decision came under blood and expulsion with power on offer, and Thaqif later embraced Islam as he hoped.
+    why: The account is in Sahih al-Bukhari, prompted by Aisha’s question about his hardest day; the decision came on his hardest day with power on offer, and Thaqif later embraced Islam as he hoped.
   - q: How does the lesson answer “followers always gild their founder’s story”?
     options:
       - The same system that transmitted his virtues preserved his rebukes and faults undeleted, and the biggest facts (a conquest with no massacre) are attested by history’s aftermath, not narrators alone

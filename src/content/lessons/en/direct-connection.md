@@ -40,7 +40,7 @@ translation: '“The nearest a servant is to his Lord is while prostrating, so s
 note: 'The body’s lowest posture, forehead on the ground, is the station of greatest nearness. An equation that inverts pride’s arithmetic: you go down, and you rise.'
 ```
 
-Here the meaning of the prayer comes clear, the meaning outsiders miss. The five daily prayers are not a daily tax; they are five guaranteed appointments of nearness: standing before the Lord of the worlds with no booking and no doorman, stitching the Muslim's day so that he is never more than a few hours from his Lord. Some lexicographers connected the name *salah* to *silah*, connection, though the better-known derivation is from *duʿa*, calling out. Either way both meanings live inside it: a call, and a connection.
+Here the meaning of the prayer comes clear, the meaning outsiders miss. The five daily prayers are not a daily tax; they are five guaranteed appointments of nearness: standing before the Lord of the worlds with no booking and no doorman, stitching the Muslim's day so that he is never more than a few hours from his Lord. The meaning of *silah*, connection, has been noted inside the word, though the two come from different roots, and the better-known derivation, the one most lexicographers give, is from *duʿa*, calling out. Either way both meanings live inside it: a call, and a connection.
 
 ## A sweetness that is tasted
 

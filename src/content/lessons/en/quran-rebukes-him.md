@@ -16,7 +16,7 @@ The Qur'an breaks this rule explicitly, in separate passages spread across years
 
 ## A surah called “He frowned”
 
-The story, as al-Tirmidhi reports it from Aisha (an occasion-of-revelation report, not a Sahih-collection hadith): ʿAbdullah ibn Umm Maktum, a blind man among the poor Muslims, came asking the Prophet ﷺ to teach him, while the Prophet ﷺ was occupied inviting one of the great men of the idolaters, hoping his Islam would open the way for those behind him. The blind man interrupted: *teach me from what Allah has taught you.* The Prophet ﷺ frowned at him, turned away, and continued with the chiefs.
+The story, as al-Tirmidhi reports it from Aisha and graded hasan gharib (3331), an occasion-of-revelation report rather than a Sahih-collection hadith: ʿAbdullah ibn Umm Maktum, a blind man among the poor Muslims, came asking the Prophet ﷺ to teach him, while the Prophet ﷺ was occupied inviting one of the great men of the idolaters, hoping his Islam would open the way for those behind him. The blind man interrupted: *guide me, Messenger of Allah.* The Prophet ﷺ frowned at him, turned away, and went on with the other man.
 
 Stop here a moment. The blind man **never saw the frown**. And the Qurayshi notable who did see it had no reason to publicize it: being preferred over a poor blind man was not a grievance in his world, it was how the world worked. Which is to say nobody in that gathering had any motive to carry the moment out of the room. If the matter had rested with a preacher editing his own book, it would have been buried where it fell.
 
@@ -80,7 +80,7 @@ note: 'The commentaries and sirah works report that people asked him about the P
 ref: 33:37
 highlight: وتخفي في نفسك ما الله مبديه
 translation: '“…and you concealed within yourself what Allah was going to reveal, and you feared the people, while Allah has more right to be feared…”'
-note: 'The most uncomfortable verse in this whole file: it puts on record that he kept something inside that Allah would expose, and names his fear of people where Allah deserved the fearing. What he kept inside, on the reading of the verifying commentators, was that Allah had already told him Zaynab would become his wife, and he shrank from what people would say about a man marrying the former wife of the boy he had adopted. Ibn Kathir explicitly sets the other reports on this verse aside for want of authenticity. And Aisha’s famous remark is in both Sahih collections (al-Bukhari 7420, Muslim 177): had the Prophet ﷺ ever concealed any revelation, he would have concealed this verse.'
+note: 'The most uncomfortable verse in this whole file: it puts on record that he kept something inside that Allah would expose, and names his fear of people where Allah deserved the fearing. What did he keep inside? Ibn Kathir holds that Allah had already told him Zaynab would become his wife, and that he shrank from what people would say about a man marrying the former wife of the boy he had adopted. Al-Saʿdi holds instead that it was an inclination in his own heart: that if Zayd divorced her, he would marry her. Both are readings of qualified commentators, and this lesson names them rather than choosing between them. The remaining reports on this verse Ibn Kathir sets aside explicitly, for want of authenticity. And Aisha’s famous remark is in both Sahih collections (al-Bukhari 7420, Muslim 177b): had the Prophet ﷺ ever concealed any revelation, he would have concealed this verse.'
 ```
 
 ## “He planted the rebukes to look humble”

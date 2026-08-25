@@ -25,6 +25,10 @@ Compare this door with the doors of the major religions: no baptism performed by
 
 This simplicity is not laxness; it follows logically from what the next lesson describes: a relationship with no intermediary cannot coherently have a doorman posted at its entrance. Nor can anyone push you through this door by force: what is required is conviction, and conviction cannot be extracted under duress; the Qur'an itself rules that entry into this religion cannot be by compulsion (2:256).
 
+```note
+Bathing (ghusl) on entering Islam is an established practice: the Prophet ﷺ told Qays ibn ʿAsim to do it when he accepted Islam (Abu Dawud 355, graded sahih by al-Albani), and Thumamah ibn Uthal was sent to do the same in a report both Sahih collections carry. The jurists differ on its weight: the Maliki and Hanbali schools, in their well-known position, hold it obligatory; the Hanafi and Shafiʿi schools hold it recommended, unless the person already needed a ghusl, in which case it is due. None of them makes it a condition of entering Islam. Islam takes effect with the two testimonies, and the bathing follows.
+```
+
 ## Five pillars of practice
 
 Once inside, what does life in the house look like? The Prophet ﷺ summarized it in five:
@@ -38,7 +42,7 @@ translation: '“Islam is built on five: the testimony that there is no god but 
 
 - **The two testimonies:** the door just described.
 - **The prayer:** five pauses a day standing before your Lord, the next lesson's entire subject.
-- **Zakah:** a small share (2.5%) of wealth that has sat surplus to your needs for a year, going to the poor. Whoever has no surplus owes nothing.
+- **Zakah:** a small share (2.5%, a quarter of a tenth) of the wealth left over to you, once it reaches a floor called the *nisab* and has sat for a lunar year, going to the poor. The floor is the price of 85 grams of gold or of 595 grams of silver; most scholars say to use whichever is lower so that more of the poor benefit, and in our time that is silver. Below the floor nothing is owed. (Zakat al-fitr is a separate obligation, with no nisab.)
 - **Fasting Ramadan:** one month a year, with exemptions for the sick and the traveler.
 - **The pilgrimage:** once in a lifetime, for whoever can find a way.
 
@@ -64,7 +68,7 @@ Six articles, and you have walked past the evidence for most of them in this gui
 claim: 'I can’t become Muslim now: I’d have to change my whole life at once, learn Arabic, and I’d surely have to be a genuinely good person first, and I’m not.'
 answer: |-
   The fear is understandable, but it rests on an inverted picture. Islam meets a person where they stand, and the obligations arrive gradually as knowledge grows, which is exactly how revelation itself came: twenty-three years of step-by-step teaching, and nobody was asked, on the day they entered, for what a twenty-year student is asked. The Companions themselves entered as beginners who did not know the rulings; they learned them after entering, not before.
-  Arabic is not a condition: du'a is valid in every language, the short surahs are learned unhurriedly, and hundreds of millions of Muslims today speak no Arabic. And perfection was never the entry requirement; truthfulness is. In fact the door is designed precisely for the imperfect: Everything between you and Allah is forgiven the day you enter, and your page starts white. What you owe other people is returned to them as part of Islam itself, not carried as a leftover debt from the past.
+  Arabic is not a condition: du'a is valid in every language, the short surahs are learned unhurriedly, and hundreds of millions of Muslims today speak no Arabic. And perfection was never the entry requirement; truthfulness is. In fact the door is designed precisely for the imperfect: Everything between you and Allah is forgiven the day you enter, and your page starts white. Rights belonging to other people the scholars treat separately: someone who had been at war with the Muslims and then entered Islam is not pursued for any of it, blood or property. For everyone else, and that is the ordinary case, what you owe a person you still return, as part of Islam itself and not as a leftover debt from the past.
 ```
 
 ```ayah

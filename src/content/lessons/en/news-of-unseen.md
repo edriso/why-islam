@@ -8,7 +8,7 @@ tags: [the Rome prophecy, foretelling, Surah al-Masad]
 
 ## A prophecy with a deadline
 
-In 614 Persia crushed Rome: it tore away Syria, entered Jerusalem and carried off the Christians’ greatest relic, then went on to swallow Egypt four years later. The Roman empire looked finished, and in the historians’ description it was a state on the edge of disappearing. The pagans of Makkah gloated over the Muslims: our fellow fire-worshippers have beaten the people of scripture, and we will do the same to you.
+In 614 Persia crushed Rome: it tore away Syria, entered Jerusalem and carried off the Christians’ greatest relic, then moved on Egypt four years later and had it secured within a few more. The Roman empire looked finished, and in the historians’ description it was a state on the edge of disappearing. The pagans of Makkah gloated over the Muslims: our fellow fire-worshippers have beaten the people of scripture, and we will do the same to you.
 
 Then came verses that contradicted every visible strategic calculation:
 
@@ -29,12 +29,12 @@ note: 'Then the explicit prophecy: the crushed loser will win. No “perhaps,”
 ref: 30:4
 highlight: في بضع سنين
 translation: '“Within a few (biḍʿ) years. To Allah belongs the command, before and after; and on that day the believers will rejoice.”'
-note: 'The most dangerous element: a deadline. In Arabic, biḍʿ means three to nine; the verse schedules its own public examination and holds no power to postpone it.'
+note: 'The most dangerous element: a deadline. In Arabic, biḍʿ means three to nine on the best-known account; the verse schedules its own public examination and holds no power to postpone it.'
 ```
 
-Weigh the gamble if these were human words: the resurrection of a collapsing empire was a matter in which Muhammad ﷺ commanded not one soldier; the term was fixed; and his enemies were watching for any slip. Then it happened as stated: Heraclius launched his famous counter-campaign in 622 and carried the war onto Persian soil, and the balance turned over completely, until Persia was beaten in its own heartland in 627 and gave back what it had taken.
+Weigh the gamble if these were human words: the resurrection of a collapsing empire was a matter in which Muhammad ﷺ commanded not one soldier; the term was fixed; and his enemies were watching for any slip. Then it happened as stated: Heraclius launched his famous counter-campaign in 622 and carried the war onto Persian soil. The road was not smooth: his own capital was besieged in 626 and survived it, and the balance finally turned when Persia was beaten in its own heartland at Nineveh in late 627, giving back what it had taken in the peace that followed.
 
-Which years exactly are the "few"? Here people differ, and you are owed the disagreement rather than a smooth surface. The commentators count the term from the revelation rather than from the defeat, and place the fulfillment at Badr in 2 AH on one report from Abu Saʿid al-Khudri, or at al-Hudaybiyah on another; on that reckoning the term falls inside bidʿ. Count instead from the fall of Jerusalem in 614, and Heraclius's turn in 622 falls inside nine years while the decisive blow at Nineveh in 627 falls outside them. Ancient chronology is approximate either way. What nobody disputes is the substance: an empire written off as finished came back as victor within a handful of years, and the announcement was made while every visible calculation said the opposite.
+Which years exactly are the "few"? Here people differ, and you are owed the disagreement rather than a smooth surface. The commentators count the term from the revelation rather than from the defeat, because the term they reckon by is the one Abu Bakr publicly wagered on the day the verses were recited. Where they differ is the fulfillment: Ibn ʿAbbas, al-Thawri and al-Suddi put it at Badr in 2 AH, on a report of Abu Saʿid al-Khudri that al-Tirmidhi graded hasan gharib; ʿIkrimah, al-Zuhri and Qatadah put it at al-Hudaybiyah, and Ibn Taymiyyah judged that the sounder view; a third view puts it two years before the hijrah. On all of them the term falls inside bidʿ. Count instead from the fall of Jerusalem in 614, and Heraclius's turn in 622 falls inside nine years while the decisive blow at Nineveh in 627 falls outside them. Ancient chronology is approximate either way. What nobody disputes is the substance: an empire written off as finished came back as victor within a handful of years, and the announcement was made while every visible calculation said the opposite.
 
 And the Qur'an itself names this category of knowledge and argues from it:
 

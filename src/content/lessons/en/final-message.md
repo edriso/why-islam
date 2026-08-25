@@ -45,7 +45,7 @@ Read the scene without any triumphalism: there is no winner and loser in it, onl
 
 ## To all of mankind
 
-The messages before him were sent to particular peoples, for their time and their place. A Christian reader will object at once, and fairly: Matthew’s Gospel closes with a commission to all nations. The Qur’an’s claim is not that no earlier community understood itself as sent outward; it is about whom each messenger was sent to in the first place, and the Qur’an says of ʿIsa that he was sent to the Children of Israel (3:49, 61:6). Where the two accounts differ, that difference is something to weigh, not something to slip past. This message announces something else about itself:
+The messages before him were sent to particular peoples, for their time and their place. A Christian reader will object at once, and fairly: Matthew’s Gospel closes with a commission to all nations. The Qur’an’s claim is not that no earlier community understood itself as sent outward; it is about whom each messenger was sent to in the first place, and the Qur’an says of ʿIsa that he was sent to the Children of Israel (3:49, 61:6). Matthew reports the same restriction in Jesus’s own voice, “I was sent only to the lost sheep of the house of Israel” (Matthew 15:24), and sends the twelve out with the same limit (Matthew 10:5-6); the commission to all nations comes at the very end of the book. Where the two accounts differ, that difference is something to weigh, not something to slip past. This message announces something else about itself:
 
 ```ayah
 ref: 34:28

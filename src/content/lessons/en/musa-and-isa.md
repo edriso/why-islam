@@ -14,7 +14,7 @@ resources:
 
 Anyone who assumes Islam was built on hostility to what came before it is startled by these facts, all countable in the Qur'an's own text:
 
-- **The most-named person in the Qur'an is not Muhammad ﷺ**; it is Musa (Moses), peace be upon him: over a hundred and thirty times by name, and his story is the Qur'an's longest and most retold. Muhammad ﷺ is named four times.
+- **The most-named person in the Qur'an is not Muhammad ﷺ**; it is Musa (Moses), peace be upon him: over a hundred and thirty times by name, and his story is the Qur'an's longest and most retold. Muhammad ﷺ is named four times, and once by the name Ahmad (61:6).
 - **The only woman named in the Qur'an is Maryam (Mary)**, the mother of Jesus: thirty-four times (more than the New Testament names her), and the nineteenth surah bears her name.
 - **ʿIsa (Jesus), peace be upon him, is named twenty-five times**, and the Qur'an calls him *the Messiah* eleven times.
 - **And belief in them both is not an optional courtesy but a pillar:** whoever denies the prophethood of Moses or Jesus is simply not a Muslim.
@@ -51,7 +51,7 @@ There is no Muslim on earth who does not love and revere Jesus; whoever demeans 
 
 ## What Islam denies, and on what argument
 
-Islam denies one thing at root: that Jesus is God, or a son of God to be worshipped. And it argues the point not by mocking those who hold it, but with calm argument; these two verses are examples of its method:
+Islam denies one thing at root: that Jesus is God, or the Son of God to be worshipped. It denies the crucifixion with it: the Qur’an states that ʿIsa was neither killed nor crucified, and that Allah raised him to Himself (4:157 and 4:158), and it denies the Trinity in as many words (4:171, 5:73). We know that for a Christian reader the crucifixion is not a historical detail but the heart of the faith, which is exactly why it is named here rather than passed over; which account the evidence supports is a question of texts and history, and it belongs to the “Why Islam?” unit, not to this lesson. And it argues the point not by mocking those who hold it, but with calm argument; these two verses are examples of its method:
 
 ```ayah
 ref: 3:59
