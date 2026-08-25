@@ -4,7 +4,7 @@ description: 'The heaviest question, and the most honest. This lesson does not t
 tags: [problem of evil, suffering, free will, the Hereafter]
 ---
 
-> **The one idea:** the pain is real, and the question is honorable. Its answer is not one word but parts that complete each other: this world is a test, not the settlement; real freedom entails the possibility of real evil; wisdom can be invisible from inside the story; and the Hereafter completes the account. Deleting God removes none of the suffering; it removes only its meaning.
+> **The one idea:** the pain is real, and the question is honorable. Its answer is not one word but parts that complete each other: this world is a test, not the settlement; real freedom entails the possibility of real evil; wisdom can be invisible from inside the story; and the Hereafter completes the account. A universe with no Creator removes none of the suffering; it removes only its meaning.
 
 ## Before any argument: your pain is respected
 
@@ -87,9 +87,9 @@ translation: '“No fatigue, nor illness, nor worry, nor grief, nor harm, nor di
 note: 'In this ledger there is no such thing as wasted pain: even a thorn’s prick does its work in the account.'
 ```
 
-## The turn: what remains of the question if you delete God?
+## The turn: what remains of the question in a universe with no Creator?
 
-Now audition the proposed alternative. Delete God from the picture: the child still gets cancer, the earthquake still strikes, the tyrant still dies unpunished in his bed. Every gram of the suffering remains, but now without meaning, without justice, without repair: no final court awaiting the executioner, no reunion to mend the bereaved mother, no scale that produces the mustard seed. Nothing of the problem was solved; the only things lost were everything that made it bearable.
+Now audition the proposed alternative. Suppose a universe with no Creator: the child still gets cancer, the earthquake still strikes, the tyrant still dies unpunished in his bed. Every gram of the suffering remains, but now without meaning, without justice, without repair: no final court awaiting the executioner, no reunion to mend the bereaved mother, no scale that produces the mustard seed. Nothing of the problem was solved; the only things lost were everything that made it bearable.
 
 And something sharper: the very word “evil” presupposes a standard above tastes and preferences. If there is no measure beyond matter, by what right is blind nature accused of getting anything *wrong*? Suffering becomes an event that occurs, the way a rock falls, not a “problem” one can protest. The argument from evil borrows from its opponent the very scale without which it cannot stand. None of this impugns anyone’s character. There are compassionate, honorable atheists; this is about what grounds the judgment, not about how people behave.
 
@@ -125,7 +125,7 @@ questions:
       - That nothing is ever hidden from prophets
     answer: 0
     why: Musa did not understand until he was told. The lesson asks for something smaller and harder than understanding every wisdom, granting that “I can’t see it” is not evidence of “it isn’t there.”
-  - q: What happens to the problem of suffering if God is deleted from the picture?
+  - q: What happens to the problem of suffering in a universe with no Creator?
     options:
       - All the suffering remains, but loses meaning, justice, and repair; and the word “evil” loses its measuring standard
       - The problem is fully solved because the question dissolves
